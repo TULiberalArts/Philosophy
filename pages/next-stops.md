@@ -4,18 +4,8 @@ permalink: "/next-stops"
 layout: page
 ---
 
-## Heading
-We help connect students with internship and job  opportunities, as well as placement in prestigious master’s and PhD programs
+Temple Philosophy alumni have gone on to study law, medicine, and other graduate studies at  top-ranked universities.They have developed successful professional and academic careers and become social activists, teachers, and journalists. We feature biographies of recent graduates on the department website.
 
-## Our students have secured internships with:
-- Congresswoman Allyson Schwartz
-- Philadelphia Magazine
-- The Please Touch Museum
-- American Lung Association
+Famous philosophy majors include Stephen Breyer (Supreme Court Justice), Mary Higgins Clarke (novelist), Ethan Coen (filmmaker), Stephen Colbert (comedian), Harrison Ford (actor), Dr. Martin  Luther King (civil rights leader), Aung San Suu Kyi (Nobel Peace Prize winner), Susan Sarandon  (actor), Susan Sontag (writer), and many others.
 
-## Recently, our alumni have secured coveted positions with the following employers:
-
-- Patient access representative at St. Luke’s University Health Network
-- Digital media coordinator at Love Beets
-- Therapeutic staff support at Foundations Behavioral Health
-- Teen education coordinator at Kingsbridge Heights Community Center
+For more information about the department, course offerings, and degree programs, contact Dr. Paul Crowe, Director of Undergraduate Studies (pcrowe@temple.edu), Dr. Kristin Gjesdal, Director of Graduate Studies, (kgjesdal@temple.edu), or Dr. Miriam Solomon Department Chair, (msolomon@temple.edu).
