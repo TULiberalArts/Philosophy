@@ -1,11 +1,10 @@
 ---
 # Program/Department Title
-title: Nuclear Energy
+title: Philosophy
 # Site URL (without /)
 url: https://liberalarts.temple.edu
 # Subdirectory (with / at only at beginning)
-baseurl: /nuclearenergy
-
+baseurl: /philosophy
 # Program Information
 # Short tagline for tweets (<100 characters)
 tagline: This is our life's work
@@ -17,7 +16,7 @@ keywords: highered, college, university, philadelphia, Temple
 # Address
 address:
   building: Anderson Hall
-  room: 8th Floor, Room 832
+  room: 7th Floor, Room 728
   street: 1114 Polett Walk
   city: Phialdelphia, PA 19122
 
@@ -28,7 +27,7 @@ social:
   # Facebook - https://facebook.com/USERNAME
   # if your page does not have a custom URL, create one!
   facebook: TempleLiberalArts
-  # Twitter - https://twitter.com/USERNAME
+  # Twitter - twitter.com/TemplePhilo
   twitter: TULiberalArts
   # Instagram - https://www.instagram.com/USERNAME
   instagram: TULiberalArts
