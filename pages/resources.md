@@ -128,4 +128,3 @@ The Department aspires to create a welcoming environment that celebrates diversi
 6. When will I find out if I have been accepted?
 
 Review of completed applications usually begins in mid January. Most decisions are made by the beginning of March.
-
