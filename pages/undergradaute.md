@@ -31,7 +31,7 @@ and Universities (2013)
 
 - BA in Philosophy
 - Minor in Philosophy
-- Certicate in Ethics (for undergraduates with any major or minor)
+- Certificate in Ethics (for undergraduates with any major or minor)
 - Pre-law track with internship and capstone
 - MA in Philosophy
 - Dual degree MA in Philosophy and MA in Urban Bioethics (with the Lewis Katz School of Medicine)
