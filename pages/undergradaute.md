@@ -1,6 +1,6 @@
 ---
 title: Undergraduate
-permalink: "/undergraduate"
+permalink: "/undergraduate/"
 layout: page
 ---
 
@@ -11,16 +11,16 @@ The Global Studies Program is the latest step in the globalization of the Colleg
 
 ## Prepare For Graduate School
 
-Philosophy is an excellent major or minor for those interested in careers in law, medicine, or 
-business. Philosophy majors are extremely high performers on graduate school exams, ranking first 
+Philosophy is an excellent major or minor for those interested in careers in law, medicine, or
+business. Philosophy majors are extremely high performers on graduate school exams, ranking first
 among all majors in combined scores on the GRE, LSAT, and GMAT.
 
 ## Learn The Skills Employers Look For
 
-In a major survey of American employers, 93 percent agreed that “a candidate’s demonstrated 
-capacity to think critically, communicate clearly, and solve complex problems is more important 
-than their undergraduate major.” More than 90 percent placed high value on ethical decision-making, 
-intercultural skills, and interest in continued learning.* These are all skills developed in 
+In a major survey of American employers, 93 percent agreed that “a candidate’s demonstrated
+capacity to think critically, communicate clearly, and solve complex problems is more important
+than their undergraduate major.” More than 90 percent placed high value on ethical decision-making,
+intercultural skills, and interest in continued learning.* These are all skills developed in
 philosophy courses.
 
 *Study by Hart Research Associates for The Association of American Colleges
