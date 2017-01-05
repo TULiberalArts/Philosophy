@@ -35,6 +35,6 @@ and Universities (2013)
 - [Certificate in Ethics](http://bulletin.temple.edu/undergraduate/liberal-arts/philosophy/certificate-ethics/) (for undergraduates with any major or minor)
 - Pre-law track with internship and capstone
 - [MA in Philosophy](http://bulletin.temple.edu/graduate/scd/cla/philosophy-ma/)
-- Dual degree MA in Philosophy and MA in Urban Bioethics (with the Lewis Katz School of Medicine)
+- [Dual degree MA in Philosophy and MA in Urban Bioethics](http://bulletin.temple.edu/graduate/scd/medicine/urban-bioethics-ma/) (with the Lewis Katz School of Medicine)
 - [PhD in Philosophy](http://bulletin.temple.edu/graduate/scd/cla/philosophy-phd/)
-- Dual Degree PhD in Philosophy and MA in Urban Bioethics (with the Lewis Katz School of Medicine)
+- [Dual Degree PhD in Philosophy and MA in Urban Bioethics](http://bulletin.temple.edu/graduate/scd/medicine/urban-bioethics-ma/) (with the Lewis Katz School of Medicine)
