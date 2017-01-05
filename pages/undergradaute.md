@@ -1,7 +1,8 @@
 ---
 title: Undergraduate
-permalink: "/undergraduate/"
+permalink: /undergraduate/
 layout: page
+published: true
 ---
 
 The world is increasingly globalized, with goods, services, people, and ideas traveling across borders more often, and more quickly, than ever before. Temple University and its College of Liberal Arts are also globalizing, offering students a wide array of majors in the social sciences, humanities, and area studies programs in Asian and Latin American studies.
@@ -29,11 +30,11 @@ and Universities (2013)
 
 ## Academic Offerings
 
-- BA in Philosophy
-- Minor in Philosophy
-- Certificate in Ethics (for undergraduates with any major or minor)
+- [BA in Philosophy](http://bulletin.temple.edu/undergraduate/liberal-arts/philosophy/ba-philosophy/)
+- [Minor in Philosophy](http://bulletin.temple.edu/undergraduate/liberal-arts/philosophy/minor-philosophy/)
+- [Certificate in Ethics](http://bulletin.temple.edu/undergraduate/liberal-arts/philosophy/certificate-ethics/) (for undergraduates with any major or minor)
 - Pre-law track with internship and capstone
-- MA in Philosophy
+- [MA in Philosophy](http://bulletin.temple.edu/graduate/scd/cla/philosophy-ma/)
 - Dual degree MA in Philosophy and MA in Urban Bioethics (with the Lewis Katz School of Medicine)
-- PhD in Philosophy
+- [PhD in Philosophy](http://bulletin.temple.edu/graduate/scd/cla/philosophy-phd/)
 - Dual Degree PhD in Philosophy and MA in Urban Bioethics (with the Lewis Katz School of Medicine)
