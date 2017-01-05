@@ -27,7 +27,6 @@ philosophy courses.
 *Study by Hart Research Associates for The Association of American Colleges
 and Universities (2013)
 
-
 ## Academic Offerings
 
 - [BA in Philosophy](http://bulletin.temple.edu/undergraduate/liberal-arts/philosophy/ba-philosophy/)
