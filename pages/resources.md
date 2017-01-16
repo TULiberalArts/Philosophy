@@ -4,7 +4,6 @@ permalink: /resources/
 layout: page
 published: true
 ---
-
 ## Make Your Declaration
 
 The College of Liberal Arts has the largest selection of academic offerings at Temple University.
@@ -36,7 +35,6 @@ When you are ready to apply, submit your application online at [admissions.templ
 - **November 1**: Transfer Deadline for Spring S
 - **November 1**: Transfer Deadline for Spring S
 - **June 1**: Transfer Deadline for Fall Semester
-
 ## Graduate Applicant Information
 
 ## Admissions
