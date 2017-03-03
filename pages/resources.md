@@ -4,6 +4,43 @@ permalink: /resources/
 layout: page
 published: true
 ---
+
+Chair:
+
+Miriam Solomon
+729 Anderson Hall 
+[(215) 204-9629](tel:2152049629)
+[msolomon@temple.edu](mailto:msolomon@temple.edu)
+
+Undergraduate Chair:
+
+Paul Crowe (Undergraduate Advisor) 
+747 Anderson Hall
+[(215) 204–8591](tel:2152048591)
+[pcrowe@temple.edu](mailto:pcrowe@temple.edu)
+
+Graduate Chair:
+
+Dr. Kristin Gjesdal
+[(215) 204-1742](tel:2152041742)
+[kgjesdal@temple.edu](mailto:kgjesdal@temple.edu)
+
+Administrator:
+
+Belinda Wilson
+821 Ritter Annex
+[(215) 204-0472](tel:2152040472)
+[bwilson@temple.edu](maito:bwilson@temple.edu)
+
+Coordinator:
+
+Sonia Lawson
+731 Anderson Hall
+[(215) 204-1742](tel:2152041742)
+[slawson@temple.edu](mailto:slawson@temple.edu)
+
+## Resources are Here to Help!
+
 ## Make Your Declaration
 
 The College of Liberal Arts has the largest selection of academic offerings at Temple University.
