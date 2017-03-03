@@ -1,11 +1,43 @@
 ---
 title: Next Stops
-permalink: "/next-stops/"
+permalink: /next-stops/
 layout: page
+published: true
 ---
 
 Temple Philosophy alumni have gone on to study law, medicine, and other graduate studies at  top-ranked universities.They have developed successful professional and academic careers and become social activists, teachers, and journalists. We feature biographies of recent graduates on the department website.
 
 Famous philosophy majors include Stephen Breyer (Supreme Court Justice), Mary Higgins Clarke (novelist), Ethan Coen (filmmaker), Stephen Colbert (comedian), Harrison Ford (actor), Dr. Martin  Luther King (civil rights leader), Aung San Suu Kyi (Nobel Peace Prize winner), Susan Sarandon  (actor), Susan Sontag (writer), and many others.
 
-For more information about the department, course offerings, and degree programs, contact Dr. Paul Crowe, Director of Undergraduate Studies (pcrowe@temple.edu), Dr. Kristin Gjesdal, Director of Graduate Studies, (kgjesdal@temple.edu), or Dr. Miriam Solomon Department Chair, (msolomon@temple.edu).
+## Make Your Declaration
+
+The College of Liberal Arts has the largest selection of academic offerings at Temple University.
+Our students have the flexibility to explore all of their interests – from the hu- manities and
+social sciences to business and the media arts.
+
+For a complete list of our academic offerings visit [liberalarts.temple.edu](liberalarts.temple.edu).,
+
+## Visit Us!
+
+The Office of Admissions offers tours daily. To register for a tour, please go to [temple.edu/visit](temple.edu/visit).
+
+If you would like to experience the College of Liberal Arts firsthand you can take advantage of the
+various visit opportunities we have throughout the year, including the Liberal Arts Preview Day.
+For more information, please go to: [liberalarts.temple.edu/admissions/visit](liberalarts.temple.edu/admissions/visit).
+
+## Thinking Of Transferring?
+
+The College of Liberal Arts offers a great deal of flexibility to help you accomplish your goals as
+efficiently as possible. To learn more about transferring to Temple, please visit [temple.edu/transfer](temple.edu/transfer).
+
+## Apply
+When you are ready to apply, submit your application online at [admissions.temple.edu/app](dmissions.temple.edu/app).
+
+## Deadlines
+
+- **February 1**: Freshman Application Deadline for Fall Semester 
+- **March 1**: FAFSA Financial Aid Application Deadline 
+- **November 1**: Transfer Deadline for Spring S
+- **November 1**: Transfer Deadline for Spring S
+- **June 1**: Transfer Deadline for Fall Semester
+
