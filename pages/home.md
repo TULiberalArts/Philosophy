@@ -2,6 +2,10 @@
 title: Home
 permalink: "/"
 layout: home
+feature: false
+feature-title: 
+feature-body: 
+feature-image: 
 ---
 
 Philosophy explores life’s big questions about knowledge, existence, and values. What is it to be rational? What is the mind? What is it to be responsible for our actions? What kinds of facts and explanations do the sciences offer? What is the good life? Philosophy students learn to assess claims and
