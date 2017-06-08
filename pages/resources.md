@@ -1,43 +1,44 @@
 ---
 title: Resources
+meta-keywords: 3 or 4 unique for this page
 permalink: /resources/
 layout: page
 published: true
 ---
 
-Chair:
+**Chair:**
 
-Miriam Solomon
-729 Anderson Hall 
-[(215) 204-9629](tel:2152049629)
-[msolomon@temple.edu](mailto:msolomon@temple.edu)
+Miriam Solomon<br>
+729 Anderson Hall<br> 
+[(215) 204-9629](tel:2152049629)<br>
+[msolomon@temple.edu](mailto:msolomon@temple.edu)<br>
 
-Undergraduate Chair:
+**Undergraduate Chair:**
 
-Paul Crowe (Undergraduate Advisor) 
-747 Anderson Hall
-[(215) 204–8591](tel:2152048591)
-[pcrowe@temple.edu](mailto:pcrowe@temple.edu)
+Paul Crowe (Undergraduate Advisor)<br> 
+747 Anderson Hall<br>
+[(215) 204–8591](tel:2152048591)<br>
+[pcrowe@temple.edu](mailto:pcrowe@temple.edu)<br>
 
-Graduate Chair:
+**Graduate Chair:**
 
-Dr. Kristin Gjesdal
-[(215) 204-1742](tel:2152041742)
-[kgjesdal@temple.edu](mailto:kgjesdal@temple.edu)
+Dr. Kristin Gjesdal<br>
+[(215) 204-1742](tel:2152041742)<br>
+[kgjesdal@temple.edu](mailto:kgjesdal@temple.edu)<br>
 
-Administrator:
+**Administrator:**
 
-Belinda Wilson
-821 Ritter Annex
-[(215) 204-0472](tel:2152040472)
-[bwilson@temple.edu](maito:bwilson@temple.edu)
+Belinda Wilson<br>
+821 Ritter Annex<br>
+[(215) 204-0472](tel:2152040472)<br>
+[bwilson@temple.edu](maito:bwilson@temple.edu)<br>
 
-Coordinator:
+**Coordinator:**
 
-Sonia Lawson
-731 Anderson Hall
-[(215) 204-1742](tel:2152041742)
-[slawson@temple.edu](mailto:slawson@temple.edu)
+Sonia Lawson<br>
+731 Anderson Hall<br>
+[(215) 204-1742](tel:2152041742)<br>
+[slawson@temple.edu](mailto:slawson@temple.edu)<br>
 
 ## Resources are Here to Help!
 
