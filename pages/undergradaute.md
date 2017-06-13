@@ -4,8 +4,41 @@ meta-keywords: 3 or 4 unique for this page
 permalink: /undergraduate/
 layout: page
 published: true
----
+sidebar: true
+sidebar-content: 
+    <div class="course-box">
+        <b>Contact:</b>
+        <ul>
+        <b>Chair:</b><br/>
+          Miriam Solomon<br/>
+    729 Anderson Hall<br/>
+    <a href="tel:2152049629">(215) 204-9629</a><br/>
+    <a href="mailto:msolomon@temple.edu">msolomon@temple.edu</a><br/>
+    &nbsp;<br/> 
 
+    <b>Undergraduate Advisor:</b><br/>
+    Paul Crowe<br/>
+    747 Anderson Hall<br/>
+    <a href="tel:2152048591">(215) 204-8591</a><br/>
+    <a href="mailto:pcrowe@temple.edu">pcrowe@temple.edu</a><br/>
+      &nbsp;<br/>
+
+    <b>Administrator:</b><br/>
+    Belinda Wilson<br/>
+    821 Ritter Annex<br/>
+    <a href="tel:2152040472">(215) 204-0472</a><br/>
+    <a href="mailto:bwilson@temple.edu">bwilson@temple.edu</a><br/>
+      &nbsp;<br/>
+
+    <b>Coordinator:</b><br/>
+    Sonia Lawson<br/>
+    731 Anderson Hall<br/>
+    <a href="tel:2152041742">(215) 204-1742</a><br/>
+    <a href="mailto:slawson@temple.edu">slawson@temple.edu</a><br/>
+      &nbsp;<br/>
+      </ul>
+      </div>
+---
 The world is increasingly globalized, with goods, services, people, and ideas traveling across borders more often, and more quickly, than ever before. Temple University and its College of Liberal Arts are also globalizing, offering students a wide array of majors in the social sciences, humanities, and area studies programs in Asian and Latin American studies.
 
 The Global Studies Program is the latest step in the globalization of the College of Liberal Arts.  Starting in the Fall of 2015, Temple undergraduates can declare a major in Global Studies – an interdisciplinary program bringing together coursework from across a dozen departments, focused on the study of Global Security, Global Economy, and Global Cultures, and complemented by intensive language instruction and study abroad options.
