@@ -3,40 +3,44 @@ title: Graduate
 meta-keywords: 3 or 4 unique for this page
 permalink: "/graduate/"
 layout: page
+published: true
 sidebar: true
-sidebar-content: 
-    <div class="course-box">
-        <b>Contact:</b>
-        <ul>
-        <b>Chair:</b><br/>
-          Miriam Solomon<br/>
-    729 Anderson Hall<br/>
-    <a href="tel:2152049629">(215) 204-9629</a><br/>
-    <a href="mailto:msolomon@temple.edu">msolomon@temple.edu</a><br/>
-    &nbsp;<br/> 
+sidebar-content: > #
+  ### Contact Us
 
-    <b>Graduate Advisor:</b><br/>
-    Dr. Kristin Gjesdal<br/>
-    <a href="tel:2152041742">(215) 204-1742</a><br/>
-    <a href="mailto:kgjesdal@temple.edu">kgjesdal@temple.edu</a><br/>
-      &nbsp;<br/>
+  <hr>
 
-    <b>Administrator:</b><br/>
-    Belinda Wilson<br/>
-    821 Ritter Annex<br/>
-    <a href="tel:2152040472">(215) 204-0472</a><br/>
-    <a href="mailto:bwilson@temple.edu">bwilson@temple.edu</a><br/>
-      &nbsp;<br/>
+  **Chair:**<br/>
+  Miriam Solomon<br/>
+  729 Anderson Hall<br/>
+  [(215) 204-9629](tel:2152049629)<br/>
+  [msolomon@temple.edu](mailto:msolomon@temple.edu)<br/>
 
-    <b>Coordinator:</b><br/>
-    Sonia Lawson<br/>
-    731 Anderson Hall<br/>
-    <a href="tel:2152041742">(215) 204-1742</a><br/>
-    <a href="mailto:slawson@temple.edu">slawson@temple.edu</a><br/>
-      &nbsp;<br/>
-      </ul>
-      </div>
+  <hr>
+
+  **Graduate Advisor:**<br/>
+  Dr. Kristin Gjesdal<br/>
+  747 Anderson Hall<br/>
+  [(215) 204-1742](tel:2152041742)<br/>
+  [kgjesdal@temple.edu](mailto:kgjesdal@temple.edu)<br/>
+
+  <hr>
+
+  **Administrator:**<br/>
+  Belinda Wilson<br/>
+  821 Ritter Annex<br/>
+  [(215) 204-0472](tel:2152040472)<br/>
+  [bwilson@temple.edu](mailto:bwilson@temple.edu)<br/>
+  
+    <hr>
+
+  **Coordinator:**<br/>
+  Sonia Lawson<br/>
+  731 Anderson Hall<br/>
+  [(215) 204-1742](tel:2152041742)<br/>
+  [slawson@temple.edu](mailto:slawson@temple.edu)<br/>
 ---
+
 Welcome to Temple’s graduate program in Philosophy! We are a community of around 35 MA and PhD students and a cohesive group of faculty working across the traditions of Anglo-American and European philosophy, contemporary issues and historical scholarship. Granting its first PhD in 1971, Temple’s graduate program has a proud history, situated in the vibrant, urban environment of Philadelphia—a city just ranked a number one designation by Lonely Planet.
 
 Our international faculty and student body reflect the diversity of Temple’s campus and we are especially proud to have earned a ranking amongst American philosophy programs with the most women graduates. There are Temple graduates teaching in Europe, the US, Asia, and the rest of the world. In spite of a difficult job market, our graduates keep being successful in securing academic and philosophy related non-academic positions.
