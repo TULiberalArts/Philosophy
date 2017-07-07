@@ -6,39 +6,35 @@ layout: page
 published: true
 sidebar: true
 sidebar-content: > #
-  ### Contact Us
+  **Chair:**  
+   Miriam Solomon  
+   729 Anderson Hall  
+   [(215) 204-9629](tel:2152049629)  
+   [msolomon@temple.edu](mailto:msolomon@temple.edu)  
+   
+   ___
+   
+   **Undergraduate Advisor:**  
+   Paul Crowe  
+   747 Anderson Hall  
+   [(215) 204-8591](tel:2152048591)  
+   [pcrowe@temple.edu](mailto:pcrowe@temple.edu)  
+   
+   ___
+   
+   **Administrator:**  
+   Belinda Wilson  
+   821 Ritter Annex   
+   [(215) 204-0472](tel:2152040472)  
+   [bwilson@temple.edu](mailto:bwilson@temple.edu)  
+   
+   ___
 
-  <hr>
-
-  **Chair:**<br/>
-  Miriam Solomon<br/>
-  729 Anderson Hall<br/>
-  [(215) 204-9629](tel:2152049629)<br/>
-  [msolomon@temple.edu](mailto:msolomon@temple.edu)<br/>
-
-  <hr>
-
-  **Undergraduate Advisor:**<br/>
-  Paul Crowe<br/>
-  747 Anderson Hall<br/>
-  [(215) 204-8591](tel:2152048591)<br/>
-  [pcrowe@temple.edu](mailto:pcrowe@temple.edu)<br/>
-
-  <hr>
-
-  **Administrator:**<br/>
-  Belinda Wilson<br/>
-  821 Ritter Annex<br/>
-  [(215) 204-0472](tel:2152040472)<br/>
-  [bwilson@temple.edu](mailto:bwilson@temple.edu)<br/>
-  
-    <hr>
-
-  **Coordinator:**<br/>
-  Sonia Lawson<br/>
-  731 Anderson Hall<br/>
-  [(215) 204-1742](tel:2152041742)<br/>
-  [slawson@temple.edu](mailto:slawson@temple.edu)<br/>
+   **Coordinator:**  
+   Sonia Lawson  
+   731 Anderson Hall    
+   [(215) 204-1742](tel:2152041742)   
+   [slawson@temple.edu](mailto:slawson@temple.edu)  
 ---
 
 The world is increasingly globalized, with goods, services, people, and ideas traveling across borders more often, and more quickly, than ever before. Temple University and its College of Liberal Arts are also globalizing, offering students a wide array of majors in the social sciences, humanities, and area studies programs in Asian and Latin American studies.
