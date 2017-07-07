@@ -30,7 +30,7 @@ sidebar-content: > #
    
    ___
 
-   **Coordinators:**  
+   **Coordinator:**  
    Sonia Lawson  
    731 Anderson Hall    
    [(215) 204-1742](tel:2152041742)   
