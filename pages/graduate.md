@@ -6,39 +6,35 @@ layout: page
 published: true
 sidebar: true
 sidebar-content: > #
-  ### Contact Us
+  **Chair:**  
+   Miriam Solomon  
+   729 Anderson Hall  
+   [(215) 204-9629](tel:2152049629)  
+   [msolomon@temple.edu](mailto:msolomon@temple.edu)  
+   
+   ___
+   
+   **Graduate Advisor:**  
+   Dr. Kristin Gjesdal  
+   747 Anderson Hall  
+   [(215) 204-1742](tel:152041742)  
+   [kgjesdal@temple.edu](mailto:kgjesdal@temple.edu)  
+   
+   ___
+   
+   **Administrator:**  
+   Belinda Wilson  
+   821 Ritter Annex   
+   [(215) 204-0472](tel:2152040472)  
+   [bwilson@temple.edu](mailto:bwilson@temple.edu)  
+   
+   ___
 
-  <hr>
-
-  **Chair:**<br/>
-  Miriam Solomon<br/>
-  729 Anderson Hall<br/>
-  [(215) 204-9629](tel:2152049629)<br/>
-  [msolomon@temple.edu](mailto:msolomon@temple.edu)<br/>
-
-  <hr>
-
-  **Graduate Advisor:**<br/>
-  Dr. Kristin Gjesdal<br/>
-  747 Anderson Hall<br/>
-  [(215) 204-1742](tel:2152041742)<br/>
-  [kgjesdal@temple.edu](mailto:kgjesdal@temple.edu)<br/>
-
-  <hr>
-
-  **Administrator:**<br/>
-  Belinda Wilson<br/>
-  821 Ritter Annex<br/>
-  [(215) 204-0472](tel:2152040472)<br/>
-  [bwilson@temple.edu](mailto:bwilson@temple.edu)<br/>
-  
-    <hr>
-
-  **Coordinator:**<br/>
-  Sonia Lawson<br/>
-  731 Anderson Hall<br/>
-  [(215) 204-1742](tel:2152041742)<br/>
-  [slawson@temple.edu](mailto:slawson@temple.edu)<br/>
+   **Coordinators:**  
+   Sonia Lawson  
+   731 Anderson Hall    
+   [(215) 204-1742](tel:2152041742)   
+   [slawson@temple.edu](mailto:slawson@temple.edu)  
 ---
 
 Welcome to Temple’s graduate program in Philosophy! We are a community of around 35 MA and PhD students and a cohesive group of faculty working across the traditions of Anglo-American and European philosophy, contemporary issues and historical scholarship. Granting its first PhD in 1971, Temple’s graduate program has a proud history, situated in the vibrant, urban environment of Philadelphia—a city just ranked a number one designation by Lonely Planet.
