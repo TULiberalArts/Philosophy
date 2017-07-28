@@ -5,7 +5,7 @@ permalink: /undergraduate/
 layout: page
 published: true
 sidebar: true
-sidebar-content: > #
+sidebar-content: |
   **Chair:**  
    Miriam Solomon  
    729 Anderson Hall  
@@ -34,7 +34,7 @@ sidebar-content: > #
    Sonia Lawson  
    731 Anderson Hall    
    [(215) 204-1742](tel:2152041742)   
-   [slawson@temple.edu](mailto:slawson@temple.edu)  
+   [slawson@temple.edu](mailto:slawson@temple.edu)
 ---
 
 The world is increasingly globalized, with goods, services, people, and ideas traveling across borders more often, and more quickly, than ever before. Temple University and its College of Liberal Arts are also globalizing, offering students a wide array of majors in the social sciences, humanities, and area studies programs in Asian and Latin American studies.
@@ -53,10 +53,10 @@ In a major survey of American employers, 93 percent agreed that “a candidate�
 capacity to think critically, communicate clearly, and solve complex problems is more important
 than their undergraduate major.” More than 90 percent placed high value on ethical decision-making,
 intercultural skills, and interest in continued learning.* These are all skills developed in
-philosophy courses.
-
-*Study by Hart Research Associates for The Association of American Colleges
+philosophy courses. *Study by Hart Research Associates for The Association of American Colleges
 and Universities (2013)
+
+When you are ready to apply, submit your application online at (admissions.temple.edu/apply)[http://admissions.temple.edu/apply].
 
 ## Academic Offerings
 
