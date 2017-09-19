@@ -18,11 +18,11 @@ Please send all electronic materials as attachments in a single email to [philgr
 
 All hardcopies of original transcripts should be sent to:
 
-Department of Philosophy
-Temple University
-728 Anderson Hall
-1114 W. Berks Street
-Philadelphia, PA, 19122
+Department of Philosophy<br>
+Temple University<br>
+728 Anderson Hall<br>
+1114 W. Berks Street<br>
+Philadelphia, PA, 19122<br>
 
 For further assistance, please contact the Department Coordinator, Sonia Lawson at (215)-204-1742, or the Director of Graduate Studies, Dr. Kristin Gjesdal at [kgjesdal@temple.edu](kgjesdal@temple.edu).
 
