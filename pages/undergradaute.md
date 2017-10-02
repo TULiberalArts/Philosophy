@@ -35,11 +35,6 @@ sidebar-content: |
    [(215) 204-1742](tel:2152041742)   
    [slawson@temple.edu](mailto:slawson@temple.edu)
 ---
-## What Can I Do With a Philosophy Degree?
-Beyond the personal satisfaction gained by addressing the most basic questions confronting the human mind, studying philosophy in college helps you develop a strong foundation in the skills you need for success in any professional career.  The ability to analyze a problem and argue coherently toward a solution is the most important and universal skill you will gain through a college education. All academic disciplines employ these skills, philosophy students practice them in a more wide-ranging and penetrating fashion. As a result, philosophy majors find success in all occupations. In a 2013 study, employers rank critical thinking skills as the number one thing they look for in employee. Philosophy majors also excel on graduate and professional exams. 
-
-[Read More about What Our Graduates are Doing](http://develop.cla.temple.edu/philosophy/next-stops/)
-
 ## BA in Philosophy
 As part of the College of Liberal Arts at Temple University, our BA in Philosophy program provides undergraduates with the strong critical thinking skills, analytical thinking skills and solid verbal and written communication skills. Majoring in philosophy is flexible by design; it easily accommodates study abroad programs and internships. Whether you are interested in the philosophical origins of America, morality and law or the work of German existentialist Nietzsche, our faculty works with you to design an academic plan that ignites your curiosity.
 
@@ -56,14 +51,13 @@ If you register for the certificate program, you will learn essential concepts, 
 [Learn More about the the Certificate in Ethics](http://bulletin.temple.edu/undergraduate/liberal-arts/philosophy/certificate-ethics/)
 
 ## Thinking About Law School? Major in Philosophy!
-If you plan on going to law school, our department offers courses a BA in Philosophy with a Pre-Law Emphasis. Philosophy majors have higher rates of admission to law school than other majors - they also earn some of the [best LSAT scores](http://www.nationaljurist.com/prelaw/classics-philosophy-majors-do-best-when-it-comes-getting-law-school). Even better than a straight philosophy major though is our philosophy major with a pre-law emphasis. If you choose this option, you will work with your advisor and take courses that include "Philosophy of Law" and "History of Philosophy:Greek". Pre-law students also participate in internships to prepare for law school and careers in the legal field. 
+If you plan on going to law school, our department offers courses a BA in Philosophy with a Pre-Law Emphasis. Philosophy majors have higher rates of admission to law school than other majors - they also earn some of the [best LSAT scores](http://www.nationaljurist.com/prelaw/classics-philosophy-majors-do-best-when-it-comes-getting-law-school). Even better than a straight philosophy major though is our philosophy major with a pre-law emphasis. Pre-law students also participate in internships to prepare for law school and careers in the legal field. 
 
 - [Learn More about the BA in Philosophy with a Pre-Law Emphasis](http://bulletin.temple.edu/undergraduate/liberal-arts/philosophy/ba-philosophy/#academicplanstext)
 - [Learn More about Pre-Law at Temple University](http://develop.cla.temple.edu/pre-law/undergraduate/)
 
-## Philosophy Courses for Pre-Meds and Pre-Health Professionals
-Philosophy courses can enrich preparation for pre-medical and pre-health professional training, and provide a valuable foundation in professional ethics. Here are a few courses that are particularly appropriate. 
-The Philosophy Department offers several courses which are particularly useful for pre-med and pre-health professionals: Ethics in Medicine, Philosophy of Medicine, Philosophy of Biology and Philosophy of Science. Read the brochure here: Philosophy for Pre-Med and Pre-Health.
+## Studying Philosophy as a Pre-Med Student
+These days, getting into medical school or entering the healthcare field is just as possible with a liberal arts degree as it is with a degree in biology or chemistry. Humanities majors not only score well on the MCAT, but they tend to do better as a group than biological sciences majors. Gain a valuable foundation in professional ethics by taking courses that include "Ethics in Medicine" and "Philosophy of Science" at our department. 
 
 ## Academic Advising and Professional Development
 Take full advantage of the College of Liberal Arts’ flexible curriculum with the help of our award-winning advisors. We will help you select a major or minor, and graduate on time. Beyond academics, our advisors ensure that you have a rich experience at Temple by complementing your academic work with study abroad programs, internships and other experiential learning opportunities. 
@@ -71,6 +65,7 @@ Take full advantage of the College of Liberal Arts’ flexible curriculum with t
 
 ## Fly in Four
 Take charge of your future and limit your debt. The Fly in 4 partnership allows you to complete your degree on time — or Temple will pay for your remaining course work. Graduating on time means your path to success starts sooner. We provide you with the resources you need to graduate in four years, like academic advising and classes offered when you need them. You commit to doing what it takes to blaze your career path in four years.
+
 [Learn How to Fly in Four](http://fly.temple.edu/)
 
 ## Tuition and Fees
