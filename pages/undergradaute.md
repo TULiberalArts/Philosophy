@@ -61,6 +61,7 @@ These days, getting into medical school or entering the healthcare field is just
 
 ## Academic Advising and Professional Development
 Take full advantage of the College of Liberal Arts’ flexible curriculum with the help of our award-winning advisors. We will help you select a major or minor, and graduate on time. Beyond academics, our advisors ensure that you have a rich experience at Temple by complementing your academic work with study abroad programs, internships and other experiential learning opportunities. 
+
 [Learn More About Our Advising Staff](https://liberalarts.temple.edu/advising)
 
 ## Fly in Four
