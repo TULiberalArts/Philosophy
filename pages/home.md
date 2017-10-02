@@ -26,7 +26,7 @@ Department of Philosophy faculty have special strengths in the following
 <div class="row row-wide">
   <div class="col m12 l4">{% include cards/card2-image.html 
     title="Philosophy Research Services at Paley Library" 
-    content="Explore library resources for philosophy students at Pale Library. " 
+    content="The world-class philosophy resources at Paley Library support the research, teaching and learning needs of Temple students and faculty." 
     image="" 
     button-link="http://guides.temple.edu/philosophy " 
     button-text="Learn More" %}
@@ -34,7 +34,7 @@ Department of Philosophy faculty have special strengths in the following
   <div class="row row-wide">
     <div class="col m12 l4">{% include cards/card2-image.html 
       title="Earn an Undergraduate Certificate in Ethics" 
-      content="The Certificate in Ethics educate students in essential concepts, central issues, history, and methodologies of ethical reasoning. It also emphasizes the development of critical thinking, writing and verbal skills.  " 
+      content="The Certificate in Ethics educate students in essential concepts, central issues, history, and methodologies of ethical reasoning. It also emphasizes the development of critical thinking, writing and verbal skills." 
       image="" 
       button-link=" " 
       button-text="Learn More" %}
@@ -42,7 +42,7 @@ Department of Philosophy faculty have special strengths in the following
     <div class="row row-wide">
       <div class="col m12 l4">{% include cards/card2-image.html 
         title="The Center for Vietnamese Philosophy, Culture and Society" 
-        content="The Center sponsors a range of programs on Vietnam's rich heritage of philosophy and culture including conferences, colloquia, classes, a research library, and courses in the Vietnamese language." 
+        content="The Center sponsors programs. conferences, research and courses on Vietnam's rich heritage of philosophy and culture." 
         image="" 
         button-link="http://www.cla.temple.edu/vietnamese_center/welcome.html" 
         button-text="Learn More" %}
