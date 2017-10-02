@@ -34,7 +34,7 @@ Department of Philosophy faculty have special strengths in the following
   <div class="row row-wide">
     <div class="col m12 l4">{% include cards/card2-image.html 
       title="Earn an Undergraduate Certificate in Ethics" 
-      content="The Certificate in Ethics educate students in essential concepts, central issues, history, and methodologies of ethical reasoning. It also emphasizes the development of critical thinking, writing and verbal skills." 
+      content="The Certificate in Ethics educate students in essential concepts, central issues, history, and methodologies of ethical reasoning." 
       image="" 
       button-link=" " 
       button-text="Learn More" %}
