@@ -1,8 +1,6 @@
 ---
 title: Undergraduate
 permalink: /undergraduate/
-description: >-
-keywords: ''
 layout: page
 published: true
 sidebar: true
@@ -37,60 +35,59 @@ sidebar-content: |
    [(215) 204-1742](tel:2152041742)   
    [slawson@temple.edu](mailto:slawson@temple.edu)
 ---
-## Prepare For Graduate School
+## What Can I Do With a Philosophy Degree?
+Beyond the personal satisfaction gained by addressing the most basic questions confronting the human mind, studying philosophy in college helps you develop a strong foundation in the skills you need for success in any professional career.  The ability to analyze a problem and argue coherently toward a solution is the most important and universal skill you will gain through a college education. All academic disciplines employ these skills, philosophy students practice them in a more wide-ranging and penetrating fashion. As a result, philosophy majors find success in all occupations. In a 2013 study, employers rank critical thinking skills as the number one thing they look for in employee. Philosophy majors also excel on graduate and professional exams. 
 
-Philosophy is an excellent major or minor for those interested in careers in law, medicine, or
-business. Philosophy majors are extremely high performers on graduate school exams, ranking first
-among all majors in combined scores on the GRE, LSAT, and GMAT.
+[Read More about What Our Graduates are Doing](http://develop.cla.temple.edu/philosophy/next-stops/)
 
-## Learn The Skills Employers Look For
+## BA in Philosophy
+As part of the College of Liberal Arts at Temple University, our BA in Philosophy program provides undergraduates with the strong critical thinking skills, analytical thinking skills and solid verbal and written communication skills. Majoring in philosophy is flexible by design; it easily accommodates study abroad programs and internships. Whether you are interested in the philosophical origins of America, morality and law or the work of German existentialist Nietzsche, our faculty works with you to design an academic plan that ignites your curiosity.
 
-In a major survey of American employers, 93 percent agreed that “a candidate’s demonstrated
-capacity to think critically, communicate clearly, and solve complex problems is more important
-than their undergraduate major.” More than 90 percent placed high value on ethical decision-making,
-intercultural skills, and interest in continued learning.* These are all skills developed in
-philosophy courses. *Study by Hart Research Associates for The Association of American Colleges
-and Universities (2013)
+[Learn More about Majoring in Philosophy](http://bulletin.temple.edu/undergraduate/liberal-arts/philosophy/ba-philosophy/)
 
-## What Can I Do With Philosophy?
+## Minor in Philosophy
+If you minor in Philosophy, you will develop a solid foundation for a career in fields that include business, government, law and medicine. In addition, our minor is excellent preparation for professional schools (like law) or as a foundation for the further study of philosophy. Whether you plan to become a lawyer, teacher or doctor, a minor in philosophy allows you to develop communication and reasoning skills.  In addition, studying philosophy is rewarding, and adds interdisciplinary depth to other college majors.
 
-Not surprisingly then, beyond the personal satisfaction gained by addressing the most basic questions confronting the human mind, the philosophy program gives a strong foundation in those skills necessary for any professional career: strong critical and analytical thinking skills as well as the communication and organizational skills to go with them. The ability to analyze a problem into its fundamental components and then argue coherently and convincingly towards a solution to that problem, is surely the most universal skill and what college level education is all about. While all fields of study employ these skills with respect to the particular problems with which they are concerned, philosophy practices those skills in a much more wide-ranging and penetrating fashion.  As a result, philosophy majors find success in all walks of life.
+[Learn More about Minoring in Philosophy](http://bulletin.temple.edu/undergraduate/liberal-arts/philosophy/minor-philosophy/)
 
-When you are ready to apply, submit your application online at (admissions.temple.edu/apply)[http://admissions.temple.edu/apply].
+## Undergraduate Certificate in Ethics
+If you register for the certificate program, you will learn essential concepts, central issues, history and methodologies of ethical reasoning. The program also emphasizes the development of critical thinking skills, writing skills and verbal skills. You will be prepared for professional life by learning how to follow and define ethical guidelines and codes of conduct. The Certificate in Ethics is a program of study that may be completed while pursuing any undergraduate degree or minor at Temple. Completing the certificate shows employers that you are ready and committed to ethical leadership. Contact [Paul Crow](mailto:pcrowe@temple.edu) to register. 
+
+[Learn More about the the Certificate in Ethics](http://bulletin.temple.edu/undergraduate/liberal-arts/philosophy/certificate-ethics/)
+
+## Thinking About Law School? Major in Philosophy!
+If you plan on going to law school, our department offers courses a BA in Philosophy with a Pre-Law Emphasis. Philosophy majors have higher rates of admission to law school than other majors - they also earn some of the [best LSAT scores](http://www.nationaljurist.com/prelaw/classics-philosophy-majors-do-best-when-it-comes-getting-law-school). Even better than a straight philosophy major though is our philosophy major with a pre-law emphasis. If you choose this option, you will work with your advisor and take courses that include "Philosophy of Law" and "History of Philosophy:Greek". Pre-law students also participate in internships to prepare for law school and careers in the legal field. 
+
+- [Learn More about the BA in Philosophy with a Pre-Law Emphasis](http://bulletin.temple.edu/undergraduate/liberal-arts/philosophy/ba-philosophy/#academicplanstext)
+- [Learn More about Pre-Law at Temple University](http://develop.cla.temple.edu/pre-law/undergraduate/)
+
+## Philosophy Courses for Pre-Meds and Pre-Health Professionals
+Philosophy courses can enrich preparation for pre-medical and pre-health professional training, and provide a valuable foundation in professional ethics. Here are a few courses that are particularly appropriate. 
+The Philosophy Department offers several courses which are particularly useful for pre-med and pre-health professionals: Ethics in Medicine, Philosophy of Medicine, Philosophy of Biology and Philosophy of Science. Read the brochure here: Philosophy for Pre-Med and Pre-Health.
+
+## Academic Advising and Professional Development
+Take full advantage of the College of Liberal Arts’ flexible curriculum with the help of our award-winning advisors. We will help you select a major or minor, and graduate on time. Beyond academics, our advisors ensure that you have a rich experience at Temple by complementing your academic work with study abroad programs, internships and other experiential learning opportunities. 
+[Learn More About Our Advising Staff](https://liberalarts.temple.edu/advising)
+
+## Fly in Four
+Take charge of your future and limit your debt. The Fly in 4 partnership allows you to complete your degree on time — or Temple will pay for your remaining course work. Graduating on time means your path to success starts sooner. We provide you with the resources you need to graduate in four years, like academic advising and classes offered when you need them. You commit to doing what it takes to blaze your career path in four years.
+[Learn How to Fly in Four](http://fly.temple.edu/)
+
+## Tuition and Fees
+For more than 125 years, we have focused on providing a world-class education at an affordable price. Just compare Temple to other comparable universities and see what we mean. Temple tuition rates vary by school or college, student level, residency status, and more. Use the Temple tuition calculator to estimate your tuition rate.
+
+[Temple Tuition Calculator](https://bursar.temple.edu/tuition-and-fees/tuition-rates)
+
+## Financial Aid and Scholarships
+At Temple, we believe that students from all walks of life should have access to a college education. If you need help paying for your education, you aren’t alone. Most students receive some form of financial aid to fund their education. About 60% of first-year Temple students receive need-based financial aid, and the average first-year financial aid package is about $15,000. Eligible students receive financial assistance from federal, sate, private and university sources. Explore your financial aid options and apply early to make your college education an affordable experience.  
+[Student Financial Services](https://sfs.temple.edu/financial-aid-types)
+
+## Undergraduate Admissions
+Are you ready to apply? Submit your [application online](http://admissions.temple.edu/apply).
 
 ## Academic Offerings
 
 - [BA in Philosophy](http://bulletin.temple.edu/undergraduate/liberal-arts/philosophy/ba-philosophy/)
 - [Minor in Philosophy](http://bulletin.temple.edu/undergraduate/liberal-arts/philosophy/minor-philosophy/)
-- [Certificate in Ethics](http://bulletin.temple.edu/undergraduate/liberal-arts/philosophy/certificate-ethics/) (for undergraduates with any major or minor)
-- Pre-law track with internship and capstone
-- [MA in Philosophy](http://bulletin.temple.edu/graduate/scd/cla/philosophy-ma/)
-- [Dual degree MA in Philosophy and MA in Urban Bioethics](http://bulletin.temple.edu/graduate/scd/medicine/urban-bioethics-ma/) (with the Lewis Katz School of Medicine)
-- [PhD in Philosophy](http://bulletin.temple.edu/graduate/scd/cla/philosophy-phd/)
-- [Dual Degree PhD in Philosophy and MA in Urban Bioethics](http://bulletin.temple.edu/graduate/scd/medicine/urban-bioethics-ma/) (with the Lewis Katz School of Medicine)
-
-## The Philosophy Major
-
-The Philosophy Department offers a 36-credit B.A. degree program.  The program is designed to provide a solid foundation for various professions in business, government, and professional schools (such as law), as well as an excellent background for the further study of philosophy.
-
-## Philosophy Major with Pre-Law Emphasis
-
-The department makes special provisions for students who have chosen the Philosophy major as preparation for entry into law school. These students follow a path slightly different from that of traditional major with assistance from their advisor. Dr. Paul Crowe is the Director of the Law Scholars Program and the Pre-Law Society, pre-law professional programs in the College of Liberal Arts.
-
-## The Philosophy Minor
-
-The Minor in Philosophy is an excellent way to extend the breadth of your education and the understanding of the world. To minor in philosophy, a minimum of 18 semester hours must be completed.
-
-## Undergraduate Certificate in Ethics
-
-Starting in Fall 2016, the Philosophy Department is offering an undergraduate Certificate in Ethics that requires 12 credits: a required course “Introduction to Ethical Theory” (Philosophy 2121), two courses in applied/professional ethics and a fourth course, either in applied/professional ethics or in ethical theory.  The courses in applied/professional ethics can be taken in any school or department.  This Certificate is open to undergraduates across the University. Paul Crowe (pcrowe@temple.edu) will register students for the certificate.
-
-## Philosophy Courses for Pre-Meds and Pre-Health Professionals
-
-The Philosophy Department offers several courses which are particularly useful for pre-med and pre-health professionals: Ethics in Medicine, Philosophy of Medicine, Philosophy of Biology and Philosophy of Science.  Read the brochure here: [Philosophy for Pre-Med and Pre-Health](http://www.cla.temple.edu/philosophy/files/2015/04/Philosophy-for-Pre-Med-and-Pre-Health.docx).
-
-## Fresh Philosophy
-
-[Fresh Philosophy](http://freshphilosophy.com/) is the Greater Philadelphia Philosophy Consortium’s Undergraduate Online Journal.  It invites submissions from undergraduates and invites applications from prospective editors.
-
-
+- [Certificate in Ethics](http://bulletin.temple.edu/undergraduate/liberal-arts/philosophy/certificate-ethics/)
+- [BA in Philosophy with a Pre-Law Emphasis](http://bulletin.temple.edu/undergraduate/liberal-arts/philosophy/ba-philosophy/#academicplanstext)
