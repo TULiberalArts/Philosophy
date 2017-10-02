@@ -23,13 +23,11 @@ Philosophy majors enjoy careers in careers that range from author to Supreme Cou
 ## Temple Philosophy BA Alums
 Like Temple Owls, Department of Philosophy graduates of turn up everywhere. Here is a partial list of places where our philosophy majors have ended up
 
-April Glaser '12 - [Staff Activist at the Electronic Frontier Foundation](https://sites.temple.edu/humansciences/2014/05/12/temple-made-april-glaser-and-the-eff/)
-Steven Horowitz '09 - JD Harvard University Law School, 2009
-Earl Joseph '11 - [Seventh grade teacher at Mastery Charter School](https://liberalarts.temple.edu/about-us/newsroom/philosophy-alumnus-looks-disrupt-american-education-system)
-Roger Stevens '11 - [JD University of Pennsylvania Law School/founding member of alt rock band _Blind Mellon_](https://en.wikipedia.org/wiki/Rogers_Stevens)
-
-
-
+- April Glaser '12: [Staff Activist at the Electronic Frontier Foundation](https://sites.temple.edu/humansciences/2014/05/12/temple-made-april-glaser-and-the-eff/)
+- Steven Horowitz '09 - JD Harvard University Law School, 2009
+- Earl Joseph '11: [Seventh grade teacher at Mastery Charter School](https://liberalarts.temple.edu/about-us/newsroom/philosophy-alumnus-looks-disrupt-american-education-system)
+- Roger Stevens '11: [JD University of Pennsylvania Law School/founding member of alt rock band _Blind Mellon_](https://en.wikipedia.org/wiki/Rogers_Stevens)
+- Janelle Derstine '99: PhD student at the Department of Philosophy, Rugers University
 
 
 ## Make Your Declaration
