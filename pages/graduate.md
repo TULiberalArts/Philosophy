@@ -45,7 +45,21 @@ Temple’s faculty members are internationally acclaimed in key philosophical ar
 ## MA in Philosophy
 Temple’s Department of Philosophy has strengths in several areas of philosophical study. The department has a rich history and continuing presence in the field of aesthetics as Monroe Beardsley and John Fisher were in the department for many years. The department also has expertise in European philosophy, epistemology, feminist philosophy, philosophy of mind, philosophy of race, and philosophy of science.
 
-The M.A. program is designed for students to begin advanced training in the field of Philosophy. Students may plan to continue with a Ph.D. program elsewhere, or may be satisfied with a master's degree for personal enrichment or for pre-college teaching. Students who plan at the outset to pursue the Ph.D. at Temple should apply to the Ph.D. The M.A. can be earned on the way to the Ph.D., if desired.
+The M.A. program is designed for students to begin advanced training in the field of Philosophy. Students may plan to continue with a Ph.D. program elsewhere, or may be satisfied with a master's degree for personal enrichment or for pre-college teaching. Students who plan at the outset to pursue the Ph.D. at Temple should apply to the Ph.D. The M.A. can be earned on the way to the Ph.D., if desired. M.A. graduates often find employment as teachers in community colleges and in other professions. For university teaching, the Ph.D. is necessary.
 
-Learn More about the MA in Philosophy
+[Learn More about the MA in Philosophy](http://bulletin.temple.edu/graduate/scd/cla/philosophy-ma/)
 
+## MA or PhD in Philosophy/Masters in Urban Bioethics Dual Degree Programs
+The aim of the dual degree programs is to provide (a) Philosophy PhD or MA students with specialized training in the ethics, values, and politics of health in our increasingly multi-dimensionally diverse society and (b) Urban Bioethics students with a broader understanding of the philosophical underpinnings of contemporary bioethics. The dual degree programs blend the missions and values of philosophy and urban bioethics and will prepare students with the depth of training and expertise to enable them to be competitive as they move towards being future leaders in academia, public spheres, and health care.
+
+Students must apply to and be accepted by each program separately (PhD Philosophy application due January 15, MA Philosophy application due March 1; MA Urban Bioethics application with rolling admissions) and indicate within each application their intention to pursue a dual degree. The two applications require separate application fees, but the programs will share application materials. The dual degree program allows the student to earn both degrees with fewer credits than if each degree was taken separately. The courses consist of the Urban Bioethics core courses (17 credits) and required courses and electives from the Philosophy Department (21 credits for the MA and 30 for the PhD). It is recommended that dual degree students take both Ethics in Medicine (Philosophy 5249) and Philosophy of Medicine (Philosophy 5218).
+
+## Graduate Certificate in Gender, Sexuality and Women’s Studies
+
+## PhD in Philosophy
+
+blah blah blah 
+
+
+## Teaching and Mentorship
+Our graduate students typically assemble a solid teaching portfolio, working with faculty teaching mentors and the Teaching and Learning Center to build their skills as mentors and educators. We encourage our PhD students to pursue Temple’s Teaching in Higher Education Certificate. Our graduate students also run a mentor program for undergraduates with an interest in philosophy. Beginning in 2016/2017, we acknowledge the graduate student’s contribution to Department life with a graduate student prize for excellence in mentorship and teaching.
