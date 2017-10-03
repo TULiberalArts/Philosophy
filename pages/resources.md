@@ -10,7 +10,7 @@ published: true
 ## Temple Undergraduate Philosophy Society 
 Temple Undergraduate Philosophy Society (TUPS) is a organization at Temple University Main Campus committed to the free and open exchange of philosophical ideas and resources. TUPS meets once a week on Temple's main campus.
 
-(Learn More about TUPS at Temple University)[https://tuphilosophy.wordpress.com/mission/]
+[Learn More about TUPS at Temple University](https://tuphilosophy.wordpress.com/mission/)
 
 ## Philosophy Research Services at Paley Library
 The world-class philosophy resources at Paley Library support the research, teaching and learning needs of Temple students and faculty. Our resources include the Stanford Encyclopedia of Philosophy, the Routledge Encyclopedia of Philosophy, Oxford Reference Online and several major online academic databases devoted to the multidisplinary study of the humanities. 
