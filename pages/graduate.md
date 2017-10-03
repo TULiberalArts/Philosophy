@@ -55,11 +55,16 @@ The aim of the dual degree programs is to provide (a) Philosophy PhD or MA stude
 Students must apply to and be accepted by each program separately (PhD Philosophy application due January 15, MA Philosophy application due March 1; MA Urban Bioethics application with rolling admissions) and indicate within each application their intention to pursue a dual degree. The two applications require separate application fees, but the programs will share application materials. The dual degree program allows the student to earn both degrees with fewer credits than if each degree was taken separately. The courses consist of the Urban Bioethics core courses (17 credits) and required courses and electives from the Philosophy Department (21 credits for the MA and 30 for the PhD). It is recommended that dual degree students take both Ethics in Medicine (Philosophy 5249) and Philosophy of Medicine (Philosophy 5218).
 
 ## Graduate Certificate in Gender, Sexuality and Women’s Studies
+The certificate for graduates focuses on gender and explores central concepts of feminist theory and analysis through coursework. It can be earned at Temple in conjunction with graduate or doctoral work in a wide variety of subjects. The certificate can also be earned through a freestanding course of study not linked to a graduate degree.
+
+[Learn More about the Graduate Certificate](https://liberalarts.temple.edu/academics/graduate/womens-studies-graduate-certificate)
 
 ## PhD in Philosophy
+Temple’s Department of Philosophy has strengths in several areas of philosophical study. The department has a rich history and continuing presence in the field of aesthetics as Monroe Beardsley and John Fisher were in the department for many years. The department also has expertise in European philosophy, epistemology, feminist philosophy, philosophy of mind, philosophy of race, and philosophy of science.
 
-blah blah blah 
+The Ph.D. program is designed to provide students with a breadth of knowledge in Philosophy while emphasizing depth of knowledge through intensive work on particular philosophical issues of interest to the student. The program stresses early development of professional writing standards and oral skills. Ph.D. students are generally given the opportunity to teach courses under the guidance of the department's Teaching Mentoring Program.
 
+[Learn More about the PhD in Philosophy](http://bulletin.temple.edu/graduate/scd/cla/philosophy-phd/)
 
 ## Teaching and Mentorship
 Our graduate students typically assemble a solid teaching portfolio, working with faculty teaching mentors and the Teaching and Learning Center to build their skills as mentors and educators. We encourage our PhD students to pursue Temple’s Teaching in Higher Education Certificate. Our graduate students also run a mentor program for undergraduates with an interest in philosophy. Beginning in 2016/2017, we acknowledge the graduate student’s contribution to Department life with a graduate student prize for excellence in mentorship and teaching.
