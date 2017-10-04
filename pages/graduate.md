@@ -56,7 +56,7 @@ The PhD in philosophy program at Temple provides students with a breadth of know
 [Learn More about the PhD in Philosophy](http://bulletin.temple.edu/graduate/scd/cla/philosophy-phd/)
 
 ## Temple Graduate School Funding
-At Temple, we believe that students from all walks of life should have access to a college education. If you need help paying for graduate school, you aren’t alone. Most students receive some form of financial aid to fund their education. About half of our incoming students receive funding either through the university’s [Graduate Fellowships and Future Faculty Program](http://www.temple.edu/grad/finances/fff_program.htm) or through the Department’s TA-lines. Graduate students are eligible for financial assistance from federal, state, private and university sources. We encourage you to explore all of the opportunities available and apply early to make your education an affordable experience. 
+At Temple, we believe that students from all walks of life should have access to a college education. If you need help paying for graduate school, you aren’t alone. Most students receive some form of financial aid to fund their education. Graduate students are eligible for financial assistance from federal, state, private and university sources. We encourage you to explore all of the opportunities available and apply early to make your education an affordable experience. About half our PhD students receive funding through Temple University's [Fellowships](http://www.temple.edu/grad/finances/fff_program.htm) - graduate assistantships and academic internships are ordinarily reserved for PhD students.
 
 [Student Financial Services](https://sfs.temple.edu/financial-aid-types)
 
@@ -67,5 +67,3 @@ For more than 125 years, we have focused on providing a world-class education at
 
 ## Apply to Temple
 Are you ready to apply? [Submit your application online](https://prd-wlssb.temple.edu/prod8/bwskalog.P_DispLoginNon).
-
-
