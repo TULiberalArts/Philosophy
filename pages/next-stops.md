@@ -1,10 +1,12 @@
 ---
 title: Next Stops
 permalink: /next-stops/
+description: >-
+  Philosophy majors find success in all careers - from law to teaching to medicine. Practice critical thinking, writing and     problem-solving skills. 
+keywords: 'Department of Philosophy, Study Abroad Programs, Famous Philosophy Majors, careers for philosophy majors, pre-law major'
 layout: page
 published: true
 ---
-
 ## What Can I Do With a Degree in Philosophy?
 Beyond the personal satisfaction gained by addressing the most basic questions confronting the human mind, studying philosophy in college helps you develop a strong foundation in the skills you need for success in any professional career. The ability to analyze a problem and argue coherently toward a solution is the most important and universal skill you will gain through a college education. All academic disciplines employ these skills, philosophy students practice them in a more wide-ranging and penetrating fashion. As a result, philosophy majors find success in all occupations. In a [2013 study](https://www.aacu.org/sites/default/files/files/LEAP/2013_EmployerSurvey.pdf), employers rank critical thinking skills as the number one thing they look for in employee. Philosophy majors also excel on [graduate and professional exams](http://blogs.discovermagazine.com/gnxp/2010/12/verbal-vs-mathematical-aptitude-in-academics/#.WdKZo9NSyUl). 
 
