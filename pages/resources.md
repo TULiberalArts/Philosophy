@@ -1,12 +1,12 @@
 ---
 title: Resources
 permalink: /resources/
-layout: page
-keywords: ''
 description: >-
+  Get help with academic resources, student organizations and philosophy research at Temple University Department of             Philosophy. 
+keywords: 'The Greater Philadelphia Philosophy Consortium, philosophy library, Department of Philosophy, Academic Advising'
+layout: page
 published: true
 ---
-
 
 ## Temple Undergraduate Philosophy Society 
 Temple Undergraduate Philosophy Society (TUPS) is a organization at Temple University Main Campus committed to the free and open exchange of philosophical ideas and resources. TUPS meets once a week on Temple's main campus.
@@ -24,7 +24,7 @@ Fresh Philosophy is the Greater Philadelphia Philosophy Consortium’s Undergrad
 [Learn More about Fresh Philosophy](http://www.freshphilosophy.com/)
 
 ## The Greater Philadelphia Philosophy Consortium
-The The Greater Philadelphia Philosophy Consortium (GPPC) is a nonprofit educational organization founded in 1980. GPPC includes 15 member institutions including Temple University and promotes philosophical inquiry into the vital intellectual and social issues of our day.
+The Greater Philadelphia Philosophy Consortium (GPPC) is a nonprofit educational organization founded in 1980. GPPC includes 15 member institutions including Temple University and promotes philosophical inquiry into the vital intellectual and social issues of our day.
 
 [Learn More about the GPPC](http://www.thegppc.org/)
 
