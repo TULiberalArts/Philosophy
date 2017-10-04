@@ -2,6 +2,9 @@
 title: Undergraduate
 permalink: /undergraduate/
 layout: page
+description: >-
+  Major or minor in Philosophy at Temple University in Philadephia. Explore topics like the morality of law to bioethics under   interdisciplinary faculty.  
+keywords: 'BA in philosophy, Department of Philosophy, Major in Philosophy, Minor in Philosophy'
 published: true
 sidebar: true
 sidebar-content: |
