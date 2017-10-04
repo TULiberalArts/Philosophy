@@ -58,9 +58,8 @@ The certificate for graduates focuses on gender and explores central concepts of
 [Learn More about the Graduate Certificate](https://liberalarts.temple.edu/academics/graduate/womens-studies-graduate-certificate)
 
 ## PhD in Philosophy
-The PhD in philosophy program at Temple provides students with a breadth of knowledge in Philosophy while emphasizing depth of knowledge in philosophical issues of interest. Our program provides PhD students with intensive research opportunities and stresses professional writing standards and oral skills. 
+The PhD in philosophy program at Temple provides students with a breadth of knowledge in Philosophy while emphasizing depth of knowledge in philosophical issues of interest. Our program provides PhD students with intensive research opportunities and stresses professional writing standards and oral skills. PhD students usually teach courses under the guidance of the department's Teaching Mentoring Program. 
 
 [Learn More about the PhD in Philosophy](http://bulletin.temple.edu/graduate/scd/cla/philosophy-phd/)
 
-## Teaching and Mentorship
-Our graduate students typically assemble a solid teaching portfolio, working with faculty teaching mentors and the Teaching and Learning Center to build their skills as mentors and educators. We encourage our PhD students to pursue Temple’s Teaching in Higher Education Certificate. Our graduate students also run a mentor program for undergraduates with an interest in philosophy. Beginning in 2016/2017, we acknowledge the graduate student’s contribution to Department life with a graduate student prize for excellence in mentorship and teaching.
+
