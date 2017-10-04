@@ -2,7 +2,7 @@
 title: Graduate
 permalink: /graduate/
 description: >-
-  Earn an MA or PhD in Philosophy at Temple University. We are a small and vibrant community of graduate students and           philosophy faculty in vibrant Philly. 
+  Earn an MA or PhD in Philosophy at Temple University. We are a small and vibrant community of graduate students and           philosophy faculty in vibrant Philly.    
 keywords: 'graduate program in philosophy, MA in philosophy, PhD in philosophy, philosophy fellowships'
 layout: page
 published: true
