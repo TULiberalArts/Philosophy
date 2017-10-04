@@ -71,3 +71,5 @@ For more than 125 years, we have focused on providing a world-class education at
 
 ## Apply to Temple
 Are you ready to apply? [Submit your application online](https://prd-wlssb.temple.edu/prod8/bwskalog.P_DispLoginNon).
+
+
