@@ -36,7 +36,7 @@ sidebar-content: |
    [slawson@temple.edu](mailto:slawson@temple.edu)
 ---
 ## Earn an MA or PhD in Philosophy at Temple University
-Welcome to Temple’s graduate program at Temple's Department of Philosophy! We are a small and vibrant community of around 35 graduate students. Temple’s faculty members are internationally acclaimed in key philosophical areas such as epistemology, philosophy of science, philosophy of language, ethics, pragmatism, aesthetics, feminism, ancient philosophy, early modern and Kant/post-Kantian European philosophy. We have an especially rich history and continuing presence in the field of aesthetics - Monroe Beardsley and John Fisher were former faculty in our department.
+Welcome to Temple’s graduate program at Temple's Department of Philosophy! We are a small and vibrant community of around 35 graduate students. Temple’s faculty members are internationally acclaimed in key philosophical areas that include epistemology, philosophy of science, philosophy of language, ethics, pragmatism, aesthetics, feminism, ancient philosophy, early modern and Kant/post-Kantian European philosophy. We have an especially rich history and continuing presence in the field of aesthetics - Monroe Beardsley and John Fisher were former faculty in our department.
 
 Graduate students in philosophy take courses in non-philosophy programs at Temple that include African American studies, art history, English, religion and psychology. We are associated with the Greater Philadelphia Consortium and MA and PhD students may take graduate courses at UPenn and Villanova University. We also offer a [Graduate Certificate in Gender, Sexuality and Women’s Studies](https://liberalarts.temple.edu/academics/graduate/womens-studies-graduate-certificate). 
 
