@@ -2,7 +2,7 @@
 title: Faculty
 permalink: /faculty/
 description: >-
-  Temple's Department of Philosophy faculty have expertise in aesthetics, feminist philosophy, philosophy of science, ethics     and morality of law.
+  Temple's Department of Philosophy faculty have expertise in aesthetics, feminist philosophy, philosophy of science, ethics     and the morality of law.
 keywords: 'Temple faculty, Temple philosophy faculty, Monroe Beardsley, John Fisher philosophy, temple department of philosophy'
 layout: faculty2
 published: true
