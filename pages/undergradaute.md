@@ -81,6 +81,12 @@ At Temple, we believe that students from all walks of life should have access to
 ## Undergraduate Admissions
 Are you ready to apply? Submit your [application online](http://admissions.temple.edu/apply).
 
+## Temple Admissions Deadlines
+- **February 1**: Freshman Application Deadline for Fall Semester
+- **March 1**: FAFSA Financial Aid Application Deadline
+- **November 1**: Transfer Deadline for Spring Semester
+- **June 1**: Transfer Deadline for Fall Semester
+
 ## Academic Offerings
 
 - [BA in Philosophy](http://bulletin.temple.edu/undergraduate/liberal-arts/philosophy/ba-philosophy/)
