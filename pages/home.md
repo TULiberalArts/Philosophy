@@ -11,7 +11,7 @@ feature: true
 feature-title: null
 feature-image: null
 ---
-## "Dare to think!" — Immanuel Kant
+<center>## "Dare to think!" — Immanuel Kant </center>
 
 ## Understand Yourself and the World by Asking Questions
 Welcome to Temple’s Department of Philosophy! We are a small and vibrant community of philosophy scholars in the vibrant and urban Philadelphia - a historic and cultural mecca. Philosophy explores life’s big questions about knowledge, existence, and values. What is it to be rational? What is the mind? Do we have free will? Does God exist? How do we define health and disease? What is the good life? If you study philosophy at Temple University, you’ll assess these claims and others through interdisciplinary studies in the arts, sciences and humanities. Graduates in philosophy contribute to the fields of law, business, politics, science, secondary and higher education, entertainment and more. Our international faculty and student body reflect the diversity of Temple’s campus and we are especially proud to have earned a ranking amongst American philosophy programs with the most women graduates. 
