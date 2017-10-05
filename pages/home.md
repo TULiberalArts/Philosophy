@@ -3,27 +3,29 @@ title: Home
 permalink: /
 layout: home
 description: >-
-  The Department of Philosophy at Temple University in Philadelphia top undergraduate and graduate programs in philosophy and   ethics. 
-keywords: 'The Department of Philosophy, major in philosophy, Philosophy of law, Feminist Philosophy'
+  The Department of Philosophy at Temple University in Philadelphia top
+  undergraduate and graduate programs in philosophy and   ethics. 
+keywords: >-
+  The Department of Philosophy, major in philosophy, Philosophy of law, Feminist
+  Philosophy
 published: true
 feature: false
 feature-title: null
 feature-image: null
 ---
 ## Understand Yourself and the World by Asking Questions
-Philosophy explores life’s big questions about knowledge, existence, and values. What is it to be rational? What is the mind? Do we have free will? Does God exist? How do we define health and disease? What is the good life? If you study philosophy at Temple University, you'll assess these claims and others through interdisciplinary studies in the arts, sciences and humanities. Philosophy raises fundamental questions about ourselves, resulting in greater understanding about ourselves and the social structures we occupy. Since the 20th century, most professional philosophers contribute their work as professors, researchers and writers. However, many graduates with undergraduate or graduate degrees in philosophy contribute to the fields of law, business, politics, science, entertainment and more. Our international faculty and student body reflect the diversity of Temple’s campus and we are especially proud to have earned a ranking amongst American philosophy programs with the most women graduates.
+Welcome to Temple’s Department of Philosophy! We are a small and vibrant community of philosophy scholars in the vibrant and urban Philadelphia - a historic and cultural mecca. Philosophy explores life’s big questions about knowledge, existence, and values. What is it to be rational? What is the mind? Do we have free will? Does God exist? How do we define health and disease? What is the good life? If you study philosophy at Temple University, you’ll assess these claims and others through interdisciplinary studies in the arts, sciences and humanities. Graduates in philosophy contribute to the fields of law, business, politics, science, secondary and higher education, entertainment and more. Our international faculty and student body reflect the diversity of Temple’s campus and we are especially proud to have earned a ranking amongst American philosophy programs with the most women graduates. 
 
-Department of Philosophy faculty have special strengths in the following
- 
-- Aesthetics
-- European philosophy
-- Greek philosophy
-- American pragmatism
-- Philosophy of medicine
-- Philosophy of science
-- Feminist philosophy
-- Philosophy of law
-- Philosophy of religion
+## Apply to Temple University
+Ready to apply? [Submit your application online](http://admissions.temple.edu/apply)
+
+## Academic Offerings
+- [BA in Philosophy](http://bulletin.temple.edu/undergraduate/liberal-arts/philosophy/ba-philosophy/)
+- [Minor in Philosophy](http://bulletin.temple.edu/undergraduate/liberal-arts/philosophy/minor-philosophy/)
+- [Undergraduate Certificate in Ethics](http://bulletin.temple.edu/undergraduate/liberal-arts/philosophy/certificate-ethics/)
+- [MA in Philosophy](http://bulletin.temple.edu/graduate/scd/cla/philosophy-ma/)
+- [PhD in Philosophy](http://bulletin.temple.edu/graduate/scd/cla/philosophy-phd/)
+
 
 <div class="row row-wide">
   <div class="col m12 l4">{% include cards/card2-image.html 
