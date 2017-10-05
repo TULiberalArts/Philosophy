@@ -8,7 +8,7 @@ description: >-
 keywords: 'The Department of Philosophy, major in philosophy, Philosophy of law, Feminist Philosophy'
 published: true
 feature: true
-feature-title: "Dare to think!" — Immanuel Kant (What is Enlightenment?)
+feature-title: Dare to think! — Immanuel Kant (What is Enlightenment?)
 feature-image: null
 ---
 ## Understand Yourself and the World by Asking Questions
