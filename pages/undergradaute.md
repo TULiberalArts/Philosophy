@@ -4,8 +4,7 @@ permalink: /undergraduate/
 layout: page
 description: >-
   Major or minor in Philosophy at Temple University in Philadephia. Explore
-  topics like the morality of law to bioethics under   interdisciplinary
-  faculty.  
+  topics including the   morality of law, bioethics and feminist philosopy. 
 keywords: >-
   BA in philosophy, Department of Philosophy, Major in Philosophy, Minor in
   Philosophy
@@ -58,11 +57,7 @@ If you register for the certificate program, you will learn essential concepts, 
 [Learn More about the the Certificate in Ethics](http://bulletin.temple.edu/undergraduate/liberal-arts/philosophy/certificate-ethics/)
 
 ## Thinking About Law School? Major in Philosophy!
-If you plan on going to law school, our department offers courses a BA in Philosophy with a Pre-Law Emphasis. Philosophy majors have higher rates of admission to law school than other majors - they also earn some of the [best LSAT scores](http://www.nationaljurist.com/prelaw/classics-philosophy-majors-do-best-when-it-comes-getting-law-school). If you choose the pre-law emphasis, you will follow a slightly different path than other philosophy majors with assistance from your advisor. Besides specialized courses in our department, pre-law students at Temple University have plenty of resources to prepare for law school. We have a
-
-The department makes special provisions for students who have chosen the Philosophy major as preparation for entry into law school. These students follow a path slightly different from that of traditional major with assistance from their advisor. Dr. Paul Crowe is the Director of the Law Scholars Program and the Pre-Law Society, pre-law professional programs in the College of Liberal Arts. 
-
- 
+If you plan on going to law school, our department offers courses a BA in Philosophy with a Pre-Law Emphasis. Philosophy majors have higher rates of admission to law school than other majors - they also earn some of the [best LSAT scores](http://www.nationaljurist.com/prelaw/classics-philosophy-majors-do-best-when-it-comes-getting-law-school). If you choose the pre-law emphasis, you will follow a slightly different path than other philosophy majors with assistance from your advisor. From Temple University Mock Trial Team to our Law Scholars Program, you will have the opportunity to build an impressive undergraduate resume for law school admissions. 
 
 - [Learn More about the BA in Philosophy with a Pre-Law Emphasis](http://bulletin.temple.edu/undergraduate/liberal-arts/philosophy/ba-philosophy/#academicplanstext)
 - [Learn More about Pre-Law at Temple University](http://develop.cla.temple.edu/pre-law/undergraduate/)
