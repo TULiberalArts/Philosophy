@@ -42,7 +42,7 @@ sidebar-content: |
    [slawson@temple.edu](mailto:slawson@temple.edu)
 ---
 ## BA in Philosophy
-As part of the College of Liberal Arts at Temple University, our BA in Philosophy program provides undergraduates with the strong critical thinking skills, analytical thinking skills and solid verbal and written communication skills. The program is designed to provide a solid foundation for careers in business, government and professional schools (such as law). It is also an excellent background for the further study of philosophy. Majoring in philosophy is flexible by design; it easily accommodates study abroad programs and internships. Whether you are interested in the philosophical origins of America, morality and law or the work of German existentialist Nietzsche, our faculty works with you to design an academic plan that ignites your curiosity. 
+As part of the College of Liberal Arts at Temple University, our BA in Philosophy program provides undergraduates with a solid foundation for careers in business, government and professional schools (such as law). It is also an excellent background for the further study of philosophy. Majoring in philosophy is flexible by design; it easily accommodates study abroad programs and internships. 
 
 [Learn More about Majoring in Philosophy](http://bulletin.temple.edu/undergraduate/liberal-arts/philosophy/ba-philosophy/)
 
