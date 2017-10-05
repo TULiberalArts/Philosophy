@@ -8,8 +8,10 @@ description: >-
 keywords: 'The Department of Philosophy, major in philosophy, Philosophy of law, Feminist Philosophy'
 published: true
 feature: true
-feature-title: null
+feature-title: Ignite Your Curiosity
 feature-image: null
+feature-body: >-
+  Whether you are interested in the philosophical origins of America, morality and law or the work of German existentialist Nietzsche,     our faculty works with you to design an personalized academic plan.
 ---
 ## <center> "Dare to think!" — Immanuel Kant </center>
 
