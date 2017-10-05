@@ -8,9 +8,8 @@ description: >-
 keywords: 'The Department of Philosophy, major in philosophy, Philosophy of law, Feminist Philosophy'
 published: true
 feature: true
-feature-title: 
+feature-title: Dare to think! — Immanuel Kant
 feature-body: >-
-  >Dare to think! — Immanuel Kant
 feature-image: null
 ---
 ## Understand Yourself and the World by Asking Questions
