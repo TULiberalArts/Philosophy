@@ -10,7 +10,7 @@ published: true
 feature: true
 feature-title: 
 feature-body: >-
-  Dare to think! — Immanuel Kant
+  ## Dare to think! — Immanuel Kant
 feature-image: null
 ---
 ## Understand Yourself and the World by Asking Questions
