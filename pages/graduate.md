@@ -2,8 +2,12 @@
 title: Graduate
 permalink: /graduate/
 description: >-
-  Earn an MA or PhD in Philosophy at Temple University. We are a small and vibrant community of graduate students and           philosophy faculty in vibrant Philly.    
-keywords: 'graduate program in philosophy, MA in philosophy, PhD in philosophy, philosophy fellowships'
+  Earn an MA or PhD in Philosophy at Temple University. We are a small and
+  vibrant community of graduate students and           philosophy faculty in
+  vibrant Philly.    
+keywords: >-
+  graduate program in philosophy, MA in philosophy, PhD in philosophy,
+  philosophy fellowships
 layout: page
 published: true
 sidebar: true
@@ -39,24 +43,19 @@ sidebar-content: |
    [slawson@temple.edu](mailto:slawson@temple.edu)
 ---
 ## Earn an MA or PhD in Philosophy at Temple University
-Welcome to Temple’s graduate program at Temple's Department of Philosophy! We are a small and vibrant community of around 35 graduate students. Temple’s faculty members are internationally acclaimed in key philosophical areas that include epistemology, philosophy of science, philosophy of language, ethics, pragmatism, aesthetics, feminism, ancient philosophy, early modern and Kant/post-Kantian European philosophy. We have an especially rich history and continuing presence in the field of aesthetics - Monroe Beardsley and John Fisher were former faculty in our department.
+Granting our first PhD in 1971, the Department of Philosophy's has a proud history. Our scholarly community consists of a cohesive group of MA and PhD students and faculty who work across the traditions of Anglo-American and European philosophy, contemporary issues and historical scholarship. In spite of a challenging job market, our MA and PhD graduates are successful in landing academic and non-academic philosophy-related positions. There are Temple graduates teaching in Europe, the US, Asia and the rest of the world.
 
-Graduate students in philosophy take courses in non-philosophy programs at Temple that include African American studies, art history, English, religion and psychology. We are associated with the Greater Philadelphia Consortium and MA and PhD students may take graduate courses at UPenn and Villanova University. We also offer a [Graduate Certificate in Gender, Sexuality and Women’s Studies](https://liberalarts.temple.edu/academics/graduate/womens-studies-graduate-certificate). 
+Temple’s philosophy graduates are well-represented at the Center for Humanities at Temple, which offers grants and associate positions to faculty and advanced graduate students pursuing interdisciplinary work.  We also offer a Graduate Certificate in Gender, Sexuality, and Women’s Studies in cooperation with the Women's Studies Department. The Department is also involved in a scholarly exchange program with institutions in Vietnam under the auspices of the Temple Center for Vietnamese Philosophy, Culture and Society. We are associated with the [Greater Philadelphia Philosophy Consortium](http://www.thegppc.org/) and MA and PhD students may take graduate courses at UPenn and Villanova University. The department is also involved in a scholarly exchange program with institutions in Vietnam under the auspices of the Temple Center for Vietnamese Philosophy, Culture and Society.
 
-The Philosophy Department has a strong record of women and minority graduates, and a number of graduate students have recently established a Women in Philosophy reading group. Temple University as a whole is committed to diversifying its graduate population and the professoriate through its Future Faculty Fellows Program. In spite of a challenging job market, our MA and PhD graduates are successful in landing academic and non-academic philosophy-related positions.  
+Temple’s philosophy faculty are internationally acclaimed in key philosophical areas that include epistemology, philosophy of science, philosophy of language, ethics, pragmatism, aesthetics, feminism, ancient philosophy, early modern and Kant/post-Kantian European philosophy. We have an especially rich history and continuing presence in the field of aesthetics - Monroe Beardsley and John Fisher were former faculty in our department. 
 
 ## MA in Philosophy
-The MA program is designed for students to begin advanced training in philosophy. If you attend your MA program at Temple, you might continue your education in our PhD program or attend one at another university. Some students are satisfied with completing an MA in philosophy for personal enrichment or for high school or community college teaching roles. If you finish our MA program and decide to continue on to the PhD program, you must complete a separate application. A PhD is required for university teaching.
+The MA program is designed for students to begin advanced training in philosophy. If you attend the MA in philosophy program at Temple, you might continue your education in our PhD program or attend one at another university. Some students are satisfied with completing an MA in philosophy for personal enrichment or for high school or community college teaching roles. If you finish an MA at Temple and decide to continue on to our PhD in philosophy program, you must complete a separate application. A PhD is required for university teaching.
 
 [Learn More about the MA in Philosophy](http://bulletin.temple.edu/graduate/scd/cla/philosophy-ma/)
 
-## MA or PhD in Philosophy/MA in Urban Bioethics Dual Degree Programs
-The dual degree programs provide MA or PhD philosophy students with specialized training in the ethics, values, and politics of health in our increasingly multi-dimensionally diverse society. The programs also provide urban bioethics students with a more in-depth understanding of the philosophical underpinnings in contemporary bioethics. Blending the missions and values of philosophy and urban bioethics, the dual degree programs prepare future leaders in academia, public spheres and healthcare.
-
-[Learn More about the Dual Degree Programs](http://www.cla.temple.edu/philosophy/announcing-new-ma-in-philosophymasters-in-urban-bioethics-dual-degree-program/)
-
 ## PhD in Philosophy
-The PhD in philosophy program at Temple provides students with a breadth of knowledge in Philosophy while emphasizing depth of knowledge in philosophical issues of interest. Our program provides PhD students with intensive research opportunities and stresses professional writing standards and oral skills. PhD students usually teach courses under the guidance of the department's [Teaching Mentoring Program](https://teaching.temple.edu/). We encourage our PhD students to pursue Temple’s Teaching in Higher Education Certificate. 
+The PhD in philosophy program at Temple provides students with a breadth of knowledge in Philosophy while emphasizing depth of knowledge in philosophical issues of interest. In addition to two years of coursework (for incoming students with no credit transfers), PhD students submit two preliminary essays in their second and third years to gain experience in research, collegial cooperation and publishing strategies. PhD students usually teach courses under the guidance of the department's [Teaching Mentoring Program](https://teaching.temple.edu/). We encourage our PhD students to pursue Temple’s Teaching in Higher Education Certificate. 
 
 [Learn More about the PhD in Philosophy](http://bulletin.temple.edu/graduate/scd/cla/philosophy-phd/)
 
