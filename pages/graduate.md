@@ -43,7 +43,7 @@ sidebar-content: |
    [slawson@temple.edu](mailto:slawson@temple.edu)
 ---
 ## Earn an MA or PhD in Philosophy at Temple University
-Granting our first PhD in 1971, the Department of Philosophy's has a proud history. Our scholarly community consists of a cohesive group of MA and PhD students and faculty who work across the traditions of Anglo-American and European philosophy, contemporary issues and historical scholarship. In spite of a challenging job market, our MA and PhD graduates are successful in landing academic and non-academic philosophy-related positions. There are Temple graduates teaching in Europe, the US, Asia and the rest of the world.
+Granting our first PhD in 1971, the Department of Philosophy's has a proud history. Our scholarly community consists of a cohesive group of MA and PhD students and faculty who work across the traditions of Anglo-American and European philosophy, contemporary issues and historical scholarship. In spite of a challenging job market, our MA and PhD graduates are successful in landing academic and non-academic philosophy-related positions. Temple graduates teaching in Europe, the US, Asia and the rest of the world.
 
 Temple’s philosophy faculty are internationally acclaimed in key philosophical areas that include epistemology, philosophy of science, philosophy of language, ethics, pragmatism, aesthetics, feminism, ancient philosophy, early modern and Kant/post-Kantian European philosophy. We have an especially rich history and continuing presence in the field of aesthetics - Monroe Beardsley and John Fisher were former faculty in our department. Faculty members publish with leading journals and publishing houses, representing Temple nationally and abroad. 
 
