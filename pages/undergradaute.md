@@ -54,7 +54,7 @@ The Minor in Philosophy is an excellent way to extend the breadth of your educat
 ## Undergraduate Certificate in Ethics
 Our certificate program in ethics emphasizes the essential concepts, central issues, history and methodologies of ethical reasoning. Available to undergraduates from any degree or minor, the certificate prepares you for professional life by teaching you how to follow and define ethical guidelines and codes of conduct. Completion of the certificate shows employers that you are ready and committed to ethical leadership. Students take a required introduction course in ethical theory, two courses in applied/professional ethics and a fourth course, either in applied/professional ethics or in ethical theory.  The courses in applied/professional ethics can be taken in any school or department. 
 
-[Learn More about the the Certificate in Ethics](http://bulletin.temple.edu/undergraduate/liberal-arts/philosophy/certificate-ethics/)
+[Learn more about the Certificate in Ethics](http://bulletin.temple.edu/undergraduate/liberal-arts/philosophy/certificate-ethics/)
 
 ## Thinking About Law School? Major in Philosophy!
 If you plan on going to law school, our department offers a BA in Philosophy with a Pre-Law Emphasis. Philosophy majors have higher rates of admission to law school than other majors - they also earn some of the [best LSAT scores](http://www.nationaljurist.com/prelaw/classics-philosophy-majors-do-best-when-it-comes-getting-law-school). If you choose the pre-law emphasis, you will follow a slightly different path than other philosophy majors with assistance from your advisor. We also encourage students to participate in pre-law extracurricular activities like [Temple Mock Trial](https://temple.campuslabs.com/engage/organization/TUMockTrial) and [Temple Debate Society](https://temple.campuslabs.com/engage/organization/templedebate) - these types of activities help you develop and showcase your skills and ultimately aid you in your legal education and career. 
@@ -63,26 +63,29 @@ If you plan on going to law school, our department offers a BA in Philosophy wit
 - [Learn More about Pre-Law at Temple University](http://develop.cla.temple.edu/pre-law/undergraduate/)
 
 ## Studying Philosophy as a Pre-Med Student
-Philosophy courses provide you with a competitive advantage on the MCATS and in medical school coursework by developing your passion for inquiry, critical thinking and analysis. Philosophy courses also enrich preparation for careers in the medical field by providing a solid foundation in professional ethics. Humanities majors not only score well on the MCAT exam, but they tend to score higher as a group than biological sciences majors. The philosophy department offers several useful courses for pre-med students: _Ethics in Medicine_, _Philosophy of Medicine_, _Philosophy of Biology_ and _Philosophy of Science_. Read the brochure here: Philosophy for Pre-Med and Pre-Health. 
+Philosophy courses provide you with a competitive advantage on the MCATS and in medical school coursework by developing your passion for inquiry, critical thinking and analysis. Philosophy courses also enrich preparation for careers in the medical and health care fields by providing a solid foundation in professional ethics. Humanities majors not only score well on the MCAT exam, but they tend to score higher as a group than biological sciences majors. The philosophy department offers several useful courses for pre-med students: _Ethics in Medicine_, _Philosophy of Medicine_, _Philosophy of Biology_ and _Philosophy of Science_. 
+
+Read the brochure here.
 
 ## Academic Advising and Professional Development
-Take full advantage of the College of Liberal Arts’ flexible curriculum with the help of our award-winning advisors. We will help you select a major or minor, and graduate on time. Beyond academics, our advisors ensure that you have a rich experience at Temple by complementing your academic work with study abroad programs, internships and other experiential learning opportunities. 
+Take full advantage of the College of Liberal Arts’ flexible curriculum with the help of our award-winning advisors. We help you select a major or minor, and graduate on time. Beyond academics, our advisors ensure that you have a rich experience at Temple by complementing your academic work with study abroad programs, internships and other experiential learning opportunities. 
 
-[Learn More About Our Advising Staff](https://liberalarts.temple.edu/advising)
+[Learn more about our advising staff](https://liberalarts.temple.edu/advising)
 
 ## Fly in Four
 Take charge of your future and limit your debt. The Fly in 4 partnership allows you to complete your degree on time — or Temple will pay for your remaining course work. Graduating on time means your path to success starts sooner. We provide you with the resources you need to graduate in four years, like academic advising and classes offered when you need them. You commit to doing what it takes to blaze your career path in four years.
 
-[Learn How to Fly in Four](http://fly.temple.edu/)
+[Learn how to fly in four](http://fly.temple.edu/)
 
 ## Tuition and Fees
 For more than 125 years, we have focused on providing a world-class education at an affordable price. Just compare Temple to other comparable universities and see what we mean. Temple tuition rates vary by school or college, student level, residency status, and more. Use the Temple tuition calculator to estimate your tuition rate.
 
-[Temple Tuition Calculator](https://bursar.temple.edu/tuition-and-fees/tuition-rates)
+[Temple tuition calculator](https://bursar.temple.edu/tuition-and-fees/tuition-rates)
 
 ## Financial Aid and Scholarships
-At Temple, we believe that students from all walks of life should have access to a college education. If you need help paying for your education, you aren’t alone. Most students receive some form of financial aid to fund their education. About 60% of first-year Temple students receive need-based financial aid, and the average first-year financial aid package is about $15,000. Eligible students receive financial assistance from federal, sate, private and university sources. Explore your financial aid options and apply early to make your college education an affordable experience.  
-[Student Financial Services](https://sfs.temple.edu/financial-aid-types)
+At Temple, we believe that students from all walks of life should have access to a college education. If you need help paying for your education, you aren’t alone. Most students receive some form of financial aid to fund their education. About 60% of first-year Temple students receive need-based financial aid, and the average first-year financial aid package is about $15,000. Eligible students receive financial assistance from federal, state, private and university sources. Explore your financial aid options and apply early to make your college education an affordable experience.
+
+[Student financial services](https://sfs.temple.edu/financial-aid-types) 
 
 ## Undergraduate Admissions
 Are you ready to apply? [Submit your application online](http://admissions.temple.edu/apply).
