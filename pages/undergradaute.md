@@ -65,7 +65,7 @@ If you plan on going to law school, our department offers a BA in Philosophy wit
 ## Studying Philosophy as a Pre-Med Student
 Philosophy courses provide you with a competitive advantage on the MCATS and in medical school coursework by developing your passion for inquiry, critical thinking and analysis. Philosophy courses also enrich preparation for careers in the medical and health care fields by providing a solid foundation in professional ethics. Humanities majors not only score well on the MCAT exam, but they tend to score higher as a group than biological sciences majors. The philosophy department offers several useful courses for pre-med students: _Ethics in Medicine_, _Philosophy of Medicine_, _Philosophy of Biology_ and _Philosophy of Science_. 
 
-Read the brochure here.
+[Read about our philosophy of medicine and science courses](http://develop.cla.temple.edu/philosophy/media/pre-med-philosophy.pdf)
 
 ## Academic Advising and Professional Development
 Take full advantage of the College of Liberal Arts’ flexible curriculum with the help of our award-winning advisors. We help you select a major or minor, and graduate on time. Beyond academics, our advisors ensure that you have a rich experience at Temple by complementing your academic work with study abroad programs, internships and other experiential learning opportunities. 
