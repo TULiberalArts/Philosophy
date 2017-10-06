@@ -5,9 +5,7 @@ layout: page
 description: >-
   Major or minor in Philosophy at Temple University in Philadephia. Explore
   topics including the   morality of law, bioethics and feminist philosopy. 
-keywords: >-
-  BA in philosophy, Department of Philosophy, Major in Philosophy, Minor in
-  Philosophy
+keywords: 'BA in philosophy, Department of Philosophy, Major in Philosophy, Minor in Philosophy'
 published: true
 sidebar: true
 sidebar-content: |
