@@ -5,9 +5,7 @@ layout: home
 description: >-
   The Department of Philosophy at Temple University in Philadelphia top
   undergraduate and graduate programs in philosophy and ethics. 
-keywords: >-
-  The Department of Philosophy, major in philosophy, Philosophy of law, Feminist
-  Philosophy
+keywords: 'Department of Philosophy, major in philosophy, Philosophy of law, Feminist Philosophy'
 published: true
 feature: true
 feature-title: Ignite Your Curiosity
