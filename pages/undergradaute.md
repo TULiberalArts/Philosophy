@@ -5,7 +5,9 @@ layout: page
 description: >-
   Major or minor in Philosophy at Temple University in Philadephia. Explore
   topics including the   morality of law, bioethics and feminist philosopy. 
-keywords: 'BA in philosophy, Department of Philosophy, Major in Philosophy, Minor in Philosophy'
+keywords: >-
+  BA in philosophy, Department of Philosophy, Major in Philosophy, Minor in
+  Philosophy
 published: true
 sidebar: true
 sidebar-content: |
@@ -45,7 +47,7 @@ As part of the [College of Liberal Arts](https://liberalarts.temple.edu/) at Tem
 [Learn More about Majoring in Philosophy](http://bulletin.temple.edu/undergraduate/liberal-arts/philosophy/ba-philosophy/)
 
 ## Minor in Philosophy
-The Minor in Philosophy is an excellent way to extend the breadth of your education and your understanding of the world. Whether you plan to become a lawyer, teacher or doctor, our minor in philosophy program makes the development of strong communication and reasoning skills a priority. A philosophy minor helps you stand out when you apply for jobs or graduate school, because it shows that you have a well-rounded education. 
+The Minor in Philosophy is an excellent way to extend the breadth of your education and understanding of the world. Whether you plan to become a lawyer, teacher or doctor, our minor in philosophy program makes the development of strong communication and reasoning skills a priority. A philosophy minor helps you stand out when you apply for jobs or graduate school, because it shows that you have a well-rounded education. 
 
 [Learn More about Minoring in Philosophy](http://bulletin.temple.edu/undergraduate/liberal-arts/philosophy/minor-philosophy/)
 
@@ -81,22 +83,21 @@ For more than 125 years, we have focused on providing a world-class education at
 [Temple tuition calculator](https://bursar.temple.edu/tuition-and-fees/tuition-rates)
 
 ## Financial Aid and Scholarships
-At Temple, we believe that students from all walks of life should have access to a college education. If you need help paying for your education, you aren’t alone. Most students receive some form of financial aid to fund their education. About 60% of first-year Temple students receive need-based financial aid, and the average first-year financial aid package is about $15,000. Eligible students receive financial assistance from federal, state, private and university sources. Explore your financial aid options and apply early to make your college education an affordable experience.
+At Temple, we believe that students from all walks of life should have access to an outstanding college education. If you need help paying for your education, you aren’t alone. Most students receive some form of financial aid to fund their education. About 60% of first-year Temple students receive need-based financial aid, and the average first-year financial aid package is about $15,000. Eligible students receive financial assistance from federal, state, private and university sources. Explore your financial aid options and apply early to make your college education an affordable experience.
 
 [Student financial services](https://sfs.temple.edu/financial-aid-types) 
 
 ## Undergraduate Admissions
 Are you ready to apply? [Submit your application online](http://admissions.temple.edu/apply).
 
-## Temple Admissions Deadlines
-- **February 1**: Freshman Application Deadline for Fall Semester
-- **March 1**: FAFSA Financial Aid Application Deadline
-- **November 1**: Transfer Deadline for Spring Semester
-- **June 1**: Transfer Deadline for Fall Semester
-
-## Academic Offerings
-
+### Academic Offerings
 - [BA in Philosophy](http://bulletin.temple.edu/undergraduate/liberal-arts/philosophy/ba-philosophy/)
 - [Minor in Philosophy](http://bulletin.temple.edu/undergraduate/liberal-arts/philosophy/minor-philosophy/)
 - [Certificate in Ethics](http://bulletin.temple.edu/undergraduate/liberal-arts/philosophy/certificate-ethics/)
 - [BA in Philosophy with a Pre-Law Emphasis](http://bulletin.temple.edu/undergraduate/liberal-arts/philosophy/ba-philosophy/#academicplanstext)
+
+### Temple Admissions Deadlines
+- **February 1**: Freshman Application Deadline for Fall Semester
+- **March 1**: FAFSA Financial Aid Application Deadline
+- **November 1**: Transfer Deadline for Spring Semester
+- **June 1**: Transfer Deadline for Fall Semester
