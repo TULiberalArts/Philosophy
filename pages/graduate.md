@@ -81,6 +81,6 @@ Are you ready to apply? [Submit your application online](https://prd-wlssb.templ
 - [MA or PhD in Philosophy/MA in Urban Bioethics](http://bulletin.temple.edu/graduate/scd/medicine/urban-bioethics-ma/)
 
 ## Application Deadline: 
-- January 15 for PhD applications
-- March 1 for MA applications
-- March 1 for MA/MAUB applications.
+**- January 15 for PhD applications**
+**- March 1 for MA applications**
+**- March 1 for MA/MAUB applications.**
