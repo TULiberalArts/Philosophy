@@ -75,6 +75,11 @@ For more than 125 years, we have focused on providing a world-class education at
 ## Apply to Temple
 Are you ready to apply? [Submit your application online](https://prd-wlssb.temple.edu/prod8/bwskalog.P_DispLoginNon).
 
+## Curriculum and Academic Requirements
+[MA in Philosophy](http://bulletin.temple.edu/graduate/scd/cla/philosophy-ma/)
+[PhD in Philosophy](http://bulletin.temple.edu/graduate/scd/cla/philosophy-phd/)
+[MA or PhD in Philosophy/MA in Urban Bioethics](http://bulletin.temple.edu/graduate/scd/medicine/urban-bioethics-ma/)
+
 ## Application Deadline: 
 - January 15 for PhD applications
 - March 1 for MA applications
