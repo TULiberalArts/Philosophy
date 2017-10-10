@@ -56,7 +56,7 @@ Almost half of incoming Temple students transfer from other colleges and univers
 [Learn More about Transferring to Temple](http://admissions.temple.edu/apply/transfer-applicant)
 
 ## Apply
-Are you ready to apply? [Submit your application online](http://admissions.temple.edu/apply).
+Ready to apply? [Submit your application online](http://admissions.temple.edu/apply).
 
 ## Deadlines
 - **February 1**: Freshman Application Deadline for Fall Semester
