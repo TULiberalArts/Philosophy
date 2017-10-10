@@ -47,6 +47,12 @@ combined scores on the GRE, LSAT and GMAT. Majoring in philosophy is also an exc
 
 [Learn More about Majoring in Philosophy](http://bulletin.temple.edu/undergraduate/liberal-arts/philosophy/ba-philosophy/)
 
+## Thinking About Law School? Major in Philosophy!
+If you plan on going to law school, our department offers a BA in Philosophy with a Pre-Law Emphasis. Philosophy majors have higher rates of admission to law school than other majors - they also earn some of the [best LSAT scores](http://www.nationaljurist.com/prelaw/classics-philosophy-majors-do-best-when-it-comes-getting-law-school). If you choose the pre-law emphasis, you will follow a slightly different path than other philosophy majors with assistance from your advisor. We also encourage students to participate in pre-law extracurricular activities like [Temple Mock Trial](https://temple.campuslabs.com/engage/organization/TUMockTrial) and [Temple Debate Society](https://temple.campuslabs.com/engage/organization/templedebate) - these types of activities help you develop and showcase your skills and ultimately aid you in your legal education and career. 
+
+- [Learn More about the BA in Philosophy with a Pre-Law Emphasis](http://bulletin.temple.edu/undergraduate/liberal-arts/philosophy/ba-philosophy/#academicplanstext)
+- [Learn More about Pre-Law at Temple University](http://develop.cla.temple.edu/pre-law/undergraduate/)
+
 ## Minor in Philosophy
 The Minor in Philosophy is an excellent way to extend the breadth of your education and understanding of the world. Whether you plan to become a lawyer, teacher or doctor, our minor in philosophy program makes the development of strong communication and reasoning skills a priority. A philosophy minor helps you stand out when you apply for jobs or graduate school, because it shows that you have a well-rounded education. 
 
@@ -56,12 +62,6 @@ The Minor in Philosophy is an excellent way to extend the breadth of your educat
 Our certificate program in ethics emphasizes the essential concepts, central issues, history and methodologies of ethical reasoning. Available to undergraduates from any degree or minor, the certificate prepares you for professional life by teaching you how to follow and define ethical guidelines and codes of conduct. Completion of the certificate shows employers that you are ready and committed to ethical leadership. Students take a required introduction course in ethical theory, two courses in applied/professional ethics and a fourth course, either in applied/professional ethics or in ethical theory. The courses in applied/professional ethics can be taken in any school or department. 
 
 [Learn more about the Certificate in Ethics](http://bulletin.temple.edu/undergraduate/liberal-arts/philosophy/certificate-ethics/)
-
-## Thinking About Law School? Major in Philosophy!
-If you plan on going to law school, our department offers a BA in Philosophy with a Pre-Law Emphasis. Philosophy majors have higher rates of admission to law school than other majors - they also earn some of the [best LSAT scores](http://www.nationaljurist.com/prelaw/classics-philosophy-majors-do-best-when-it-comes-getting-law-school). If you choose the pre-law emphasis, you will follow a slightly different path than other philosophy majors with assistance from your advisor. We also encourage students to participate in pre-law extracurricular activities like [Temple Mock Trial](https://temple.campuslabs.com/engage/organization/TUMockTrial) and [Temple Debate Society](https://temple.campuslabs.com/engage/organization/templedebate) - these types of activities help you develop and showcase your skills and ultimately aid you in your legal education and career. 
-
-- [Learn More about the BA in Philosophy with a Pre-Law Emphasis](http://bulletin.temple.edu/undergraduate/liberal-arts/philosophy/ba-philosophy/#academicplanstext)
-- [Learn More about Pre-Law at Temple University](http://develop.cla.temple.edu/pre-law/undergraduate/)
 
 ## Studying Philosophy as a Pre-Med Student
 Philosophy courses provide you with a competitive advantage on the MCATS and in medical school coursework by developing your passion for inquiry, critical thinking and analysis. Philosophy courses also enrich preparation for careers in the medical and health care fields by providing a solid foundation in professional ethics. Humanities majors not only score well on the MCAT exam, but they tend to score higher as a group than biological sciences majors. The philosophy department offers several useful courses for pre-med students: _Ethics in Medicine_, _Philosophy of Medicine_, _Philosophy of Biology_ and _Philosophy of Science_. 
