@@ -11,10 +11,11 @@ layout: page
 published: true
 ---
 ## What Can I Do With a Degree in Philosophy?
-Beyond the personal satisfaction gained by addressing the most basic questions confronting the human mind, studying philosophy in college helps you develop a strong foundation in the skills you need for success in any professional career. The ability to analyze a problem and argue coherently toward a solution is the most important and universal skill you will gain through a college education. All academic disciplines employ these skills but philosophy students practice them in a more wide-ranging and penetrating fashion. As a result, philosophy majors find success in all occupations. In a [2013 study](https://www.aacu.org/sites/default/files/files/LEAP/2013_EmployerSurvey.pdf), employers rank critical thinking skills as the number one thing they look for in an employee. Philosophy majors also excel on [graduate and professional exams](http://blogs.discovermagazine.com/gnxp/2010/12/verbal-vs-mathematical-aptitude-in-academics/#.WdKZo9NSyUl). 
+Temple Philosophy alumni have gone on to study law, medicine, and other graduate studies at top-ranked universities.They have developed successful professional and academic careers and become social activists,
+teachers and journalists. In a [major survey of American employers](https://www.aacu.org/sites/default/files/files/LEAP/2013_EmployerSurvey.pdf), 93 percent agreed that “a candidate’s demonstrated capacity to think critically, communicate clearly, and solve complex problems is more important than their undergraduate major.” More than 90 percent placed high value on ethical decisionmaking, intercultural skills, and interest in continued learning. These are all skills developed in philosophy courses. 
 
 ## Famous People who have Philosophy Degrees
-Famous philosophy graduates work in careers that range from Comedian to Supreme Court Justice.  Here are some names few names you might recognize
+Philosophy graduates work in careers that range from comedian to Supreme Court Justice. Famous philosophy majors include
 
 - San Suu Kyi - Nobel Peace Prize Winner
 - Stephen Breyer - Supreme Court Justice
