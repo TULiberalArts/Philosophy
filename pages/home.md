@@ -3,7 +3,7 @@ title: Home
 permalink: /
 layout: home
 description: >-
-  The Department of Philosophy at Temple University in Philadelphia top
+  The Department of Philosophy at Temple University in Philadelphia offers top
   undergraduate and graduate programs in philosophy and ethics. 
 keywords: >-
   Department of Philosophy, major in philosophy, Philosophy of law, Feminist
@@ -13,9 +13,7 @@ feature: true
 feature-title: Ignite Your Curiosity
 feature-image: null
 feature-body: >-
-  Whether you are interested in the philosophical origins of America, morality
-  and law or the work of German existentialist Nietzsche, our faculty works with
-  you to design an personalized academic plan.
+  Philosophy students develop the ability to think critically and solve complex problems - skills that American value over any particular undergraduate major. 
 ---
 ## Why Study Philosophy?
 Welcome to Temple’s Department of Philosophy! We are a small and vibrant community of philosophy scholars in the urban and cultural mecca of Philadelphia. Philosophy explores life’s big questions about knowledge, existence and values. Do we have free will? Does God exist? How do we define health and disease? What is the good life? If you study philosophy at Temple University, you will assess these and other claims and evaluate arguments in a wide range of fields. 
