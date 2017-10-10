@@ -34,7 +34,7 @@ The Greater Philadelphia Philosophy Consortium (GPPC) is a nonprofit educational
 ## Temple Center for Vietnamese Philosophy, Culture and Society
 The Department of Philosophy is involved in a scholarly exchange program with institutions in Vietnam under the auspices of the Temple Center for Vietnamese Philosophy, Culture and Society. The center sponsors programs, conferences, research and courses on Vietnam's rich heritage of philosophy and culture.
 
-[Learn More about the center](http://www.cla.temple.edu/vietnamese_center/welcome.htm)
+[Learn More about the Center](http://www.cla.temple.edu/vietnamese_center/welcome.htm)
 
 ## The Center for the Humanities
 Temple’s philosophy graduate students are well-represented at the Center for Humanities at Temple (CHAT), which offers grants and associate positions to faculty and advanced graduate students pursuing interdisciplinary work. CHAT works to bridge the divide between departments and colleges by promoting broad, humanities-based conversations that connect scholars from multiple academic fields.
