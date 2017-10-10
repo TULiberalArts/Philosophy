@@ -13,7 +13,7 @@ feature: true
 feature-title: Ignite Your Curiosity
 feature-image: null
 feature-body: >-
-  Philosophy students develop the ability to think critically and solve complex problems - skills that American value over any particular undergraduate major. 
+  Temple Philosophy alumni have gone on to study law, medicine, and other graduate studies at top-ranked universities. They are successful professionals and academics, social activists, teachers and journalists.
 ---
 ## Why Study Philosophy?
 Welcome to Temple’s Department of Philosophy! We are a small and vibrant community of philosophy scholars in the urban and cultural mecca of Philadelphia. Philosophy explores life’s big questions about knowledge, existence and values. Do we have free will? Does God exist? How do we define health and disease? What is the good life? If you study philosophy at Temple University, you will assess these and other claims and evaluate arguments in a wide range of fields. 
