@@ -42,6 +42,12 @@ sidebar-content: |
    [slawson@temple.edu](mailto:slawson@temple.edu)
 ---
 ## BA in Philosophy
+Philosophy is an excellent major for those interested in careers in law, medicine, or business.
+Philosophy majors are extremely high performers on graduate school exams, ranking first among all majors in
+combined scores on the GRE, LSAT and GMAT. 
+
+
+
 As part of the [College of Liberal Arts](https://liberalarts.temple.edu/) at Temple University, our BA in philosophy program provides undergraduates with a solid foundation for careers in business, government and professional schools (such as law). It is also an excellent background for the further study of philosophy in graduate school. Philosophy raises fundamental questions about ourselves and the world, which results in a sharpened perception of the value of our lives and an increased ability of analysis. Majoring in philosophy is flexible by design; it easily accommodates study abroad programs and internships.
 
 [Learn More about Majoring in Philosophy](http://bulletin.temple.edu/undergraduate/liberal-arts/philosophy/ba-philosophy/)
