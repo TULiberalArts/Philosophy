@@ -3,7 +3,8 @@ title: Undergraduate
 permalink: /undergraduate/
 layout: page
 description: >-
-  Major or minor in Philosophy at Temple University in Philadephia. Explore topics the include the morality of law, bioethics and feminist philosophy. 
+  Major or minor in Philosophy at Temple University in Philadephia. Explore
+  topics the include the morality of law, bioethics and feminist philosophy. 
 keywords: >-
   BA in philosophy, Department of Philosophy, Major in Philosophy, Minor in
   Philosophy
@@ -88,7 +89,7 @@ At Temple, we believe that students from all walks of life should have access to
 [Student Financial Services](https://sfs.temple.edu/financial-aid-types)
 
 ## Undergraduate Admissions
-Are you ready to apply? [Submit your application online](http://admissions.temple.edu/apply).
+Ready to apply? [Submit your application online](http://admissions.temple.edu/apply).
 
 ### Academic Offerings
 - [BA in Philosophy](http://bulletin.temple.edu/undergraduate/liberal-arts/philosophy/ba-philosophy/)
