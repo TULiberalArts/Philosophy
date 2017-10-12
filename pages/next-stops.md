@@ -2,17 +2,15 @@
 title: Next Stops
 permalink: /next-stops/
 description: >-
-  Philosophy majors find success in all careers - from law to teaching to
-  medicine. Practice critical thinking, writing and     problem-solving skills. 
+  Philosophy majors find success in all careers - from law to teaching to medicine. Practice critical thinking, writing and problem-solving skills.
 keywords: >-
-  Department of Philosophy, Study Abroad Programs, Famous Philosophy Majors,
-  careers for philosophy majors, pre-law major
+  Department of Philosophy, Study Abroad Programs, Famous Philosophy Majors, careers for philosophy majors, pre-law major
 layout: page
 published: true
 ---
 ## What Can I Do With a Degree in Philosophy?
 Temple Philosophy alumni have gone on to study law, medicine, and other graduate studies at top-ranked universities.They have developed successful professional and academic careers and become social activists,
-teachers and journalists. In a [major survey of American employers](https://www.aacu.org/sites/default/files/files/LEAP/2013_EmployerSurvey.pdf), 93 percent agreed that “a candidate’s demonstrated capacity to think critically, communicate clearly, and solve complex problems is more important than their undergraduate major.” More than 90 percent placed high value on ethical decisionmaking, intercultural skills, and interest in continued learning. These are all skills developed in philosophy courses. 
+teachers and journalists. In a [major survey of American employers](https://www.aacu.org/sites/default/files/files/LEAP/2013_EmployerSurvey.pdf), 93 percent agreed that “a candidate’s demonstrated capacity to think critically, communicate clearly, and solve complex problems is more important than their undergraduate major.” More than 90 percent placed high value on ethical decisionmaking, intercultural skills, and interest in continued learning. These are all skills developed in philosophy courses.
 
 ## Famous People who have Philosophy Degrees
 Philosophy graduates work in careers that range from comedian to Supreme Court Justice. Famous philosophy majors include
