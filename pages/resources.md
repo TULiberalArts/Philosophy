@@ -2,27 +2,24 @@
 title: Resources
 permalink: /resources/
 description: >-
-  Get help with academic resources, student organizations and philosophy
-  research at Temple University Department of             Philosophy. 
+  Get help with academic resources, student organizations and philosophy research at Temple University Department of Philosophy.
 keywords: >-
-  The Greater Philadelphia Philosophy Consortium, philosophy library, Department
-  of Philosophy, Academic Advising
+  The Greater Philadelphia Philosophy Consortium, philosophy library, Department of Philosophy, Academic Advising
 layout: page
 published: true
 ---
-
-## Temple Undergraduate Philosophy Society 
+## Temple Undergraduate Philosophy Society
 Temple Undergraduate Philosophy Society (TUPS) is a organization at Temple University committed to the free and open exchange of philosophical ideas and resources. TUPS meets once a week on Temple's main campus.
 
 [Learn More about TUPS at Temple University](https://tuphilosophy.wordpress.com/mission/)
 
 ## Philosophy Research Services at Paley Library
-The world-class philosophy resources at Paley Library support the research, teaching and learning needs of Temple students and faculty. Our resources include the Stanford Encyclopedia of Philosophy, the Routledge Encyclopedia of Philosophy, Oxford Reference Online and several major online academic databases devoted to the multidisplinary study of the humanities. 
+The world-class philosophy resources at Paley Library support the research, teaching and learning needs of Temple students and faculty. Our resources include the Stanford Encyclopedia of Philosophy, the Routledge Encyclopedia of Philosophy, Oxford Reference Online and several major online academic databases devoted to the multidisplinary study of the humanities.
 
 [Learn More about Philosophy Resources at Paley Library](http://guides.temple.edu/philosophy)
 
 ## Fresh Philosophy
-_Fresh Philosophy_ is the Greater Philadelphia Philosophy Consortium’s undergraduate online journal. It invites submissions from undergraduates and applications from prospective editors. Part traditional journal and part blog, _Fresh Philosophy_ publishes philosophical writing by undergraduates from around the world. 
+_Fresh Philosophy_ is the Greater Philadelphia Philosophy Consortium’s undergraduate online journal. It invites submissions from undergraduates and applications from prospective editors. Part traditional journal and part blog, _Fresh Philosophy_ publishes philosophical writing by undergraduates from around the world.
 
 [Learn More about Fresh Philosophy](http://www.freshphilosophy.com/)
 
