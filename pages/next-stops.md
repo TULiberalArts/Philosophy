@@ -11,7 +11,7 @@ layout: page
 published: true
 ---
 ## What Can I Do With a Degree in Philosophy?
-Temple Philosophy alumni have gone on to study law, medicine, and other graduate studies at top-ranked universities.They have developed successful professional and academic careers and become journalists, teachers and social activists. In a [major survey of American employers](https://www.aacu.org/sites/default/files/files/LEAP/2013_EmployerSurvey.pdf), 93 percent agreed that “a candidate’s demonstrated capacity to think critically, communicate clearly and solve complex problems is more important than their undergraduate major.” More than 90 percent placed high value on ethical decision-making, intercultural skills and interest in continued learning. 
+Temple Philosophy alumni have gone on to study law, medicine, and other graduate studies at top-ranked universities. They have also developed successful professional and academic careers. In a [major survey of American employers](https://www.aacu.org/sites/default/files/files/LEAP/2013_EmployerSurvey.pdf), 93 percent agreed that “a candidate’s demonstrated capacity to think critically, communicate clearly and solve complex problems is more important than their undergraduate major.” More than 90 percent placed high value on ethical decision-making, intercultural skills and interest in continued learning. These are all skills developed by studying philosophy. 
 
 ## Famous People who have Philosophy Degrees
 Philosophy graduates work in careers that range from comedian to Supreme Court justice. Famous philosophy majors include
