@@ -62,12 +62,12 @@ We actively encourage—and facilitate—interdisciplinary scholarly work. The P
 ## Temple Graduate School Funding
 At Temple, we believe that students from all walks of life should have access to an outstanding education. If you need help paying for graduate school, you aren’t alone. Most students receive some form of financial aid to fund their education. Graduate students are eligible for financial assistance from federal, state, private and university sources. Explore all available opportunities and apply early to make your education an affordable experience.
 
-PhD students are awarded financial aid on academic merit. The department nominates our strongest candidates for Graduate School Fellowships, and offers a limited amount of TA-ships. Students from underrepresented groups may also be nominated for [Future Faculty Fellowships](http://www.temple.edu/grad/finances/fff_program.htm). Due to limited resources, the department is not able to provide funding to all students, although the majority receive some funding eventually. Normally, awards are given to doctoral students who best meet the criteria.
+PhD students are awarded financial aid on academic merit. The department nominates our strongest candidates for Graduate School Fellowships, and offers a limited amount of TA-ships. Students from underrepresented groups may also be nominated for [Future Faculty Fellowships](http://www.temple.edu/grad/finances/fff_program.htm). Due to limited resources, the department is not able to provide funding to all students, although the majority receive some funding eventually. University Fellowships, Graduate Assistantships and Academic Internships are ordinarily reserved for PhD students.
 
 [Student Financial Services](https://sfs.temple.edu/financial-aid-types)
 
 ## Tuition and Fees
-For more than 130 years, we have focused on providing a world-class education at an affordable price. Just compare Temple to other universities and see what we mean. Temple tuition rates vary by college or school, residency status, student level and more. Use the Temple tuition calculator to estimate your tuition rate.
+For more than 130 years, we have focused on providing a world-class education at an affordable price. Just compare Temple to other universities and see what we mean. Temple tuition rates vary by college or school, residency status, student level and more. Use the [Temple Tuition Calculator](https://bursar.temple.edu/tuition-and-fees/tuition-rates) to estimate your tuition rate.
 
 [Temple Tuition Calculator](https://bursar.temple.edu/tuition-and-fees/tuition-rates)
 
@@ -83,7 +83,3 @@ Ready to apply? [Submit your application online](https://prd-wlssb.temple.edu/pr
 - **Jan. 15** for PhD applications
 - **March 1** for MA applications
 - **March 1** for MA/MAUB applications
-
-
-
-
