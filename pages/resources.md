@@ -2,19 +2,21 @@
 title: Resources
 permalink: /resources/
 description: >-
-  Get help with academic resources, student organizations and philosophy scholarships at Temple University's Department of Philosophy.
+  Get help with academic resources, student organizations and philosophy
+  scholarships at Temple University's Department of Philosophy.
 keywords: >-
-  The Greater Philadelphia Philosophy Consortium, philosophy library, Department of Philosophy, Academic Advising
+  The Greater Philadelphia Philosophy Consortium, philosophy library, Department
+  of Philosophy, Academic Advising
 layout: page
 published: true
 ---
 ## Temple Undergraduate Philosophy Society
-Temple Undergraduate Philosophy Society (TUPS) is a organization at Temple University committed to the free and open exchange of philosophical ideas and resources. TUPS meets once a week on Temple's main campus.
+Temple Undergraduate Philosophy Society (TUPS) is a organization at Temple University committed to the free and open exchange of philosophical ideas and resources. TUPS meets once a week on Temple's Main Campus.
 
 [Learn More about TUPS at Temple University](https://tuphilosophy.wordpress.com/mission/)
 
 ## Philosophy Research Services at Paley Library
-The world-class philosophy resources at Paley Library support the research, teaching and learning needs of Temple students and faculty. Our resources include the Stanford Encyclopedia of Philosophy, the Routledge Encyclopedia of Philosophy, Oxford Reference Online and several major online academic databases devoted to the multidisplinary study of the humanities.
+The world-class philosophy resources at Paley Library support the learning, research and teaching needs of Temple students and faculty. Our resources include the Stanford Encyclopedia of Philosophy, the Routledge Encyclopedia of Philosophy, Oxford Reference Online and several major online academic databases devoted to the multidisplinary study of the humanities. 
 
 [Learn More about Philosophy Resources at Paley Library](http://guides.temple.edu/philosophy)
 
@@ -29,12 +31,12 @@ The Greater Philadelphia Philosophy Consortium (GPPC) is a nonprofit educational
 [Learn More about the GPPC](http://www.thegppc.org/)
 
 ## Temple Center for Vietnamese Philosophy, Culture and Society
-The Department of Philosophy is involved in a scholarly exchange program with institutions in Vietnam under the auspices of the Temple Center for Vietnamese Philosophy, Culture and Society. The center sponsors programs, conferences, research and courses on Vietnam's rich heritage of philosophy and culture.
+The Department of Philosophy is involved in a scholarly exchange program with institutions in Vietnam under the auspices of the Temple Center for Vietnamese Philosophy, Culture and Society. The center sponsors conferences, courses, programs and research on Vietnam's rich heritage of philosophy and culture.
 
 [Learn More about the Center](http://www.cla.temple.edu/vietnamese_center/welcome.htm)
 
 ## The Center for the Humanities
-Temple’s philosophy graduate students are well-represented at the Center for Humanities at Temple (CHAT), which offers grants and associate positions to faculty and advanced graduate students pursuing interdisciplinary work. CHAT works to bridge the divide between departments and colleges by promoting broad, humanities-based conversations that connect scholars from multiple academic fields.
+Temple’s Philosophy graduate students are well-represented at the Center for Humanities at Temple (CHAT), which offers grants and associate positions to faculty and advanced graduate students pursuing interdisciplinary work. CHAT works to bridge the divide between departments and colleges by promoting broad, humanities-based conversations that connect scholars from multiple academic fields.
 
 [Learn More about CHAT](http://www.cla.temple.edu/chat/index.html)
 
@@ -46,13 +48,13 @@ The Center for the Advancement of Teaching (CAT) promotes the value and practice
 ## Undergraduate Resources
 - [The Center for Academic Advising and Professional Development](https://liberalarts.temple.edu/advising)
 - [Changing your major](http://www.temple.edu/studentaffairs/orientation/freshman-orientation/changing-your-major.asp)
-- [Graduation Application process](http://www.temple.edu/registrar/students/graduation)
-- [Undergraduate Funding](http://sfs.temple.edu/)
-- [Undergraduate Policies and Procedures](http://bulletin.temple.edu/undergraduate/academic-policies/)
+- [Graduation application process](http://www.temple.edu/registrar/students/graduation)
+- [Undergraduate funding](http://sfs.temple.edu/)
+- [Undergraduate policies and procedures](http://bulletin.temple.edu/undergraduate/academic-policies/)
 
 ## Graduate Resources
 - [Graduate Student Handbook](http://bulletin.temple.edu/graduate/graduate-policies/)
-- [Graduate School Forms](http://www.temple.edu/grad/forms/index.htm)
-- [Graduate School Funding](http://www.temple.edu/grad/finances/index.htm)
-- [Graduate School Policies](http://www.temple.edu/grad/policies/index.htm)
-- [Applying to Graduate School](http://www.temple.edu/grad/admissions/howtoapply.htm)
+- [Graduate school forms](http://www.temple.edu/grad/forms/index.htm)
+- [Graduate school funding](http://www.temple.edu/grad/finances/index.htm)
+- [Graduate school policies](http://www.temple.edu/grad/policies/index.htm)
+- [Applying to graduate school](http://www.temple.edu/grad/admissions/howtoapply.htm)
