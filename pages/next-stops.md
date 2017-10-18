@@ -27,7 +27,7 @@ Philosophy graduates work in careers that range from comedian to Supreme Court j
 - Thomas Jefferson - US President
 
 ## Temple Philosophy BA Alums
-Like Temple Owls, Department of Philosophy graduates turn up everywhere. Here is a partial list of places where our philosophy majors have ended up.
+Graduates from the Department of Philosophy are influential in the arts and work as activists, lawyers, teachers and more. Here is a partial list of successful graduates from our department. 
 
 - April Glaser '12: [Staff Activist at the Electronic Frontier Foundation](https://sites.temple.edu/humansciences/2014/05/12/temple-made-april-glaser-and-the-eff/)
 - Steven Horowitz '06 - JD, Harvard University Law School '09
