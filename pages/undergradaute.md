@@ -66,10 +66,10 @@ Our certificate program in ethics emphasizes the essential central issues, conce
 ## Studying Philosophy as a Pre-Med Student
 Philosophy courses provide you with a competitive advantage on the MCATS and in medical school coursework by developing your passion for inquiry, critical thinking and analysis. Philosophy courses also enrich preparation for careers in the medical and health care fields by providing a solid foundation in professional ethics. Humanities majors not only score well on the MCAT exam, but also tend to score higher as a group than biological sciences majors. The Philosophy Department offers several useful courses for Pre-Med students: _Philosophy of Biology_, _Ethics in Medicine_, _Philosophy of Medicine_ and _Philosophy of Science_. 
 
-[Read More About Philosophy of Medicine Courses](http://develop.cla.temple.edu/philosophy/media/pre-med-philosophy.pdf)
+[learn More About Philosophy of Medicine Courses](http://develop.cla.temple.edu/philosophy/media/pre-med-philosophy.pdf)
 
 ## Academic Advising and Professional Development
-Take full advantage of the [College of Liberal Arts](https://liberalarts.temple.edu/)’ flexible curriculum with the help of our award-winning advisors. We help you select a major or a minor, and graduate on time. Beyond academics, our advisors ensure that you have a rich experience at Temple by complementing your academic work with study abroad programs, internships and other experiential learning opportunities.
+Take full advantage of the [College of Liberal Arts](https://liberalarts.temple.edu/)’ flexible curriculum with the help of our award-winning advisors. We help you select a major or a minor, and graduate on time. Beyond academics, our advisors ensure that you have a rich experience at Temple by complementing your academic work with internships, study abroad programs and other experiential learning opportunities.
 
 [Learn More about Temple’s Award-Winning Advisors](https://liberalarts.temple.edu/advising)
 
@@ -79,7 +79,7 @@ Take charge of your future and limit your debt. The Fly in 4 partnership allows 
 [Learn How to Fly in Four](http://fly.temple.edu/)
 
 ## Tuition and Fees
-For more than 130 years, we have focused on providing a world-class education at an affordable price. Just compare Temple to other universities and see what we mean. Temple tuition rates vary by school or college, student level, residency status and more. Use the Temple tuition calculator to estimate your tuition rate.
+For more than 130 years, we have focused on providing a world-class education at an affordable price. Just compare Temple to other universities and see what we mean. Temple tuition rates vary by college or school, residency status, student level and more. Use the [Temple Tuition Calculator](https://bursar.temple.edu/tuition-and-fees/tuition-rates) to estimate your tuition rate.
 
 [Temple Tuition Calculator](https://bursar.temple.edu/tuition-and-fees/tuition-rates)
 
