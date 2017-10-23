@@ -53,7 +53,7 @@ Ready to apply? [Submit your application online](http://admissions.temple.edu/ap
     <div class="row row-wide">
       <div class="col m12 l4">{% include cards/card2-image.html
         title="Study Pre-Law at Temple"
-        content="Select any of our 35 majors and enhance it with extracurriculars, legal internships and study abroad programs for an undergraduate resume that stands out to the best law schools.
+        content="Select any of our 35 majors and enhance it with extracurriculars, legal internships and study abroad programs for an undergraduate resume that stands out to the best law schools."
         image=""
         button-link="http://www.cla.temple.edu/pre-law/"
         button-text="Learn More" %}
