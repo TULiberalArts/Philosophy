@@ -15,6 +15,11 @@ Temple Undergraduate Philosophy Society (TUPS) is a organization at Temple Unive
 
 [Learn More about TUPS at Temple University](https://tuphilosophy.wordpress.com/mission/)
 
+## Pre-Law Studies at Temple
+Pre-law students at Temple contine on to the best law schools in the US. They include Temple Law, NYU, Yale, Harvard and Northwestern University. All programs and departments at the College of Liberal Arts prepare Pre-Law students to score well on the LSAT. 
+
+[Learn More about Pre-Law at Temple](http://www.cla.temple.edu/pre-law/)
+
 ## Philosophy Research Services at Paley Library
 The world-class philosophy resources at Paley Library support the learning, research and teaching needs of Temple students and faculty. Our resources include the Stanford Encyclopedia of Philosophy, the Routledge Encyclopedia of Philosophy, Oxford Reference Online and several major online academic databases devoted to the multidisplinary study of the humanities. 
 
