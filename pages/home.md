@@ -39,7 +39,7 @@ Ready to apply? [Submit your application online](http://admissions.temple.edu/ap
     title="Philosophy Research Services at Paley Library"
     content="The world-class philosophy resources at Paley Library support the research, teaching and learning needs of Temple students and faculty."
     image=""
-    button-link="http://guides.temple.edu/philosophy "
+    button-link="http://guides.temple.edu/philosophy"
     button-text="Learn More" %}
   </div>
   <div class="row row-wide">
@@ -53,7 +53,7 @@ Ready to apply? [Submit your application online](http://admissions.temple.edu/ap
     <div class="row row-wide">
       <div class="col m12 l4">{% include cards/card2-image.html
         title="Study Pre-Law at Temple"
-        content="Select any of our 35 majors and enhance it with extracurriculars, legal internships and study abroad programs for an undergraduate résumé that stands out to the best law schools.
+        content="Select any of our 35 majors and enhance it with extracurriculars, legal internships and study abroad programs for an undergraduate resume that stands out to the best law schools.
         image=""
         button-link="http://www.cla.temple.edu/pre-law/"
         button-text="Learn More" %}
