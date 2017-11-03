@@ -2,49 +2,60 @@
 title: Home
 permalink: /
 layout: home
+description: >-
+  The Department of Philosophy at Temple University in Philadelphia offers top
+  undergraduate and graduate programs in philosophy and ethics.
+keywords: >-
+  Department of Philosophy, Major in Philosophy, Philosophy of Law, Feminist
+  Philosophy
 published: true
-feature: false
-feature-title: null
+feature: true
+feature-title: Ignite Your Curiosity
 feature-image: null
+feature-body: >-
+  Temple Philosophy alumni have gone on to study law, medicine, and other
+  graduate studies at top-ranked universities. They are successful professionals
+  and academics, social activists, teachers and journalists.
 ---
-## Understand Yourself and the World by Asking Questions
+## Why Study Philosophy?
+Welcome to Temple’s Department of Philosophy! We are a small and vibrant community of philosophy scholars in the urban and cultural mecca of Philadelphia. Philosophy explores life’s big questions about knowledge, existence and values. Do we have free will? Does God exist? How do we define health and disease? What is the good life? If you study philosophy at Temple University, you will assess these and other claims and evaluate arguments in a wide range of fields.
 
-Philosophy explores life’s big questions about knowledge, existence, and values. What is it to be rational? What is the mind? Do we have free will? Does God exist? How do we define health and disease? What is the good life? If you study philosophy at Temple University, you'll assess these claims and others through interdisciplinary studies in the arts, sciences and humanities. Philosophy raises fundamental questions about ourselves, resulting in greater understanding about ourselves and the social structures we occupy. Since the 20th century, most professional philosophers contribute their work as professors, researchers and writers. However, many graduates with undergraduate or graduate degrees in philosophy contribute to the fields of law, business, politics, science, entertainment and more. 
+Whatever your interests, the department offers relevant courses and outstanding faculty members. Our course offerings cover pure and applied philosophy; contemporary philosophy and the history of philosophy; philosophy of race, gender, and other forms of social diversity. Departmental strengths include aesthetics, epistemology, ethics, European philosophy, Greek and early modern philosophy and philosophy of medicine and science. We offer both undergraduate and graduate degree programs. 
 
-Department of Philosophy faculty have special strengths in the following
- 
-- Aesthetics
-- European philosophy
-- Greek philosophy
-- American pragmatism
-- Philosophy of medicine
-- Philosophy of science
-- Feminist philosophy
-- Philosophy of law
-- Philosophy of religion
+## Apply to Temple University
+Ready to apply? [Submit your application online](http://admissions.temple.edu/apply).
+
+## Academic Offerings
+- [BA in Philosophy](http://bulletin.temple.edu/undergraduate/liberal-arts/philosophy/ba-philosophy/)
+- [BA in Philosophy with a Pre-Law Emphasis](http://bulletin.temple.edu/undergraduate/liberal-arts/philosophy/ba-philosophy/#academicplanstext)
+- [Minor in Philosophy](http://bulletin.temple.edu/undergraduate/liberal-arts/philosophy/minor-philosophy/)
+- [Undergraduate Certificate in Ethics](http://bulletin.temple.edu/undergraduate/liberal-arts/philosophy/certificate-ethics/)
+- [MA in Philosophy](http://bulletin.temple.edu/graduate/scd/cla/philosophy-ma/)
+- [PhD in Philosophy](http://bulletin.temple.edu/graduate/scd/cla/philosophy-phd/)
+- [MA or PhD in Philosophy/MA in Urban Bioethics](http://bulletin.temple.edu/graduate/scd/medicine/urban-bioethics-ma/)
 
 <div class="row row-wide">
-  <div class="col m12 l4">{% include cards/card2-image.html 
-    title="Philosophy Research Services at Paley Library" 
-    content="The world-class philosophy resources at Paley Library support the research, teaching and learning needs of Temple students and faculty." 
-    image="" 
-    button-link="http://guides.temple.edu/philosophy " 
+  <div class="col m12 l4">{% include cards/card2-image.html
+    title="Philosophy Research Services at Paley Library"
+    content="The world-class philosophy resources at Paley Library support the research, teaching and learning needs of Temple students and faculty."
+    image=""
+    button-link="http://guides.temple.edu/philosophy"
     button-text="Learn More" %}
   </div>
   <div class="row row-wide">
-    <div class="col m12 l4">{% include cards/card2-image.html 
-      title="Earn an Undergraduate Certificate in Ethics" 
-      content="The Certificate in Ethics educate students in essential concepts, central issues, history, and methodologies of ethical reasoning." 
-      image="" 
-      button-link=" " 
+    <div class="col m12 l4">{% include cards/card2-image.html
+      title="Earn an Undergraduate Certificate in Ethics"
+      content="The Certificate in Ethics educate students in essential concepts, central issues, history and methodologies of ethical reasoning."
+      image=""
+      button-link="http://bulletin.temple.edu/undergraduate/liberal-arts/philosophy/certificate-ethics/"
       button-text="Learn More" %}
     </div>
     <div class="row row-wide">
-      <div class="col m12 l4">{% include cards/card2-image.html 
-        title="The Center for Vietnamese Philosophy, Culture and Society" 
-        content="The Center sponsors programs. conferences, research and courses on Vietnam's rich heritage of philosophy and culture." 
-        image="" 
-        button-link="http://www.cla.temple.edu/vietnamese_center/welcome.html" 
+      <div class="col m12 l4">{% include cards/card2-image.html
+        title="Study Pre-Law at Temple"
+        content="Select any of our 35 majors and enhance it with extracurriculars, legal internships and study abroad programs for an undergraduate resume that stands out to the best law schools."
+        image=""
+        button-link="http://www.cla.temple.edu/pre-law/"
         button-text="Learn More" %}
       </div>
 </div>

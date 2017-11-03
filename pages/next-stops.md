@@ -1,48 +1,54 @@
 ---
 title: Next Stops
 permalink: /next-stops/
+description: >-
+  Philosophy majors are successful in whatever career they choose. Critical
+  thinking and problem-solving skills are useful in every profession.
+keywords: >-
+  Department of Philosophy, Study Abroad Programs, Famous Philosophy Majors,
+  careers for philosophy majors, pre-law major
 layout: page
 published: true
 ---
-
 ## What Can I Do With a Degree in Philosophy?
-Beyond the personal satisfaction gained by addressing the most basic questions confronting the human mind, studying philosophy in college helps you develop a strong foundation in the skills you need for success in any professional career. The ability to analyze a problem and argue coherently toward a solution is the most important and universal skill you will gain through a college education. All academic disciplines employ these skills, philosophy students practice them in a more wide-ranging and penetrating fashion. As a result, philosophy majors find success in all occupations. In a [2013 study](https://www.aacu.org/sites/default/files/files/LEAP/2013_EmployerSurvey.pdf), employers rank critical thinking skills as the number one thing they look for in employee. Philosophy majors also excel on [graduate and professional exams](http://blogs.discovermagazine.com/gnxp/2010/12/verbal-vs-mathematical-aptitude-in-academics/#.WdKZo9NSyUl). 
+Temple Philosophy alumni have gone on to study law, medicine, and other graduate studies at top-ranked universities. They have also developed successful professional and academic careers. In a [major survey of American employers](https://www.aacu.org/sites/default/files/files/LEAP/2013_EmployerSurvey.pdf), 93 percent agreed that “a candidate’s demonstrated capacity to think critically, communicate clearly and solve complex problems is more important than their undergraduate major.” More than 90 percent placed high value on ethical decision-making, intercultural skills and interest in continued learning. These are all skills developed by studying philosophy. 
 
 ## Famous People who have Philosophy Degrees
-Philosophy majors enjoy careers in careers that range from author to Supreme Court Justice. Here are just a few names you might recognize
+Philosophy graduates work in careers that range from comedian to Supreme Court justice. Famous philosophy majors include
 
+- George Soros - Investor and Philanthropist
+- Martin Luther King - Civil Rights Leader
 - San Suu Kyi - Nobel Peace Prize Winner
-- Stephen Breyer - Supreme Court Justice
-- Dr. Martin Luther King - Civil Rights Leader
 - Stephen Colbert - Comedian
 - Stacey London - Stylist
+- Stephen Breyer - Supreme Court Justice
+- Stephen Colbert - Comedian
 - Steve Martin - Actor
-- George Soros - Investor and Philanthropist
 - Thomas Jefferson - US President
 
 ## Temple Philosophy BA Alums
-Like Temple Owls, Department of Philosophy graduates of turn up everywhere. Here is a partial list of places where our philosophy majors have ended up
+Graduates from the Department of Philosophy are influential in the arts and work as activists, lawyers, teachers and more. Here is a partial list of successful graduates from our department. 
 
 - April Glaser '12: [Staff Activist at the Electronic Frontier Foundation](https://sites.temple.edu/humansciences/2014/05/12/temple-made-april-glaser-and-the-eff/)
-- Steven Horowitz '09 - JD Harvard University Law School, 2009
+- Steven Horowitz '06 - JD, Harvard University Law School '09
 - Earl Joseph '11: [Seventh grade teacher at Mastery Charter School](https://liberalarts.temple.edu/about-us/newsroom/philosophy-alumnus-looks-disrupt-american-education-system)
-- Roger Stevens '11: [JD University of Pennsylvania Law School/founding member of alt rock band _Blind Mellon_](https://en.wikipedia.org/wiki/Rogers_Stevens)
-- Janelle Derstine '99: PhD student at the Department of Philosophy, Rugers University
+- Roger Stevens '11: [JD, University of Pennsylvania Law School/founding member of alt rock band _Blind Mellon_](https://en.wikipedia.org/wiki/Rogers_Stevens)
+- Janelle Derstine '99: PhD student at the Department of Philosophy, Rutgers University
 
 ## Make Your Declaration
-The College of Liberal Arts has the largest selection of academic offerings at Temple University. Our students have the flexibility to explore all of their interests, from the humanities and social sciences to business and the media arts. The College of Liberal Arts prepares students to become innovators in all fields, across all industries. We are civic-minded, globally conscious creative thinkers, doers and risk-takers. Home to 28 departments and programs, we offer a solid liberal arts education at a premier urban, research university.
+The College of Liberal Arts has the largest selection of academic offerings at Temple University. Our students have the flexibility to explore all of their interests, from the humanities and social sciences to business and the media arts. The College of Liberal Arts prepares students to become innovators in all fields, across all industries. We are creative thinkers, doers and risk-takers. Home to 28 departments and programs, we offer a solid liberal arts education at a premier urban, research university.
 
-[View Our Complete List of Academic Offerings](liberalarts.temple.edu)
+[Explore the Complete List of Academic Offerings at CLA](liberalarts.temple.edu)
 
 ## Study Abroad Programs
-Temple students can study abroad in almost any country through our programs, exchanges and partnerships with organizations around the world. The benefits of studying abroad are immense; the decision to study abroad will change your life more than any other part of your college experience. This is your opportunity to live, study and intern in another country for college credit. Where will Temple take you?
+Temple students can study abroad in almost any country through our exchanges, partnerships and programs with organizations around the world. The benefits of studying abroad are immense; the decision to study abroad will change your life more than any other part of your college experience. This is your opportunity to intern, live and study in another country for college credit. Where will Temple take you?
 
 [Learn More about Studying Abroad](https://studyabroad.temple.edu/)
 
 ## Visit Us!
 To know what Temple is really about, you have to experience it firsthand. Our Main Campus in Philadelphia is an energetic community of students, faculty and local culture. And the opportunities don’t stop there. For Temple students, Philadelphia is a place to learn and branch out. Undergraduate Admissions offers tours daily. If you would like to experience the College of Liberal Arts in person, get in touch with us.
 
-[Learn More](http://admissions.temple.edu/visit)
+[Arrange a Visit Today](http://admissions.temple.edu/visit)
 
 ## Thinking Of Transferring?
 Almost half of incoming Temple students transfer from other colleges and universities. If you’ve taken 15 or more college-level credits after high school graduation, you can apply for admission as a transfer student. If you’re thinking about transferring, consider attending a [Transfer Tuesday](http://admissions.temple.edu/visit/transfer-tuesday) general information session.
@@ -50,7 +56,7 @@ Almost half of incoming Temple students transfer from other colleges and univers
 [Learn More about Transferring to Temple](http://admissions.temple.edu/apply/transfer-applicant)
 
 ## Apply
-Are you ready to apply? [submit your application online](http://admissions.temple.edu/apply).
+Ready to apply? [Submit your application online](http://admissions.temple.edu/apply).
 
 ## Deadlines
 - **February 1**: Freshman Application Deadline for Fall Semester
