@@ -69,8 +69,6 @@ PhD students are awarded financial aid on academic merit. The department nominat
 ## Tuition and Fees
 For more than 130 years, we have focused on providing a world-class education at an affordable price. Just compare Temple to other universities and see what we mean. Temple tuition rates vary by college or school, residency status, student level and more. Use the [Temple Tuition Calculator](https://bursar.temple.edu/tuition-and-fees/tuition-rates) to estimate your tuition rate.
 
-[Temple Tuition Calculator](https://bursar.temple.edu/tuition-and-fees/tuition-rates)
-
 ## Apply to Temple
 Ready to apply? [Submit your application online](https://prd-wlssb.temple.edu/prod8/bwskalog.P_DispLoginNon).
 
