@@ -81,8 +81,6 @@ Take charge of your future and limit your debt. The Fly in 4 partnership allows 
 ## Tuition and Fees
 For more than 130 years, we have focused on providing a world-class education at an affordable price. Just compare Temple to other universities and see what we mean. Temple tuition rates vary by college or school, residency status, student level and more. Use the [Temple Tuition Calculator](https://bursar.temple.edu/tuition-and-fees/tuition-rates) to estimate your tuition rate.
 
-[Temple Tuition Calculator](https://bursar.temple.edu/tuition-and-fees/tuition-rates)
-
 ## Financial Aid and Scholarships
 At Temple, we believe that students from all walks of life should have access to an outstanding college education. If you need help paying for your education, you aren’t alone. Most students receive some form of financial aid to fund their education. About 60% of first-year Temple students receive need-based financial aid, and the average first-year financial aid package is about $15,000. Eligible students receive financial assistance from federal, state, private and university sources. Explore your financial aid options and apply early to make your college education an affordable experience. 
 
