@@ -2,16 +2,14 @@
 title: Next Stops
 permalink: /next-stops/
 description: >-
-  Philosophy majors are successful in whatever career they choose. Critical
-  thinking and problem-solving skills are useful in every profession.
+  Philosophy majors are successful in whatever career they choose. Critical thinking and problem-solving skills are useful in every profession.
 keywords: >-
-  Department of Philosophy, Study Abroad Programs, Famous Philosophy Majors,
-  careers for philosophy majors, pre-law major
+  Department of Philosophy, Famous Philosophy Majors, careers for philosophy majors
 layout: page
 published: true
 ---
 ## What Can I Do With a Degree in Philosophy?
-Temple Philosophy alumni have gone on to study law, medicine, and other graduate studies at top-ranked universities. They have also developed successful professional and academic careers. In a [major survey of American employers](https://www.aacu.org/sites/default/files/files/LEAP/2013_EmployerSurvey.pdf), 93 percent agreed that “a candidate’s demonstrated capacity to think critically, communicate clearly and solve complex problems is more important than their undergraduate major.” More than 90 percent placed high value on ethical decision-making, intercultural skills and interest in continued learning. These are all skills developed by studying philosophy. 
+Temple Philosophy alumni have gone on to study law, medicine, and other graduate studies at top-ranked universities. They have also developed successful professional and academic careers. In a [major survey of American employers](https://www.aacu.org/sites/default/files/files/LEAP/2013_EmployerSurvey.pdf), 93 percent agreed that “a candidate’s demonstrated capacity to think critically, communicate clearly and solve complex problems is more important than their undergraduate major.” More than 90 percent placed high value on ethical decision-making, intercultural skills and interest in continued learning. These are all skills developed by studying philosophy.
 
 ## Famous People who have Philosophy Degrees
 Philosophy graduates work in careers that range from comedian to Supreme Court justice. Famous philosophy majors include
@@ -27,7 +25,7 @@ Philosophy graduates work in careers that range from comedian to Supreme Court j
 - Thomas Jefferson - US President
 
 ## Temple Philosophy BA Alums
-Graduates from the Department of Philosophy are influential in the arts and work as activists, lawyers, teachers and more. Here is a partial list of successful graduates from our department. 
+Graduates from the Department of Philosophy are influential in the arts and work as activists, lawyers, teachers and more. Here is a partial list of successful graduates from our department.
 
 - April Glaser '12: [Staff Activist at the Electronic Frontier Foundation](https://sites.temple.edu/humansciences/2014/05/12/temple-made-april-glaser-and-the-eff/)
 - Steven Horowitz '06 - JD, Harvard University Law School '09
