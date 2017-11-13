@@ -4,7 +4,7 @@ permalink: /undergraduate/
 layout: page
 description: >-
   Major or minor in Philosophy at Temple University in Philadephia. Explore
-  topics the include the morality of law, bioethics and feminist philosophy. 
+  topics the include the morality of law, bioethics and feminist philosophy.
 keywords: >-
   BA in philosophy, Department of Philosophy, Major in Philosophy, Minor in
   Philosophy
@@ -42,8 +42,7 @@ sidebar-content: |
    [slawson@temple.edu](mailto:slawson@temple.edu)
 ---
 ## Major in Philosophy at Temple
-As part of the [College of Liberal Arts](https://liberalarts.temple.edu/) at Temple University, our BA in Philosophy program provides undergraduates with a solid foundation for careers in business, law or medicine. Philosophy majors are extremely high performers on graduate school exams, ranking first among all majors in
-combined scores on the GRE, LSAT and GMAT. Majoring in philosophy is also an excellent way to prepare for the further study of philosophy in graduate school. Philosophy raises fundamental questions about ourselves and the world, which result in a sharpened perception of the value of our lives and an increased ability to analyze. Majoring in philosophy is flexible by design; it easily accommodates study abroad programs and internships.
+As part of the [College of Liberal Arts](https://liberalarts.temple.edu/) at Temple University, our BA in Philosophy program provides undergraduates with a solid foundation for careers in business, law or medicine. Philosophy majors are extremely high performers on graduate school exams, ranking first among all majors in combined scores on the GRE, LSAT and GMAT. Majoring in philosophy is also an excellent way to prepare for the further study of philosophy in graduate school. Philosophy raises fundamental questions about ourselves and the world, which result in a sharpened perception of the value of our lives and an increased ability to analyze. Majoring in philosophy is flexible by design; it easily accommodates study abroad programs and internships.
 
 [Learn More about Majoring in Philosophy](http://bulletin.temple.edu/undergraduate/liberal-arts/philosophy/ba-philosophy/)
 
@@ -54,7 +53,7 @@ If you plan on going to law school, our department offers a BA in Philosophy wit
 - [Learn More about Pre-Law at Temple University](http://develop.cla.temple.edu/pre-law/undergraduate/)
 
 ## Minor in Philosophy
-The Minor in Philosophy is an excellent way to extend the breadth of your education and understanding of the world. Whether you plan to become a lawyer, a teacher or adoctor, our Minor in Philosophy program makes the development of strong communication and reasoning skills a priority. A Philosophy Minor helps you stand out when you apply for jobs or graduate school, because it shows that you have a well-rounded education.
+The Minor in Philosophy is an excellent way to extend the breadth of your education and understanding of the world. Whether you plan to become a lawyer, a teacher or a doctor, our Minor in Philosophy program makes the development of strong communication and reasoning skills a priority. A Philosophy Minor helps you stand out when you apply for jobs or graduate school, because it shows that you have a well-rounded education.
 
 [Learn More about Minoring in Philosophy](http://bulletin.temple.edu/undergraduate/liberal-arts/philosophy/minor-philosophy/)
 
@@ -64,7 +63,7 @@ Our certificate program in ethics emphasizes the essential central issues, conce
 [Learn more about the Certificate in Ethics](http://bulletin.temple.edu/undergraduate/liberal-arts/philosophy/certificate-ethics/)
 
 ## Studying Philosophy as a Pre-Med Student
-Philosophy courses provide you with a competitive advantage on the MCATS and in medical school coursework by developing your passion for inquiry, critical thinking and analysis. Philosophy courses also enrich preparation for careers in the medical and health care fields by providing a solid foundation in professional ethics. Humanities majors not only score well on the MCAT exam, but also tend to score higher as a group than biological sciences majors. The Philosophy Department offers several useful courses for Pre-Med students: _Philosophy of Biology_, _Ethics in Medicine_, _Philosophy of Medicine_ and _Philosophy of Science_. 
+Philosophy courses provide you with a competitive advantage on the MCATS and in medical school coursework by developing your passion for inquiry, critical thinking and analysis. Philosophy courses also enrich preparation for careers in the medical and health care fields by providing a solid foundation in professional ethics. Humanities majors not only score well on the MCAT exam, but also tend to score higher as a group than biological sciences majors. The Philosophy Department offers several useful courses for Pre-Med students: _Philosophy of Biology_, _Ethics in Medicine_, _Philosophy of Medicine_ and _Philosophy of Science_.
 
 [learn More About Philosophy of Medicine Courses](http://develop.cla.temple.edu/philosophy/media/pre-med-philosophy.pdf)
 
@@ -82,7 +81,7 @@ Take charge of your future and limit your debt. The Fly in 4 partnership allows 
 For more than 130 years, we have focused on providing a world-class education at an affordable price. Just compare Temple to other universities and see what we mean. Temple tuition rates vary by college or school, residency status, student level and more. Use the [Temple Tuition Calculator](https://bursar.temple.edu/tuition-and-fees/tuition-rates) to estimate your tuition rate.
 
 ## Financial Aid and Scholarships
-At Temple, we believe that students from all walks of life should have access to an outstanding college education. If you need help paying for your education, you aren’t alone. Most students receive some form of financial aid to fund their education. About 60% of first-year Temple students receive need-based financial aid, and the average first-year financial aid package is about $15,000. Eligible students receive financial assistance from federal, state, private and university sources. Explore your financial aid options and apply early to make your college education an affordable experience. 
+At Temple, we believe that students from all walks of life should have access to an outstanding college education. If you need help paying for your education, you aren’t alone. Most students receive some form of financial aid to fund their education. About 60% of first-year Temple students receive need-based financial aid, and the average first-year financial aid package is about $15,000. Eligible students receive financial assistance from federal, state, private and university sources. Explore your financial aid options and apply early to make your college education an affordable experience.
 
 [Student Financial Services](https://sfs.temple.edu/financial-aid-types)
 
