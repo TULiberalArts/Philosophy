@@ -17,12 +17,12 @@ Temple Undergraduate Philosophy Society (TUPS) is a organization at Temple Unive
 [Learn More about TUPS at Temple University](https://tuphilosophy.wordpress.com/mission/)
 
 ## Pre-Law Studies at Temple
-Pre-law students at Temple contine on to the best law schools in the US. They include Temple Law, NYU, Yale, Harvard and Northwestern University. All programs and departments at the College of Liberal Arts prepare Pre-Law students to score well on the LSAT. 
+Pre-law students at Temple contine on to the best law schools in the US. They include Temple Law, NYU, Yale, Harvard and Northwestern University. All programs and departments at the College of Liberal Arts prepare Pre-Law students to score well on the LSAT.
 
 [Learn More about Pre-Law at Temple](http://www.cla.temple.edu/pre-law/)
 
 ## Philosophy Research Services at Paley Library
-The world-class philosophy resources at Paley Library support the learning, research and teaching needs of Temple students and faculty. Our resources include the Stanford Encyclopedia of Philosophy, the Routledge Encyclopedia of Philosophy, Oxford Reference Online and several major online academic databases devoted to the multidisplinary study of the humanities. 
+The world-class philosophy resources at Paley Library support the learning, research and teaching needs of Temple students and faculty. Our resources include the Stanford Encyclopedia of Philosophy, the Routledge Encyclopedia of Philosophy, Oxford Reference Online and several major online academic databases devoted to the multidisplinary study of the humanities.
 
 [Learn More about Philosophy Resources at Paley Library](http://guides.temple.edu/philosophy)
 
@@ -35,11 +35,6 @@ _Fresh Philosophy_ is the Greater Philadelphia Philosophy Consortium’s undergr
 The Greater Philadelphia Philosophy Consortium (GPPC) is a nonprofit educational organization founded in 1980. GPPC includes 15 member institutions including Temple University and promotes philosophical inquiry into the vital intellectual and social issues of our day.
 
 [Learn More about the GPPC](http://www.thegppc.org/)
-
-## Temple Center for Vietnamese Philosophy, Culture and Society
-The Department of Philosophy is involved in a scholarly exchange program with institutions in Vietnam under the auspices of the Temple Center for Vietnamese Philosophy, Culture and Society. The center sponsors conferences, courses, programs and research on Vietnam's rich heritage of philosophy and culture.
-
-[Learn More about the Center](http://www.cla.temple.edu/vietnamese_center/welcome.htm)
 
 ## The Center for the Humanities
 Temple’s Philosophy graduate students are well-represented at the Center for Humanities at Temple (CHAT), which offers grants and associate positions to faculty and advanced graduate students pursuing interdisciplinary work. CHAT works to bridge the divide between departments and colleges by promoting broad, humanities-based conversations that connect scholars from multiple academic fields.
