@@ -8,7 +8,6 @@ keywords: >-
 layout: page
 published: true
 ---
-
 ## Temple Undergraduate Philosophy Society
 Temple Undergraduate Philosophy Society (TUPS) is a organization at Temple University committed to the free and open exchange of philosophical ideas and resources. TUPS meets once a week on Temple's Main Campus.
 
