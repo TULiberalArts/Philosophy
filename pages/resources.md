@@ -2,11 +2,9 @@
 title: Resources
 permalink: /resources/
 description: >-
-  Get help with academic resources, student organizations and philosophy
-  scholarships at Temple University's Department of Philosophy.
+  Get help with academic resources, student organizations and philosophy scholarships at Temple University's Department of Philosophy.
 keywords: >-
-  The Greater Philadelphia Philosophy Consortium, philosophy library, Department
-  of Philosophy, Academic Advising
+  The Greater Philadelphia Philosophy Consortium, philosophy library, Department of Philosophy
 layout: page
 published: true
 ---
