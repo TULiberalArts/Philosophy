@@ -9,7 +9,7 @@ keywords: >-
 published: true
 feature: true
 feature-title: Ignite Your Curiosity
-feature-image: media/hero2_bg.jpg
+feature-image: media/hero2_bg.jpg 
 feature-body: >-
   Temple Philosophy alumni have gone on to study law, medicine, and other
   graduate studies at top-ranked universities. They are successful professionals
