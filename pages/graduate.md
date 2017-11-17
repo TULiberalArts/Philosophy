@@ -55,6 +55,15 @@ The PhD in Philosophy program at Temple provides students with a breadth of know
 
 [Learn More about the PhD in Philosophy](http://bulletin.temple.edu/graduate/scd/cla/philosophy-phd/)
 
+![Bioethics Dual Degree]({{site.baseurl}}/media/bioethics.jpg){:.img-right}
+
+## MA or PhD in Philosophy/Masters in Urban Bioethics Dual Degree 
+The Department of Philosophy and the Center for Bioethics, Urban Health, and Policy at the Lewis Katz School of Medicine introduce the first dual degree programs with a PhD or MA in Philosophy and a Masters in Urban Bioethics! Both degree programs are now accepting applications for Fall 2017 admission. 
+
+The aim of the dual degree programs is to provide (a) Philosophy PhD or MA students with specialized training in the ethics, values, and politics of health in our increasingly multi-dimensionally diverse society and (b) Urban Bioethics students with a broader understanding of the philosophical underpinnings of contemporary bioethics. The dual degree programs blend the missions and values of philosophy and urban bioethics and will prepare students with the depth of training and expertise to enable them to be competitive as they move towards being future leaders in academia, public spheres, and health care.
+
+[Learn More about the MA or PhD in Philosophy/MA in Urban Bioethics](https://medicine.temple.edu/departments-centers/research-centers/center-bioethics-urban-health-and-policy/educational-programs/dual-degrees)
+
 ## Academic Partnerships and Exchanges
 We actively encourage—and facilitate—interdisciplinary scholarly work. The Philosophy Department and the Lewis Katz School of Medicine at Temple now offer [dual degrees in Philosophy and Urban Bioethics](http://bulletin.temple.edu/graduate/scd/medicine/urban-bioethics-ma/) designed to prepare students for practice, research and teaching in healthcare ethics and policy. We offer a Graduate Certificate in Gender, Sexuality, and Women’s Studies in cooperation with the Women's Studies Department and expanded  course offerings through [The Greater Philadelphia Philosophy Consortium](http://www.thegppc.org/). MA and PhD in philosophy students may take graduate courses at the University of Pennslyvania and Villanova University.
 
@@ -74,7 +83,7 @@ Ready to apply? [Submit your application online](https://prd-wlssb.temple.edu/pr
 ## Curriculum and Academic Requirements
 - **[MA in Philosophy](http://bulletin.temple.edu/graduate/scd/cla/philosophy-ma/)**
 - **[PhD in Philosophy](http://bulletin.temple.edu/graduate/scd/cla/philosophy-phd/)**
-- **[MA or PhD in Philosophy/MA in Urban Bioethics](http://bulletin.temple.edu/graduate/scd/medicine/urban-bioethics-ma/)**
+- **[MA or PhD in Philosophy/MA in Urban Bioethics](https://medicine.temple.edu/departments-centers/research-centers/center-bioethics-urban-health-and-policy/educational-programs/dual-degrees)**
 
 ## Graduate Application Deadlines
 - **Jan. 15** for PhD applications
