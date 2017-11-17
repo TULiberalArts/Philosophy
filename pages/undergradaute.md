@@ -57,6 +57,8 @@ The Minor in Philosophy is an excellent way to extend the breadth of your educat
 
 [Learn More about Minoring in Philosophy](http://bulletin.temple.edu/undergraduate/liberal-arts/philosophy/minor-philosophy/)
 
+![Certificate in Ethics]({{site.baseurl}}/media/ethics.jpg){:.img-right}
+
 ## Undergraduate Certificate in Ethics
 Our certificate program in ethics emphasizes the essential central issues, concepts, history and methodologies of ethical reasoning. Available to undergraduates from any degree or minor, the certificate prepares you for professional life by teaching you how to follow and define ethical guidelines and codes of conduct. Completion of the certificate shows employers that you are ready and committed to ethical leadership. Students take a required introduction course in ethical theory, two courses in applied/professional ethics and a fourth course, in either applied/professional ethics or ethical theory.
 
