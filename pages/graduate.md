@@ -2,7 +2,8 @@
 title: Graduate
 permalink: /graduate/
 description: >-
-  Earn an MA or PhD in Philosophy at Temple University. We are a vibrant community of graduate students and philosophy faculty in Philadelphia.
+  Earn an MA or PhD in Philosophy at Temple University. We are a vibrant
+  community of graduate students and philosophy faculty in Philadelphia.
 keywords: >-
   graduate program in philosophy, MA in philosophy, PhD in philosophy,
   philosophy fellowships
@@ -77,8 +78,8 @@ PhD students are awarded financial aid on academic merit. The department nominat
 ## Tuition and Fees
 For more than 130 years, we have focused on providing a world-class education at an affordable price. Just compare Temple to other universities and see what we mean. Temple tuition rates vary by college or school, residency status, student level and more. Use the [Temple Tuition Calculator](https://bursar.temple.edu/tuition-and-fees/tuition-rates) to estimate your tuition rate.
 
-## Apply to Temple
-Ready to apply? [Submit your application online](https://prd-wlssb.temple.edu/prod8/bwskalog.P_DispLoginNon).
+## Admissions Process 
+Please visit the [Philosophy Graduate Admissions page](https://liberalarts.temple.edu/admissions/graduate/philosophy) to learn more about graduate program requirements, dates and deadlines and instructions on how to apply.
 
 ## Curriculum and Academic Requirements
 - **[MA in Philosophy](http://bulletin.temple.edu/graduate/scd/cla/philosophy-ma/)**
