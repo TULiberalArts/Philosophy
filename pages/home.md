@@ -1,7 +1,7 @@
 ---
 title: Home
 permalink: /
-layout: home
+layout: home3
 description: >-
   The Department of Philosophy at Temple University in Philadelphia offers top undergraduate and graduate programs in philosophy and ethics.
 keywords: >-
