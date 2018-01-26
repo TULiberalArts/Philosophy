@@ -44,6 +44,8 @@ sidebar-content: |
 ## Earn an MA or PhD in Philosophy
 Granting its first PhD in 1971, the Department of Philosophy has a proud history in Philadelphia. Our scholarly community consists of a cohesive group of graduate students and faculty who work across the traditions of Anglo-American and European philosophy, contemporary issues and historical scholarship. In spite of a challenging job market, our MA and PhD graduates are successful in landing academic and non-academic philosophy-related positions. Temple graduates teach in Europe, the US, Asia and beyond. Check out what our [current graduate students](https://sites.google.com/site/tuphilgrads/) are studying to get a sense of our comprehensive department.
 
+Please visit the [Philosophy Graduate Admissions page](https://liberalarts.temple.edu/admissions/graduate/philosophy) to learn more about graduate program requirements, dates and deadlines and instructions on how to apply.
+
 Temple’s philosophy faculty are internationally acclaimed in key philosophical areas that include aesthetics, ancient philosophy, ethics, early modern and Kant/post-Kantian European philosophy, epistemology, feminism, philosophy of language, philosophy of science and pragmatism. We have an especially rich history and continuing presence in the field of aesthetics - Monroe Beardsley and John Fisher were former faculty. Faculty members publish with leading journals and publishing houses, representing Temple nationally and abroad.
 
 ## MA in Philosophy
