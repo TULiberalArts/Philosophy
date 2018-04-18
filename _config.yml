@@ -5,7 +5,8 @@ title: Philosophy
 baseurl: /philosophy
 # Production domain (without / at the end)
 production: https://www.cla.temple.edu
-
+# url spits sitemap
+url: https://www.cla.temple.edu/philosophy
 
 # Program Information
 # Short tagline for tweets (<100 characters)
