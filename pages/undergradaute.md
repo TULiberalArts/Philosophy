@@ -93,5 +93,12 @@ At Temple, we believe that students from all walks of life should have access to
 - **Nov. 1**: Transfer Deadline for Spring Semester
 - **June 1**: Transfer Deadline for Fall Semester
 
+## Undergraduate Resources
+- [The Center for Academic Advising and Professional Development](https://liberalarts.temple.edu/advising)
+- [Changing your major](http://www.temple.edu/studentaffairs/orientation/freshman-orientation/changing-your-major.asp)
+- [Graduation application process](http://www.temple.edu/registrar/students/graduation)
+- [Undergraduate funding](http://sfs.temple.edu/)
+- [Undergraduate policies and procedures](http://bulletin.temple.edu/undergraduate/academic-policies/)
+
 ## Undergraduate Admissions
 Ready to apply? [Submit your application online](http://admissions.temple.edu/apply).
