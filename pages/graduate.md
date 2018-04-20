@@ -87,3 +87,10 @@ Please visit the [Philosophy Graduate Admissions page](https://liberalarts.templ
 - **Jan. 15** for PhD applications
 - **March 1** for MA applications
 - **March 1** for MA/MAUB applications
+
+## Graduate Resources
+- [Graduate Student Handbook](https://liberalarts.temple.edu/sites/liberalarts/files/Philosophy%20Graduate%20Handbook%202017-18.pdf)
+- [Graduate school forms](http://www.temple.edu/grad/forms/index.htm)
+- [Graduate school funding](http://www.temple.edu/grad/finances/index.htm)
+- [Graduate school policies](http://www.temple.edu/grad/policies/index.htm)
+- [Applying to graduate school](http://www.temple.edu/grad/admissions/howtoapply.htm)
