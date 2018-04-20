@@ -87,17 +87,11 @@ At Temple, we believe that students from all walks of life should have access to
 
 [Student Financial Services](https://sfs.temple.edu/financial-aid-types)
 
-## Undergraduate Admissions
-Ready to apply? [Submit your application online](http://admissions.temple.edu/apply).
-
-### Academic Offerings
-- [BA in Philosophy](http://bulletin.temple.edu/undergraduate/liberal-arts/philosophy/ba-philosophy/)
-- [Minor in Philosophy](http://bulletin.temple.edu/undergraduate/liberal-arts/philosophy/minor-philosophy/)
-- [Certificate in Ethics](http://bulletin.temple.edu/undergraduate/liberal-arts/philosophy/certificate-ethics/)
-- [BA in Philosophy with a Pre-Law Emphasis](http://bulletin.temple.edu/undergraduate/liberal-arts/philosophy/ba-philosophy/#academicplanstext)
-
-### Temple Admissions Deadlines
+## Temple Admissions Deadlines
 - **Feb. 1**: Freshman Application Deadline for Fall Semester
 - **March 1**: FAFSA Financial Aid Application Deadline
 - **Nov. 1**: Transfer Deadline for Spring Semester
 - **June 1**: Transfer Deadline for Fall Semester
+
+## Undergraduate Admissions
+Ready to apply? [Submit your application online](http://admissions.temple.edu/apply).
