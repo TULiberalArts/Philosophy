@@ -83,11 +83,6 @@ For more than 130 years, we have focused on providing a world-class education at
 ## Admissions Process 
 Please visit the [Philosophy Graduate Admissions page](https://liberalarts.temple.edu/admissions/graduate/philosophy) to learn more about graduate program requirements, dates and deadlines and instructions on how to apply.
 
-## Curriculum and Academic Requirements
-- **[MA in Philosophy](http://bulletin.temple.edu/graduate/scd/cla/philosophy-ma/)**
-- **[PhD in Philosophy](http://bulletin.temple.edu/graduate/scd/cla/philosophy-phd/)**
-- **[MA or PhD in Philosophy/MA in Urban Bioethics](https://medicine.temple.edu/departments-centers/research-centers/center-bioethics-urban-health-and-policy/educational-programs/dual-degrees)**
-
 ## Graduate Application Deadlines
 - **Jan. 15** for PhD applications
 - **March 1** for MA applications
