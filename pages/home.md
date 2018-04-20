@@ -20,9 +20,6 @@ Welcome to Temple’s Department of Philosophy! We are a vibrant community of ph
 
 Whatever your interests, the department offers relevant courses and outstanding faculty members. Our course offerings cover pure and applied philosophy; contemporary philosophy and the history of philosophy; philosophy of race, gender, and other forms of social diversity. Departmental strengths include aesthetics, epistemology, ethics, European philosophy, Greek and early modern philosophy and philosophy of medicine and science. We offer both undergraduate and graduate degree programs.
 
-## Apply to Temple University
-Ready to apply? [Submit your application online](http://admissions.temple.edu/apply).
-
 ## Academic Offerings
 - [BA in Philosophy](http://bulletin.temple.edu/undergraduate/liberal-arts/philosophy/ba-philosophy/)
 - [BA in Philosophy with a Pre-Law Emphasis](http://bulletin.temple.edu/undergraduate/liberal-arts/philosophy/ba-philosophy/#academicplanstext)
