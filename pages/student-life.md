@@ -1,6 +1,6 @@
 ---
-title: Resources
-permalink: /resources/
+title: Student Life
+permalink: /student-life/
 description: >-
   Get help with academic resources, student organizations and philosophy scholarships at Temple University's Department of Philosophy.
 keywords: >-
@@ -42,17 +42,3 @@ Temple’s Philosophy graduate students are well-represented at the Center for H
 The Center for the Advancement of Teaching (CAT) promotes the value and practice of excellent teaching that facilitates student learning and growth. CAT’s programs and resources support evidence-based teaching and provide opportunities for faculty and graduate student TAs to learn from the experience and expertise of their colleagues.
 
 [Learn More about CAT](https://teaching.temple.edu/)
-
-## Undergraduate Resources
-- [The Center for Academic Advising and Professional Development](https://liberalarts.temple.edu/advising)
-- [Changing your major](http://www.temple.edu/studentaffairs/orientation/freshman-orientation/changing-your-major.asp)
-- [Graduation application process](http://www.temple.edu/registrar/students/graduation)
-- [Undergraduate funding](http://sfs.temple.edu/)
-- [Undergraduate policies and procedures](http://bulletin.temple.edu/undergraduate/academic-policies/)
-
-## Graduate Resources
-- [Graduate Student Handbook](https://liberalarts.temple.edu/sites/liberalarts/files/Philosophy%20Graduate%20Handbook%202017-18.pdf)
-- [Graduate school forms](http://www.temple.edu/grad/forms/index.htm)
-- [Graduate school funding](http://www.temple.edu/grad/finances/index.htm)
-- [Graduate school policies](http://www.temple.edu/grad/policies/index.htm)
-- [Applying to graduate school](http://www.temple.edu/grad/admissions/howtoapply.htm)
