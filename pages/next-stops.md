@@ -3,8 +3,7 @@ title: Next Stops
 permalink: /next-stops/
 description: >-
   Philosophy majors are successful in whatever career they choose. Critical thinking and problem-solving skills are useful in every profession.
-keywords: >-
-  Department of Philosophy, Famous Philosophy Majors, careers for philosophy majors
+keywords: 'Famous Philosophy Majors, careers for philosophy majors, alumni apply, transfer, visit'
 layout: page
 published: true
 ---
@@ -24,7 +23,7 @@ Philosophy graduates work in careers that range from comedian to Supreme Court j
 - Steve Martin - Actor
 - Thomas Jefferson - US President
 
-## Temple Philosophy BA Alums
+## Temple Philosophy BA Alumni
 Graduates from the Department of Philosophy are influential in the arts and work as activists, lawyers, teachers and more. Here is a partial list of successful graduates from our department.
 
 - April Glaser '12: [Staff Activist at the Electronic Frontier Foundation](https://sites.temple.edu/humansciences/2014/05/12/temple-made-april-glaser-and-the-eff/)
