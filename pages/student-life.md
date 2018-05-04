@@ -3,8 +3,7 @@ title: Student Life
 permalink: /student-life/
 description: >-
   Get help with academic resources, student organizations and philosophy scholarships at Temple University's Department of Philosophy.
-keywords: >-
-  The Greater Philadelphia Philosophy Consortium, philosophy library, Department of Philosophy
+keywords: 'undergraduate philosophy society, philosophy library, pre law studies, center for the humanities at Temple' 
 layout: page
 published: true
 ---
