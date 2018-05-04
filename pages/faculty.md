@@ -2,7 +2,7 @@
 title: Faculty
 permalink: /faculty/
 layout: faculty2
-keywords: ''
+keywords: 'internationall acclaimed faculty, post-Kantian European philosophy, professors, faculty'
 description: >-
   Temple's Department of Philosophy faculty have expertise in aesthetics, feminist philosophy, philosophy of science, ethics and the morality of law.
 published: true
