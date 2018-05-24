@@ -4,7 +4,8 @@ permalink: /next-stops/
 description: >-
   Philosophy majors are successful in whatever career they choose. Critical thinking and problem-solving skills are useful in every profession.
 keywords: 'Famous Philosophy Majors, careers for philosophy majors, alumni apply, transfer, visit'
-layout: page
+layout: tla_page
+sidebar: false
 published: true
 ---
 ## What Can I Do With a Degree in Philosophy?

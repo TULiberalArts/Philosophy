@@ -3,8 +3,9 @@ title: Student Life
 permalink: /student-life/
 description: >-
   Get help with academic resources, student organizations and philosophy scholarships at Temple University's Department of Philosophy.
-keywords: 'undergraduate philosophy society, philosophy library, pre law studies, center for the humanities at Temple' 
-layout: page
+keywords: 'undergraduate philosophy society, philosophy library, pre law studies, center for the humanities at Temple'
+layout: tla_page
+sidebar: false
 published: true
 ---
 ## Temple Undergraduate Philosophy Society
