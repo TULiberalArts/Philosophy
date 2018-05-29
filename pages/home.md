@@ -15,7 +15,8 @@ feature-body: >-
   and academics, social activists, teachers and journalists.
 ---
 ## Why Study Philosophy?
-We are a vibrant community of philosophy scholars in the urban and cultural mecca of Philadelphia. Philosophy explores life’s big questions about knowledge, existence and values. Do we have free will? Does God exist? How do we define health and disease? What is the good life? If you study philosophy at Temple University, you will assess these and other claims and evaluate arguments in a wide range of fields.
+We are a vibrant community of philosophy scholars in the urban and cultural mecca of Philadelphia. Philosophy explores life’s big questions about knowledge, existence and values. Do we have free will? Does God exist? How do we define health and disease? What is the good life? If you study Philosophy at Temple University, you will assess these and other claims and evaluate arguments in a wide range of fields.
+
 Whatever your interests, the department offers relevant courses and outstanding faculty members. Our course offerings cover pure and applied philosophy; contemporary philosophy and the history of philosophy; and philosophy of race, gender and other forms of social diversity. Departmental strengths include aesthetics, epistemology, ethics, European philosophy, Greek and early modern philosophy and philosophy of medicine and science. We offer both undergraduate and graduate degree programs.
 
 ## Academic Offerings
