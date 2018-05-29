@@ -1,12 +1,16 @@
 ---
-title: Next Stops
+# global predefined variables
+layout: tla_page
 permalink: /next-stops/
+published: true
+# meta-data variables
+title: Next Stops
 description: >-
   Philosophy majors are successful in whatever career they choose. Critical thinking and problem-solving skills are useful in every profession.
 keywords: 'Famous Philosophy Majors, careers for philosophy majors, alumni apply, transfer, visit'
-layout: tla_page
+# custom variables
 sidebar: false
-published: true
+
 ---
 Wondering what you can do with a philosophy degree from Temple University? Take a look at what some [famous individuals](#famous-people-who-have-philosophy-degrees) have done with philosophy degrees and where some of our successful [alumni](#temple-philosophy-ba-lumni) have landed. Ready to get started? [Make your declaration](#make-your-declaration), consider a [study abroad](#study-abroad-programs) opportunity, [visit us](#visit-us) on campus, learn about your [transfer](#thinking-of-transferring) options and [apply](#apply) today before our [deadlines](#deadlines) arrive.
 

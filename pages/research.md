@@ -1,10 +1,13 @@
 ---
-title: Research
-permalink: /research/
+# global predefined variables
 layout: page
+permalink: /research/
+published: false
+# meta-data variables
+title: Research
 keywords: ''
 description: >-
-published: false
+# custom variables
 ---
 
 

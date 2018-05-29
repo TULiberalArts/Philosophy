@@ -1,14 +1,17 @@
 ---
-title: Graduate
+# global predefined variables
+layout: page
 permalink: /graduate/
+published: true
+# meta-data variables
+title: Graduate
 description: >-
   Earn an MA or PhD in Philosophy at Temple University. We are a vibrant
   community of graduate students and philosophy faculty in Philadelphia.
 keywords: >-
   graduate program in philosophy, MA in philosophy, PhD in philosophy,
   philosophy fellowships
-layout: page
-published: true
+# custom variables
 sidebar: true
 sidebar-content: |
   **Chair:**  
@@ -62,8 +65,8 @@ The PhD in Philosophy program at Temple provides students with a breadth of know
 
 ![Bioethics Dual Degree]({{site.baseurl}}/media/resized bioethics.jpg){:.img-right}
 
-## MA or PhD in Philosophy/Masters in Urban Bioethics Dual Degree 
-The Department of Philosophy and the Center for Bioethics, Urban Health, and Policy at the Lewis Katz School of Medicine introduce the first dual degree programs with a PhD or MA in Philosophy and a Masters in Urban Bioethics! Both degree programs are now accepting applications for Fall 2017 admission. 
+## MA or PhD in Philosophy/Masters in Urban Bioethics Dual Degree
+The Department of Philosophy and the Center for Bioethics, Urban Health, and Policy at the Lewis Katz School of Medicine introduce the first dual degree programs with a PhD or MA in Philosophy and a Masters in Urban Bioethics! Both degree programs are now accepting applications for Fall 2017 admission.
 
 The aim of the dual degree programs is to provide (a) Philosophy PhD or MA students with specialized training in the ethics, values, and politics of health in our increasingly multi-dimensionally diverse society and (b) Urban Bioethics students with a broader understanding of the philosophical underpinnings of contemporary bioethics. The dual degree programs blend the missions and values of philosophy and urban bioethics and will prepare students with the depth of training and expertise to enable them to be competitive as they move towards being future leaders in academia, public spheres, and health care.
 
@@ -82,7 +85,7 @@ PhD students are awarded financial aid on academic merit. The department nominat
 ## Tuition and Fees
 For more than 130 years, we have focused on providing a world-class education at an affordable price. Just compare Temple to other universities and see what we mean. Temple tuition rates vary by college or school, residency status, student level and more. Use the [Temple Tuition Calculator](https://bursar.temple.edu/tuition-and-fees/tuition-rates) to estimate your tuition rate.
 
-## Admissions Process 
+## Admissions Process
 Please visit the [Philosophy Graduate Admissions page](https://liberalarts.temple.edu/admissions/graduate/philosophy) to learn more about graduate program requirements, dates and deadlines and instructions on how to apply.
 
 ## Graduate Application Deadlines

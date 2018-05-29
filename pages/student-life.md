@@ -1,12 +1,15 @@
 ---
-title: Student Life
+# global predefined variables
+layout: tla_page
 permalink: /student-life/
+published: true
+# meta-data variables
+title: Student Life
 description: >-
   Get help with academic resources, student organizations and philosophy scholarships at Temple University's Department of Philosophy.
 keywords: 'undergraduate philosophy society, philosophy library, pre law studies, center for the humanities at Temple'
-layout: tla_page
+# custom variables
 sidebar: false
-published: true
 ---
 ## Temple Undergraduate Philosophy Society
 Temple Undergraduate Philosophy Society (TUPS) is a organization at Temple University committed to the free and open exchange of philosophical ideas and resources. TUPS meets once a week on Temple's Main Campus.
