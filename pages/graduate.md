@@ -41,6 +41,8 @@ sidebar-content: |
    [(215) 204-1742](tel:2152041742)   
    [slawson@temple.edu](mailto:slawson@temple.edu)
 ---
+At the College of Liberal Arts, you can earn a Philosophy [masters degree](#ma-in-philosophy), a Philosophy [PhD](#phd-in-philosophy) or a [dual masters in urban bioethics](#ma-or-phd-in-philosophy-masters-inu-urban-bioethics-dual-degree). Take advantage of our [academic partnerships and exchanges](#academic-partnership-and-exchanges) or Temple graduate school [funding](#temple-graduate-school-funding). Ready to get started? Review our [tuition and fees](#tuition-and-fees), [admissions process](#admissions-process), graduate [application deadlines](#graduate-application-deadlines) and [graduate resources](#graduate-resources).
+
 ## Earn an MA or PhD in Philosophy
 Granting its first PhD in 1971, the Department of Philosophy has a proud history in Philadelphia. Our scholarly community consists of a cohesive group of graduate students and faculty who work across the traditions of Anglo-American and European philosophy, contemporary issues and historical scholarship. In spite of a challenging job market, our MA and PhD graduates are successful in landing academic and non-academic philosophy-related positions. Temple graduates teach in Europe, the US, Asia and beyond. Check out what our [current graduate students](https://sites.google.com/site/tuphilgrads/) are studying to get a sense of our comprehensive department.
 

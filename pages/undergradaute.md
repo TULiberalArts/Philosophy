@@ -3,7 +3,7 @@ title: Undergraduate
 permalink: /undergraduate/
 layout: page
 description: >-
-  Major or minor in Philosophy at Temple University in Philadephia. Explore
+  Major, minor or get a certificate in Philosophy at Temple University. Explore
   topics the include the morality of law, bioethics and feminist philosophy.
 keywords: 'BA in philosophy, major, minor, certificate, advising, tuition, fly in four, scholarships, resources'  
 published: true
@@ -39,6 +39,8 @@ sidebar-content: |
    [(215) 204-1742](tel:2152041742)   
    [slawson@temple.edu](mailto:slawson@temple.edu)
 ---
+College of Liberal Arts students have options for earning their undergraduate Philosophy degree. As a student, you can [major](#major-in-philosophy-at-temple) in Philosophy, major in Philosophy with a [pre-law emphasis](#major-in-philosophy-with-a-pre-law-emphasis), [minor](#minor-in-philosophy) in Philosophy, earn a [certificate in ethics](#undergraduate-certificate-in-ethics) or study philosophy as a [pre-med student](#studying-philosophy-as-a-pre-med-student). Ready to get started? Plan your college career with the help of [academic advising and professional development](#academic-advising-and-professional-development) so you can [fly in four](#fly-in-four). Need more info? View our [tuition and fees](#tuition-and-fees), [financial aid and scholarship](#financial-aid-and-scholarships) opportunities, admissions [deadlines](#temple-admissions-deadlines), [undergraduate resources](#undergraduate-resources) and find out how to [apply](#undergraduate-admissions).
+
 ## Major in Philosophy at Temple
 As part of the [College of Liberal Arts](https://liberalarts.temple.edu/) at Temple University, our BA in Philosophy program provides undergraduates with a solid foundation for careers in business, law or medicine. Philosophy majors are extremely high performers on graduate school exams, ranking first among all majors in combined scores on the GRE, LSAT and GMAT. Majoring in philosophy is also an excellent way to prepare for the further study of philosophy in graduate school. Philosophy raises fundamental questions about ourselves and the world, which result in a sharpened perception of the value of our lives and an increased ability to analyze. Majoring in philosophy is flexible by design; it easily accommodates study abroad programs and internships.
 
