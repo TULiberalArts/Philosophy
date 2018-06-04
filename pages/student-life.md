@@ -6,7 +6,9 @@ published: true
 # meta-data variables
 title: Student Life
 description: >-
-  Get help with academic resources, student organizations and philosophy scholarships at Temple University's Department of Philosophy.
+  Be in the know about Temple Undergraduate Philosophy Society, Pre-Law Studies, Philosophy Research Services, Fresh Philosophy, the
+  Greater Philadelphia Philosophy Consortium, the Center for the Humanities, and the Center for the Advancement of Teaching.
+  All offered to you through Temple University’s College of Liberal Arts.
 keywords: 'undergraduate philosophy society, philosophy library, pre law studies, center for the humanities at Temple'
 # custom variables
 sidebar: false
