@@ -6,7 +6,8 @@ published: true
 # meta-data variables
 title: Home
 description: >-
-  The Department of Philosophy at Temple University in Philadelphia offers top undergraduate and graduate programs in philosophy and ethics.
+  Major, minor, or earn a certificate in Philosophy from Temple University. View our academic offerings such
+  as aesthetics, epistemology, ethics, European and Greek philosophy, and more in the College of Liberal Arts.
 keywords: 'major, minor, certificate, Philosophy of Law, academic offerings, european philosophy'
 # custom variables
 sidebar: false
