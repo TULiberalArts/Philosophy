@@ -1,6 +1,6 @@
 ---
 # global predefined variables
-layout: page
+layout: tla_page
 permalink: /undergraduate/
 published: true
 # meta-data variables
@@ -11,36 +11,7 @@ description: >-
 keywords: 'BA in philosophy, major, minor, certificate, advising, tuition, fly in four, scholarships, resources'  
 # custom variables
 sidebar: true
-sidebar-content: |
-  **Chair:**  
-   Miriam Solomon  
-   729 Anderson Hall  
-   [(215) 204-9629](tel:2152049629)  
-   [msolomon@temple.edu](mailto:msolomon@temple.edu)  
-
-   ___
-
-   **Undergraduate Advisor:**  
-   Paul Crowe  
-   747 Anderson Hall  
-   [(215) 204-8591](tel:2152048591)  
-   [pcrowe@temple.edu](mailto:pcrowe@temple.edu)  
-
-   ___
-
-   **Administrator:**  
-   Belinda Wilson  
-   821 Ritter Annex   
-   [(215) 204-0472](tel:2152040472)  
-   [bwilson@temple.edu](mailto:bwilson@temple.edu)  
-
-   ___
-
-   **Coordinator:**  
-   Sonia Lawson  
-   731 Anderson Hall    
-   [(215) 204-1742](tel:2152041742)   
-   [slawson@temple.edu](mailto:slawson@temple.edu)
+sidebar_content: sidebars/undergraduate.html
 ---
 College of Liberal Arts students have options for earning their undergraduate Philosophy degree. As a student, you can [major](#major-in-philosophy-at-temple) in Philosophy, major in Philosophy with a [pre-law emphasis](#major-in-philosophy-with-a-pre-law-emphasis), [minor](#minor-in-philosophy) in Philosophy, earn a [certificate in ethics](#undergraduate-certificate-in-ethics) or study philosophy as a [pre-med student](#studying-philosophy-as-a-pre-med-student). Ready to get started? Plan your college career with the help of [academic advising and professional development](#academic-advising-and-professional-development) so you can [fly in four](#fly-in-four). Need more info? View our [tuition and fees](#tuition-and-fees), [financial aid and scholarship](#financial-aid-and-scholarships) opportunities, admissions [deadlines](#temple-admissions-deadlines), [undergraduate resources](#undergraduate-resources) and find out how to [apply](#undergraduate-admissions).
 
