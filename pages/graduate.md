@@ -8,41 +8,10 @@ title: Graduate
 description: >-
   Earn an MA or PhD in Philosophy at Temple University. We are a vibrant
   community of graduate students and philosophy faculty in Philadelphia.
-keywords: >-
-  graduate program in philosophy, MA in philosophy, PhD in philosophy,
-  philosophy fellowships
+keywords: 'graduate program in philosophy, MA in philosophy, PhD in philosophy,philosophy fellowships'
 # custom variables
 sidebar: true
-sidebar-content: |
-  **Chair:**  
-   Miriam Solomon  
-   729 Anderson Hall  
-   [(215) 204-9629](tel:2152049629)  
-   [msolomon@temple.edu](mailto:msolomon@temple.edu)  
-
-   ___
-
-   **Graduate Advisor:**  
-   Dr. Kristin Gjesdal  
-   747 Anderson Hall  
-   [(215) 204-1742](tel:152041742)  
-   [kgjesdal@temple.edu](mailto:kgjesdal@temple.edu)  
-
-   ___
-
-   **Administrator:**  
-   Belinda Wilson  
-   821 Ritter Annex   
-   [(215) 204-0472](tel:2152040472)  
-   [bwilson@temple.edu](mailto:bwilson@temple.edu)  
-
-   ___
-
-   **Coordinator:**  
-   Sonia Lawson  
-   731 Anderson Hall    
-   [(215) 204-1742](tel:2152041742)   
-   [slawson@temple.edu](mailto:slawson@temple.edu)
+sidebar_content: sidebars/graduate.html
 ---
 At the College of Liberal Arts, you can earn a Philosophy [masters degree](#ma-in-philosophy), a Philosophy [PhD](#phd-in-philosophy) or a [dual masters in urban bioethics](#ma-or-phd-in-philosophy-masters-inu-urban-bioethics-dual-degree). Take advantage of our [academic partnerships and exchanges](#academic-partnership-and-exchanges) or Temple graduate school [funding](#temple-graduate-school-funding). Ready to get started? Review our [tuition and fees](#tuition-and-fees), [admissions process](#admissions-process), graduate [application deadlines](#graduate-application-deadlines) and [graduate resources](#graduate-resources).
 
