@@ -9,6 +9,7 @@ description: >-
   The Department of Philosophy at Temple University in Philadelphia offers top undergraduate and graduate programs in philosophy and ethics.
 keywords: 'major, minor, certificate, Philosophy of Law, academic offerings, european philosophy'
 # custom variables
+sidebar: false
 feature: true
 feature-title: Ignite Your Curiosity
 feature-image: media/hero2_bg.jpg
