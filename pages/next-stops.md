@@ -6,8 +6,10 @@ published: true
 # meta-data variables
 title: Next Stops
 description: >-
-  Philosophy majors are successful in whatever career they choose. Critical thinking and problem-solving skills are useful in every profession.
-keywords: 'Famous Philosophy Majors, careers for philosophy majors, alumni apply, transfer, visit'
+  Learn what your possibilities are with a degree in Philosophy from Temple University’s College of Liberal Arts. Read up on where our
+  alumni have landed, study abroad opportunities, and famous individuals with philosophy degrees. View our deadlines and transfer
+  opportunities, visit us, and apply!
+keywords: 'Famous Philosophy Majors, careers for philosophy majors, alumni, apply, transfer, visit'
 # custom variables
 sidebar: false
 ---
