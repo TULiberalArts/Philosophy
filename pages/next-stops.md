@@ -10,7 +10,6 @@ description: >-
 keywords: 'Famous Philosophy Majors, careers for philosophy majors, alumni apply, transfer, visit'
 # custom variables
 sidebar: false
-
 ---
 Wondering what you can do with a philosophy degree from Temple University? Take a look at what some [famous individuals](#famous-people-who-have-philosophy-degrees) have done with philosophy degrees and where some of our successful [alumni](#temple-philosophy-ba-lumni) have landed. Ready to get started? [Make your declaration](#make-your-declaration), consider a [study abroad](#study-abroad-programs) opportunity, [visit us](#visit-us) on campus, learn about your [transfer](#thinking-of-transferring) options and [apply](#apply) today before our [deadlines](#deadlines) arrive.
 
