@@ -6,8 +6,8 @@ published: true
 # meta-data variables
 title: Graduate
 description: >-
-  Earn an MA or PhD in Philosophy at Temple University. We are a vibrant
-  community of graduate students and philosophy faculty in Philadelphia.
+  Join our graduate program in philosophy: earn your MA or PhD in Philosophy, or earn a dual master’s in urban bioethics. Learn more
+  about out academic partnerships and exchanges, fellowships, and more at Temple University’s College of Liberal Arts.
 keywords: 'graduate program in philosophy, MA in philosophy, PhD in philosophy,philosophy fellowships'
 # custom variables
 sidebar: true
