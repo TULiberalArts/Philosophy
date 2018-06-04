@@ -6,8 +6,8 @@ published: true
 # meta-data variables
 title: Undergraduate
 description: >-
-  Major, minor or get a certificate in Philosophy at Temple University. Explore
-  topics the include the morality of law, bioethics and feminist philosophy.
+  Major, minor, or earn a certificate in Philosophy from Temple University’s College of Liberal Arts. Learn more about studies as a Pre-
+  Med Student, academic advising, fly in four, tuition and fees, financial aid and scholarship, deadlines, resources, and how to apply.
 keywords: 'BA in philosophy, major, minor, certificate, advising, tuition, fly in four, scholarships, resources'  
 # custom variables
 sidebar: true
