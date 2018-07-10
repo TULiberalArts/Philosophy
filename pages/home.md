@@ -33,6 +33,8 @@ Whatever your interests, the department offers relevant courses and outstanding 
 - [PhD in Philosophy](http://bulletin.temple.edu/graduate/scd/cla/philosophy-phd/)
 - [MA or PhD in Philosophy/MA in Urban Bioethics](http://bulletin.temple.edu/graduate/scd/medicine/urban-bioethics-ma/)
 
+___
+
 <div class="row row-wide">
   <div class="col m12 l4">{% include cards/card2-image.html
     title="Philosophy Research Services at Paley Library"
