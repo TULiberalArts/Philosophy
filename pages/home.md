@@ -28,7 +28,7 @@ Whatever your interests, the department offers relevant courses and outstanding 
 - [BA in Philosophy](http://bulletin.temple.edu/undergraduate/liberal-arts/philosophy/ba-philosophy/)
 - [BA in Philosophy with a Pre-Law Emphasis](http://bulletin.temple.edu/undergraduate/liberal-arts/philosophy/ba-philosophy/#academicplanstext)
 - [Minor in Philosophy](http://bulletin.temple.edu/undergraduate/liberal-arts/philosophy/minor-philosophy/)
-- [Undergraduate Certificate in Ethics](http://bulletin.temple.edu/undergraduate/liberal-arts/philosophy/certificate-ethics/)
+- [Undergraduate Certificate in Ethics](http://bulletin.temple.edu/undergraduate/liberal-arts/certificate-programs/certificate-ethics/)
 - [MA in Philosophy](http://bulletin.temple.edu/graduate/scd/cla/philosophy-ma/)
 - [PhD in Philosophy](http://bulletin.temple.edu/graduate/scd/cla/philosophy-phd/)
 - [MA or PhD in Philosophy/MA in Urban Bioethics](http://bulletin.temple.edu/graduate/scd/medicine/urban-bioethics-ma/)
