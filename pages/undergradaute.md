@@ -36,7 +36,7 @@ The Minor in Philosophy is an excellent way to extend the breadth of your educat
 ## Undergraduate Certificate in Ethics
 Our certificate program in ethics emphasizes the essential central issues, concepts, history and methodologies of ethical reasoning. Available to undergraduates from any degree or minor, the certificate prepares you for professional life by teaching you how to follow and define ethical guidelines and codes of conduct. Completion of the certificate shows employers that you are ready and committed to ethical leadership. Students take a required introduction course in ethical theory, two courses in applied/professional ethics and a fourth course, in either applied/professional ethics or ethical theory.
 
-[Learn more about the Certificate in Ethics](https://bulletin.temple.edu/undergraduate/liberal-arts/certificate-programs/certificate-ethics/)
+[Learn more about the Certificate in Ethics](http://bulletin.temple.edu/undergraduate/liberal-arts/certificate-programs/certificate-ethics/)
 
 ## Studying Philosophy as a Pre-Med Student
 Philosophy courses provide you with a competitive advantage on the MCATS and in medical school coursework by developing your passion for inquiry, critical thinking and analysis. Philosophy courses also enrich preparation for careers in the medical and health care fields by providing a solid foundation in professional ethics. Humanities majors not only score well on the MCAT exam, but also tend to score higher as a group than biological sciences majors. The Philosophy Department offers several useful courses for Pre-Med students: _Philosophy of Biology_, _Ethics in Medicine_, _Philosophy of Medicine_ and _Philosophy of Science_.
