@@ -48,7 +48,7 @@ ___
       title="Earn an Undergraduate Certificate in Ethics"
       content="The Certificate in Ethics educate students in essential concepts, central issues, history and methodologies of ethical reasoning."
       image=""
-      button-link="http://bulletin.temple.edu/undergraduate/liberal-arts/philosophy/certificate-ethics/"
+      button-link="http://bulletin.temple.edu/undergraduate/liberal-arts/certificate-programs/certificate-ethics/"
       button-text="Learn More" %}
     </div>
     <div class="row row-wide">
