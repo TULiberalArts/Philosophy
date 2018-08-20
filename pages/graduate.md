@@ -55,7 +55,7 @@ PhD students are awarded financial aid on academic merit. The department nominat
 For more than 130 years, we have focused on providing a world-class education at an affordable price. Just compare Temple to other universities and see what we mean. Temple tuition rates vary by college or school, residency status, student level and more. Use the [Temple Tuition Calculator](https://bursar.temple.edu/tuition-and-fees/tuition-rates) to estimate your tuition rate.
 
 ## Admissions Process
-Please visit the [Philosophy Graduate Admissions page](https://liberalarts.temple.edu/admissions/graduate/philosophy) to learn more about graduate program requirements, dates and deadlines and instructions on how to apply.
+Please visit the [Philosophy Graduate Bulletin](http://bulletin.temple.edu/graduate/scd/cla/philosophy-ma/#admissiontext) to learn more about graduate program requirements, dates and deadlines and instructions on how to apply.
 
 ## Graduate Application Deadlines
 - **Jan. 15** for PhD applications
