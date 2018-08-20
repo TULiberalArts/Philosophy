@@ -18,19 +18,17 @@ At the College of Liberal Arts, you can earn a Philosophy [masters degree](#ma-i
 ## Earn an MA or PhD in Philosophy
 Granting its first PhD in 1971, the Department of Philosophy has a proud history in Philadelphia. Our scholarly community consists of a cohesive group of graduate students and faculty who work across the traditions of Anglo-American and European philosophy, contemporary issues and historical scholarship. In spite of a challenging job market, our MA and PhD graduates are successful in landing academic and non-academic philosophy-related positions. Temple graduates teach in Europe, the US, Asia and beyond. Check out what our [current graduate students](https://sites.google.com/site/tuphilgrads/) are studying to get a sense of our comprehensive department.
 
-Please visit the [Philosophy Graduate Admissions page](https://liberalarts.temple.edu/admissions/graduate/philosophy) to learn more about graduate program requirements, dates and deadlines and instructions on how to apply.
-
 Temple’s philosophy faculty are internationally acclaimed in key philosophical areas that include aesthetics, ancient philosophy, ethics, early modern and Kant/post-Kantian European philosophy, epistemology, feminism, philosophy of language, philosophy of science and pragmatism. We have an especially rich history and continuing presence in the field of aesthetics - Monroe Beardsley and John Fisher were former faculty. Faculty members publish with leading journals and publishing houses, representing Temple nationally and abroad.
 
 ## MA in Philosophy
 The MA program is designed for students to begin advanced training in philosophy. If you attend the MA in Philosophy program at Temple, you might continue your education in our PhD program or attend one at another university. Some students are satisfied with completing an MA in Philosophy for personal enrichment or to teach in high schools or community colleges. If you finish an MA at Temple and decide to continue on to our PhD in Philosophy program, you must complete a separate application. A PhD is required to teach at the university level.
 
-[Learn More about the MA in Philosophy](http://bulletin.temple.edu/graduate/scd/cla/philosophy-ma/)
+Learn More about the [MA in Philosophy](http://bulletin.temple.edu/graduate/scd/cla/philosophy-ma/)
 
 ## PhD in Philosophy
 The PhD in Philosophy program at Temple provides students with a breadth of knowledge in Philosophy while emphasizing depth of knowledge in philosophical issues of interest. In addition to two years of course work (for incoming students with no credit transfers), PhD students submit two preliminary essays in their second and third years to gain experience in research, collegial cooperation and publishing strategies. PhD students usually teach courses under the guidance of the department's [Teaching Mentoring Program](https://teaching.temple.edu/). We also encourage our PhD students to pursue Temple’s [Teaching in Higher Education Certificate](https://teaching.temple.edu/teaching-higher-education-certificate-teachers-and-professionals).
 
-[Learn More about the PhD in Philosophy](http://bulletin.temple.edu/graduate/scd/cla/philosophy-phd/)
+Learn More about the [PhD in Philosophy](http://bulletin.temple.edu/graduate/scd/cla/philosophy-phd/)
 
 ![Bioethics Dual Degree]({{site.baseurl}}/media/resized bioethics.jpg){:.img-right}
 
@@ -39,7 +37,7 @@ The Department of Philosophy and the Center for Bioethics, Urban Health, and Pol
 
 The aim of the dual degree programs is to provide (a) Philosophy PhD or MA students with specialized training in the ethics, values, and politics of health in our increasingly multi-dimensionally diverse society and (b) Urban Bioethics students with a broader understanding of the philosophical underpinnings of contemporary bioethics. The dual degree programs blend the missions and values of philosophy and urban bioethics and will prepare students with the depth of training and expertise to enable them to be competitive as they move towards being future leaders in academia, public spheres, and health care.
 
-[Learn More about the MA or PhD in Philosophy/MA in Urban Bioethics](https://medicine.temple.edu/departments-centers/research-centers/center-bioethics-urban-health-and-policy/educational-programs/dual-degrees)
+Learn More about the [MA or PhD in Philosophy/MA in Urban Bioethics](https://medicine.temple.edu/departments-centers/research-centers/center-bioethics-urban-health-and-policy/educational-programs/dual-degrees)
 
 ## Academic Partnerships and Exchanges
 We actively encourage—and facilitate—interdisciplinary scholarly work. The Philosophy Department and the Lewis Katz School of Medicine at Temple now offer [dual degrees in Philosophy and Urban Bioethics](http://bulletin.temple.edu/graduate/scd/medicine/urban-bioethics-ma/) designed to prepare students for practice, research and teaching in healthcare ethics and policy. We offer a Graduate Certificate in Gender, Sexuality, and Women’s Studies in cooperation with the Women's Studies Department and expanded  course offerings through [The Greater Philadelphia Philosophy Consortium](http://www.thegppc.org/). MA and PhD in philosophy students may take graduate courses at the University of Pennslyvania and Villanova University.
