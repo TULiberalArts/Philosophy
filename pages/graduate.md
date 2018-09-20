@@ -30,7 +30,7 @@ The PhD in Philosophy program at Temple provides students with a breadth of know
 
 Learn More about the [PhD in Philosophy](http://bulletin.temple.edu/graduate/scd/cla/philosophy-phd/)
 
-![Bioethics Dual Degree]({{site.baseurl}}/media/resized bioethics.jpg){:.img-right}
+![Bioethics Dual Degree]({{site.baseurl}}/media/resized bioethics.jpg){:.responsive-img .img-right}
 
 ## MA or PhD in Philosophy/Masters in Urban Bioethics Dual Degree
 The Department of Philosophy and the Center for Bioethics, Urban Health, and Policy at the Lewis Katz School of Medicine introduce the first dual degree programs with a PhD or MA in Philosophy and a Masters in Urban Bioethics! Both degree programs are now accepting applications for Fall 2017 admission.
