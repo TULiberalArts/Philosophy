@@ -10,8 +10,8 @@ description: >-
   about out academic partnerships and exchanges, fellowships, and more at Temple University’s College of Liberal Arts.
 keywords: 'graduate program in philosophy, MA in philosophy, PhD in philosophy,philosophy fellowships'
 # custom variables
-sidebar: true
-sidebar_content: sidebars/graduate.html
+
+sidebar: sidebars/graduate.html
 ---
 At the College of Liberal Arts, you can earn a Philosophy [masters degree](#ma-in-philosophy), a Philosophy [PhD](#phd-in-philosophy) or a [dual masters in urban bioethics](#ma-or-phd-in-philosophy-masters-inu-urban-bioethics-dual-degree). Take advantage of our [academic partnerships and exchanges](#academic-partnership-and-exchanges) or Temple graduate school [funding](#temple-graduate-school-funding). Ready to get started? Review our [tuition and fees](#tuition-and-fees), [admissions process](#admissions-process), graduate [application deadlines](#graduate-application-deadlines) and [graduate resources](#graduate-resources).
 

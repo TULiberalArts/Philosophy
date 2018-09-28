@@ -11,7 +11,7 @@ description: >-
 keywords: 'major, minor, certificate, Philosophy of Law, academic offerings, european philosophy'
 # custom variables
 promotion-table: true
-sidebar: false
+
 feature: true
 feature-title: Ignite Your Curiosity
 feature-image: media/hero2_bg.jpg

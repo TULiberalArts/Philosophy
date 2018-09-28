@@ -10,8 +10,8 @@ description: >-
   Med Student, academic advising, fly in four, tuition and fees, financial aid and scholarship, deadlines, resources, and how to apply.
 keywords: 'BA in philosophy, major, minor, certificate, advising, tuition, fly in four, scholarships, resources'  
 # custom variables
-sidebar: true
-sidebar_content: sidebars/undergraduate.html
+
+sidebar: sidebars/undergraduate.html
 ---
 College of Liberal Arts students have options for earning their undergraduate Philosophy degree. As a student, you can [major](#major-in-philosophy-at-temple) in Philosophy, major in Philosophy with a [pre-law emphasis](#major-in-philosophy-with-a-pre-law-emphasis), [minor](#minor-in-philosophy) in Philosophy, earn a [certificate in ethics](#undergraduate-certificate-in-ethics) or study philosophy as a [pre-med student](#studying-philosophy-as-a-pre-med-student). Ready to get started? Plan your college career with the help of [academic advising and professional development](#academic-advising-and-professional-development) so you can [fly in four](#fly-in-four). Need more info? View our [tuition and fees](#tuition-and-fees), [financial aid and scholarship](#financial-aid-and-scholarships) opportunities, admissions [deadlines](#temple-admissions-deadlines), [undergraduate resources](#undergraduate-resources) and find out how to [apply](#undergraduate-admissions).
 
