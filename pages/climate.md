@@ -46,4 +46,4 @@ In 2018-19, the Climate Committee consists of Espen Hammer (chair), Lindsay Crai
 - [APA Diverse Syllabi Collection](http://www.apaonline.org/members/group_content_view.asp?group=110430&amp;id=380970)
 - [MAP Resources Page](http://www.mapforthegap.com/resources.html)
 - [MAP Best Practices for Inclusivity in the Classroom](http://phildiversity.weebly.com/)
-- [Society for Women in Philosophy: [https://www.uh.edu/~cfreelan/SWIP/](https://www.uh.edu/~cfreelan/SWIP/)
+- [Society for Women in Philosophy](https://www.uh.edu/~cfreelan/SWIP/)
