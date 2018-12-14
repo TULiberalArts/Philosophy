@@ -61,6 +61,7 @@ Please visit the [Philosophy Graduate Bulletin](http://bulletin.temple.edu/gradu
 - **March 1** for MA/MAUB applications
 
 ## Graduate Resources
+- [Additional Information about the Graduate Program in Philosophy](https://sites.temple.edu/philgrad/)
 - [Graduate Student Handbook](https://liberalarts.temple.edu/sites/liberalarts/files/Philosophy%20Graduate%20Handbook%202017-18.pdf)
 - [Graduate school forms](http://www.temple.edu/grad/forms/index.htm)
 - [Graduate school funding](http://www.temple.edu/grad/finances/index.htm)
