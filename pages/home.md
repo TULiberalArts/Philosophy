@@ -37,6 +37,7 @@ Whatever your interests, the department offers relevant courses and outstanding 
 - [MA in Philosophy](http://bulletin.temple.edu/graduate/scd/cla/philosophy-ma/)
 - [PhD in Philosophy](http://bulletin.temple.edu/graduate/scd/cla/philosophy-phd/)
 - [MA or PhD in Philosophy/MA in Urban Bioethics](http://bulletin.temple.edu/graduate/scd/medicine/urban-bioethics-ma/)
+**_Interested in one of our Graduate programs? Learn more about our Graduate Studies by visiting [Additional Information about the Graduate Program in Philosophy](https://sites.temple.edu/philgrad/)._** 
 
 ___
 
