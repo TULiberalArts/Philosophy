@@ -62,8 +62,8 @@ Please visit the [Philosophy Graduate Bulletin](http://bulletin.temple.edu/gradu
 
 ## Graduate Resources
 - [Additional Information about the Graduate Program in Philosophy](https://sites.temple.edu/philgrad/)
-- [Graduate Student Handbook](https://liberalarts.temple.edu/sites/liberalarts/files/Philosophy%20Graduate%20Handbook%202017-18.pdf)
-- [Graduate school forms](http://www.temple.edu/grad/forms/index.htm)
-- [Graduate school funding](http://www.temple.edu/grad/finances/index.htm)
-- [Graduate school policies](http://www.temple.edu/grad/policies/index.htm)
-- [Applying to graduate school](http://www.temple.edu/grad/admissions/howtoapply.htm)
+- [Graduate Student Handbook](https://liberalarts.temple.edu/sites/liberalarts/files/Graduate-Handbook-2018-19.pdf)
+- [Graduate School Forms](http://www.temple.edu/grad/forms/index.htm)
+- [Graduate School Funding](http://www.temple.edu/grad/finances/index.htm)
+- [Graduate School Policies](http://www.temple.edu/grad/policies/index.htm)
+- [Applying to Graduate School](http://www.temple.edu/grad/admissions/howtoapply.htm)
