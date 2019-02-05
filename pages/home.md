@@ -36,7 +36,7 @@ Whatever your interests, the department offers relevant courses and outstanding 
 - [Undergraduate Certificate in Ethics](http://bulletin.temple.edu/undergraduate/liberal-arts/certificate-programs/certificate-ethics/)
 - [MA in Philosophy](http://bulletin.temple.edu/graduate/scd/cla/philosophy-ma/)
 - [PhD in Philosophy](http://bulletin.temple.edu/graduate/scd/cla/philosophy-phd/)
-- [MA or PhD in Philosophy/MA in Urban Bioethics](http://bulletin.temple.edu/graduate/scd/medicine/urban-bioethics-ma/)
+- [MA or PhD in Philosophy/MA in Urban Bioethics](https://medicine.temple.edu/departments-centers/research-centers/center-bioethics-urban-health-and-policy/educational-programs/dual-degrees)
 
 **_Interested in one of our Graduate programs? Learn more about our Graduate Studies by visiting [Additional Information about the Graduate Program in Philosophy](https://sites.temple.edu/philgrad/)._** 
 
