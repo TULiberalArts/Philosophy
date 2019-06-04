@@ -21,6 +21,8 @@ The Climate Committee consists of at least two faculty members and at least two 
 
 In 2018-19, the Climate Committee consists of Espen Hammer (chair), Lindsay Craig, Meryl Lumba and Daniel Remer.
 
+- [Climate Code of Conduct]()https://liberalarts.temple.edu/sites/liberalarts/files/CLIMATE%20DOCUMENT%20%281%29.docx)
+
 ## Temple Resources:
 
 - [Center for the Advancement of Teaching](https://teaching.temple.edu)
