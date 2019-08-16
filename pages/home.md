@@ -26,7 +26,7 @@ We are a vibrant community of philosophy scholars in the urban and cultural mecc
 
 Whatever your interests, the department offers relevant courses and outstanding faculty members. Our course offerings cover pure and applied philosophy; contemporary philosophy and the history of philosophy; and philosophy of race, gender and other forms of social diversity. Departmental strengths include aesthetics, epistemology, ethics, European philosophy, Greek and early modern philosophy and philosophy of medicine and science. We offer both undergraduate and graduate degree programs.
 - **_The [Climate Committee](https://www.cla.temple.edu/philosophy/climate/) promotes an environment in which all students staff, faculty, and visitors feel safe, included, respected, and supported._**
-- **_Click on our department newsletter to the right to read about what's happening in the department for the 2018-2019 academic year!_**
+- **_Click on our department newsletter to the right to read about what's happening in the department for the 2019-2020 academic year!_**
  
 
 ## Academic Offerings
