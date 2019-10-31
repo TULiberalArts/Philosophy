@@ -56,7 +56,7 @@ For more than 130 years, we have focused on providing a world-class education at
 Please visit the [Philosophy Graduate Bulletin](http://bulletin.temple.edu/graduate/scd/cla/philosophy-ma/#admissiontext) to learn more about graduate program requirements, dates and deadlines and instructions on how to apply.
 
 ## Graduate Application Deadlines
-- **Jan. 15** for PhD applications
+- **Jan. 15** for PhD applications **(non US applicants should apply by December 15)**
 - **March 1** for MA applications
 - **March 1** for MA/MAUB applications
 
