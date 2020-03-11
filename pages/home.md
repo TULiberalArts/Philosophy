@@ -43,7 +43,7 @@ Whatever your interests, the department offers relevant courses and outstanding 
 ___
 
 <div class="row row-wide">
-  <div class="col m12 l4">{% include cards/card2-image.html
+  <div class="col m12 l4">{% include cards/card2-fixed.html
     title="Philosophy Research Services at Paley Library"
     content="The world-class philosophy resources at Paley Library support the research, teaching and learning needs of Temple students and faculty."
     image=""
@@ -51,7 +51,7 @@ ___
     button-text="Learn More" %}
   </div>
   <div class="row row-wide">
-    <div class="col m12 l4">{% include cards/card2-image.html
+    <div class="col m12 l4">{% include cards/card2-fixed.html
       title="Earn an Undergraduate Certificate in Ethics"
       content="The Certificate in Ethics educate students in essential concepts, central issues, history and methodologies of ethical reasoning."
       image=""
@@ -59,7 +59,7 @@ ___
       button-text="Learn More" %}
     </div>
     <div class="row row-wide">
-      <div class="col m12 l4">{% include cards/card2-image.html
+      <div class="col m12 l4">{% include cards/card2-fixed.html
         title="Study Pre-Law at Temple"
         content="Select any of our 35 majors and enhance it with extracurriculars, legal internships and study abroad programs for an undergraduate resume that stands out to the best law schools."
         image=""
