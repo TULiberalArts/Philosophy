@@ -62,9 +62,9 @@ At Temple, we believe that students from all walks of life should have access to
 [Student Financial Services](https://sfs.temple.edu/financial-aid-types)
 
 ## Temple Admissions Deadlines
-- **Feb. 1**: Freshman Application Deadline for Fall Semester
-- **March 1**: FAFSA Financial Aid Application Deadline
-- **Nov. 1**: Transfer Deadline for Spring Semester
+- **February 1**: Freshman Application Deadline for Fall Semester
+- **February 1**: FAFSA Financial Aid Application Deadline
+- **November 1**: Transfer Deadline for Spring Semester
 - **June 1**: Transfer Deadline for Fall Semester
 
 ## Undergraduate Resources
