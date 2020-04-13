@@ -33,7 +33,7 @@ Learn More about the [PhD in Philosophy](http://bulletin.temple.edu/graduate/scd
 ![Bioethics Dual Degree]({{site.baseurl}}/media/resized bioethics.jpg){:.responsive-img .img-right}
 
 ## MA or PhD in Philosophy/Masters in Urban Bioethics Dual Degree
-The Department of Philosophy and the Center for Bioethics, Urban Health, and Policy at the Lewis Katz School of Medicine introduce the first dual degree programs with a PhD or MA in Philosophy and a Masters in Urban Bioethics! Both degree programs are now accepting applications for Fall 2017 admission.
+The Department of Philosophy and the Center for Bioethics, Urban Health, and Policy at the Lewis Katz School of Medicine introduce the first dual degree programs with a PhD or MA in Philosophy and a Masters in Urban Bioethics! 
 
 The aim of the dual degree programs is to provide (a) Philosophy PhD or MA students with specialized training in the ethics, values, and politics of health in our increasingly multi-dimensionally diverse society and (b) Urban Bioethics students with a broader understanding of the philosophical underpinnings of contemporary bioethics. The dual degree programs blend the missions and values of philosophy and urban bioethics and will prepare students with the depth of training and expertise to enable them to be competitive as they move towards being future leaders in academia, public spheres, and health care.
 
