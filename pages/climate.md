@@ -38,7 +38,7 @@ In 2019-20, the Climate Committee consists of Lindsay Craig (chair), Lee-Ann Cha
 
 ## External Programs and Workshops for Students:
 
-- [Penn State Workshop for Prospective Grad Students in Underrepresented Groups](http://philosophy.la.psu.edu/graduate/cusp/cusp)
+- [Penn State Workshop for Prospective Grad Students in Underrepresented Groups](https://philosophy.la.psu.edu/diversity/cusp)
 - [Undergraduate Diversity Institutes in Philosophy](https://www.apaonline.org/page/diversityinstitutes)
 
 ## Other Helpful Links:
