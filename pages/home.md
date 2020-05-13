@@ -2,7 +2,7 @@
 # global predefined variables
 layout: tla_home
 permalink: /
-published: false
+published: true
 # meta-data variables
 title: Home
 description: >-
