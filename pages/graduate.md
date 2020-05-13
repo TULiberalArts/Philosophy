@@ -2,7 +2,7 @@
 # global predefined variables
 layout: tla_page
 permalink: /graduate/
-published: false
+published: true
 # meta-data variables
 title: Graduate
 description: >-
