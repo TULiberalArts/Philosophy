@@ -2,7 +2,7 @@
 # global predefined variables
 layout: tla_page
 permalink: /next-stops/
-published: true
+published: false
 # meta-data variables
 title: Next Stops
 description: >-
@@ -16,7 +16,7 @@ keywords: 'Famous Philosophy Majors, careers for philosophy majors, alumni, appl
 Wondering what you can do with a philosophy degree from Temple University? Take a look at what some [famous individuals](#famous-people-who-have-philosophy-degrees) have done with philosophy degrees and where some of our successful [alumni](#temple-philosophy-ba-lumni) have landed. Ready to get started? [Make your declaration](#make-your-declaration), consider a [study abroad](#study-abroad-programs) opportunity, [visit us](#visit-us) on campus, learn about your [transfer](#thinking-of-transferring) options and [apply](#apply) today before our [deadlines](#deadlines) arrive.
 
 ## What Can I Do With a Degree in Philosophy?
-Temple Philosophy alumni have gone on to study law, medicine, and other graduate studies at top-ranked universities. They have also developed successful professional and academic careers. In a [major survey of American employers](https://www.aacu.org/sites/default/files/files/LEAP/2013_EmployerSurvey.pdf), 93 percent agreed that “a candidate’s demonstrated capacity to think critically, communicate clearly and solve complex problems is more important than their undergraduate major.” More than 90 percent placed high value on ethical decision-making, intercultural skills and interest in continued learning. These are all skills developed by studying philosophy.
+Temple Philosophy alumni have gone on to study law, medicine, and other graduate studies at top-ranked universities. They have also developed successful professional and academic careers. These are all skills developed by studying philosophy.
 
 ## Famous People Who Have Philosophy Degrees
 Philosophy graduates work in careers that range from comedian to Supreme Court justice. Famous philosophy majors include
