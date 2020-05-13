@@ -2,7 +2,7 @@
 # global predefined variables
 layout: tla_page
 permalink: /graduate/
-published: true
+published: false
 # meta-data variables
 title: Graduate
 description: >-
@@ -23,19 +23,17 @@ Temple’s philosophy faculty are internationally acclaimed in key philosophical
 ## MA in Philosophy
 The MA program is designed for students to begin advanced training in philosophy. If you attend the MA in Philosophy program at Temple, you might continue your education in our PhD program or attend one at another university. Some students are satisfied with completing an MA in Philosophy for personal enrichment or to teach in high schools or community colleges. If you finish an MA at Temple and decide to continue on to our PhD in Philosophy program, you must complete a separate application. A PhD is required to teach at the university level.
 
-Learn More about the [MA in Philosophy](http://bulletin.temple.edu/graduate/scd/cla/philosophy-ma/)
+Learn More about the [MA in Philosophy](https://www.temple.edu/academics/degree-programs/philosophy-ma-la-phil-ma)
 
 ## PhD in Philosophy
 The PhD in Philosophy program at Temple provides students with a breadth of knowledge in Philosophy while emphasizing depth of knowledge in philosophical issues of interest. In addition to two years of course work (for incoming students with no credit transfers), PhD students submit two preliminary essays in their second and third years to gain experience in research, collegial cooperation and publishing strategies. PhD students usually teach courses under the guidance of the department's [Teaching Mentoring Program](https://teaching.temple.edu/). We also encourage our PhD students to pursue Temple’s [Teaching in Higher Education Certificate](https://teaching.temple.edu/teaching-higher-education-certificate-teachers-and-professionals).
 
-Learn More about the [PhD in Philosophy](http://bulletin.temple.edu/graduate/scd/cla/philosophy-phd/)
+Learn More about the [PhD in Philosophy](https://www.temple.edu/academics/degree-programs/philosophy-phd-la-phil-phd)
 
 ![Bioethics Dual Degree]({{site.baseurl}}/media/resized bioethics.jpg){:.responsive-img .img-right}
 
 ## MA or PhD in Philosophy/Masters in Urban Bioethics Dual Degree
-The Department of Philosophy and the Center for Bioethics, Urban Health, and Policy at the Lewis Katz School of Medicine introduce the first dual degree programs with a PhD or MA in Philosophy and a Masters in Urban Bioethics! 
-
-The aim of the dual degree programs is to provide (a) Philosophy PhD or MA students with specialized training in the ethics, values, and politics of health in our increasingly multi-dimensionally diverse society and (b) Urban Bioethics students with a broader understanding of the philosophical underpinnings of contemporary bioethics. The dual degree programs blend the missions and values of philosophy and urban bioethics and will prepare students with the depth of training and expertise to enable them to be competitive as they move towards being future leaders in academia, public spheres, and health care.
+The Department of Philosophy and the Center for Bioethics, Urban Health, and Policy at the Lewis Katz School of Medicine introduce the first dual degree programs with a [PhD or MA in Philosophy and a Masters in Urban Bioethics](https://www.temple.edu/academics/degree-programs/philosophy-ma-la-phil-ma)! 
 
 Learn More about the [MA or PhD in Philosophy/MA in Urban Bioethics](https://medicine.temple.edu/departments-centers/research-centers/center-bioethics-urban-health-and-policy/educational-programs/dual-degrees)
 
@@ -53,7 +51,7 @@ PhD students are awarded financial aid on academic merit. The department nominat
 For more than 130 years, we have focused on providing a world-class education at an affordable price. Just compare Temple to other universities and see what we mean. Temple tuition rates vary by college or school, residency status, student level and more. Use the [Temple Tuition Calculator](https://bursar.temple.edu/tuition-and-fees/tuition-rates) to estimate your tuition rate.
 
 ## Admissions Process
-Please visit the [Philosophy Graduate Bulletin](http://bulletin.temple.edu/graduate/scd/cla/philosophy-ma/#admissiontext) to learn more about graduate program requirements, dates and deadlines and instructions on how to apply.
+Please visit the [Philosophy MA](https://www.temple.edu/academics/degree-programs/philosophy-ma-la-phil-ma) or [Philosophy PhD](https://www.temple.edu/academics/degree-programs/philosophy-phd-la-phil-phd/cla-philosophy-phd-admissions) admissions pages to learn more about graduate program requirements, dates and deadlines and instructions on how to apply.
 
 ## Graduate Application Deadlines
 - **Jan. 15** for PhD applications **(non US applicants should apply by December 15)**
@@ -64,5 +62,4 @@ Please visit the [Philosophy Graduate Bulletin](http://bulletin.temple.edu/gradu
 - [Additional Information about the Graduate Program in Philosophy](https://sites.temple.edu/philgrad/)
 - [Graduate Student Handbook](https://liberalarts.temple.edu/sites/liberalarts/files/Graduate%20Handbook%202019-20%20revised%20%281%29.pdf)
 - [Graduate School Funding](https://grad.temple.edu/admissions/costs-financial-aid-more/university-financial-support)
-- [Graduate School Policies](https://grad.temple.edu/resources/policies-procedures)
 - [Applying to Graduate School](https://grad.temple.edu/admissions/how-apply)
