@@ -2,7 +2,7 @@
 # global predefined variables
 layout: tla_page
 permalink: /undergraduate/
-published: true
+published: false
 # meta-data variables
 title: Undergraduate
 description: >-
@@ -16,14 +16,14 @@ sidebar: sidebars/undergraduate.html
 College of Liberal Arts students have options for earning their undergraduate Philosophy degree. As a student, you can [major](#major-in-philosophy-at-temple) in Philosophy, major in Philosophy with a [pre-law emphasis](#major-in-philosophy-with-a-pre-law-emphasis), [minor](#minor-in-philosophy) in Philosophy, earn a [certificate in ethics](#undergraduate-certificate-in-ethics) or study philosophy as a [pre-med student](#studying-philosophy-as-a-pre-med-student). Ready to get started? Plan your college career with the help of [academic advising and professional development](#academic-advising-and-professional-development) so you can [fly in four](#fly-in-four). Need more info? View our [tuition and fees](#tuition-and-fees), [financial aid and scholarship](#financial-aid-and-scholarships) opportunities, admissions [deadlines](#temple-admissions-deadlines), [undergraduate resources](#undergraduate-resources) and find out how to [apply](#undergraduate-admissions).
 
 ## Major in Philosophy at Temple
-As part of the [College of Liberal Arts](https://liberalarts.temple.edu/) at Temple University, our BA in Philosophy program provides undergraduates with a solid foundation for careers in business, law or medicine. Philosophy majors are extremely high performers on graduate school exams, ranking first among all majors in combined scores on the GRE, LSAT and GMAT. Majoring in philosophy is also an excellent way to prepare for the further study of philosophy in graduate school. Philosophy raises fundamental questions about ourselves and the world, which result in a sharpened perception of the value of our lives and an increased ability to analyze. Majoring in philosophy is flexible by design; it easily accommodates study abroad programs and internships.
+As part of the [College of Liberal Arts](https://liberalarts.temple.edu/) at Temple University, our BA in Philosophy program provides undergraduates with a solid foundation for careers in business, law or medicine. Majoring in philosophy is also an excellent way to prepare for the further study of philosophy in graduate school. Philosophy raises fundamental questions about ourselves and the world, which result in a sharpened perception of the value of our lives and an increased ability to analyze. Majoring in philosophy is flexible by design; it easily accommodates study abroad programs and internships.
 
-[Learn More about Majoring in Philosophy](http://bulletin.temple.edu/undergraduate/liberal-arts/philosophy/ba-philosophy/)
+[Learn More about Majoring in Philosophy](https://www.temple.edu/academics/degree-programs/philosophy-major-la-phil-ba)
 
 ## Major in Philosophy with a Pre-Law Emphasis
-If you plan on going to law school, our department offers a BA in Philosophy with a Pre-Law Emphasis. Philosophy majors have higher rates of admission to law school than other majors and also earn some of the [best LSAT scores](http://www.nationaljurist.com/prelaw/classics-philosophy-majors-do-best-when-it-comes-getting-law-school). If you choose the [Pre-Law Emphasis](http://www.cla.temple.edu/pre-law/), you will follow a slightly different path  than other Philosophy majors with assistance from your advisor. The curriculum includes a Philosophy of Law course, Pre-Law Internship, Pre-Law Seminar and Pre-Law Tutorial. We also encourage students to participate in extracurricular activities like [Temple Mock Trial](https://temple.campuslabs.com/engage/organization/TUMockTrial) and [Temple Debate Society](https://temple.campuslabs.com/engage/organization/templedebate). These types of activities help you develop and showcase your skills and ultimately aid you in your legal education and career.
+If you plan on going to law school, our department offers a BA in Philosophy with a Pre-Law Emphasis. If you choose the [Pre-Law Emphasis](http://www.cla.temple.edu/pre-law/), you will follow a slightly different path  than other Philosophy majors with assistance from your advisor. The curriculum includes a Philosophy of Law course, Pre-Law Internship, Pre-Law Seminar and Pre-Law Tutorial. We also encourage students to participate in extracurricular activities like [Temple Mock Trial](https://temple.campuslabs.com/engage/organization/TUMockTrial) and [Temple Debate Society](https://temple.campuslabs.com/engage/organization/templedebate). These types of activities help you develop and showcase your skills and ultimately aid you in your legal education and career.
 
-- [Learn More about the BA in Philosophy with a Pre-Law Emphasis](http://bulletin.temple.edu/undergraduate/liberal-arts/philosophy/ba-philosophy/#academicplanstext)
+- [Learn More about the BA in Philosophy with a Pre-Law Emphasis](https://www.temple.edu/academics/degree-programs/philosophy-major-la-phil-ba)
 - [Learn More about Pre-Law at Temple University](http://cla.temple.edu/pre-law/undergraduate/)
 
 ## Minor in Philosophy
@@ -34,9 +34,9 @@ The Minor in Philosophy is an excellent way to extend the breadth of your educat
 ![Certificate in Ethics]({{site.baseurl}}/media/resized ethics.jpg){:.responsive-img .img-right}
 
 ## Undergraduate Certificate in Ethics
-Our certificate program in ethics emphasizes the essential central issues, concepts, history and methodologies of ethical reasoning. Available to undergraduates from any degree or minor, the certificate prepares you for professional life by teaching you how to follow and define ethical guidelines and codes of conduct. Completion of the certificate shows employers that you are ready and committed to ethical leadership. Students take a required introduction course in ethical theory, two courses in applied/professional ethics and a fourth course, in either applied/professional ethics or ethical theory.
+Our certificate program in ethics emphasizes the essential central issues, concepts, history and methodologies of ethical reasoning. Available to undergraduates from any degree or minor. Completion of the certificate shows employers that you are ready and committed to ethical leadership.
 
-[Learn more about the Certificate in Ethics](http://bulletin.temple.edu/undergraduate/liberal-arts/certificate-programs/certificate-ethics/)
+[Learn more about the Certificate in Ethics](https://www.temple.edu/academics/degree-programs/ethics-certificate-undergraduate-la-ethc-cert)
 
 ## Studying Philosophy as a Pre-Med Student
 Philosophy courses provide you with a competitive advantage on the MCATS and in medical school coursework by developing your passion for inquiry, critical thinking and analysis. Philosophy courses also enrich preparation for careers in the medical and health care fields by providing a solid foundation in professional ethics. Humanities majors not only score well on the MCAT exam, but also tend to score higher as a group than biological sciences majors. The Philosophy Department offers several useful courses for Pre-Med students: _Philosophy of Biology_, _Ethics in Medicine_, _Philosophy of Medicine_ and _Philosophy of Science_.
@@ -57,7 +57,7 @@ Take charge of your future and limit your debt. The Fly in 4 partnership allows 
 For more than 130 years, we have focused on providing a world-class education at an affordable price. Just compare Temple to other universities and see what we mean. Temple tuition rates vary by college or school, residency status, student level and more. Use the [Temple Tuition Calculator](https://bursar.temple.edu/tuition-and-fees/tuition-rates) to estimate your tuition rate.
 
 ## Financial Aid and Scholarships
-At Temple, we believe that students from all walks of life should have access to an outstanding college education. If you need help paying for your education, you aren’t alone. Most students receive some form of financial aid to fund their education. About 60% of first-year Temple students receive need-based financial aid, and the average first-year financial aid package is about $15,000. Eligible students receive financial assistance from federal, state, private and university sources. Explore your financial aid options and apply early to make your college education an affordable experience.
+At Temple, we believe that students from all walks of life should have access to an outstanding college education. If you need help paying for your education, you aren’t alone. Eligible students receive financial assistance from federal, state, private and university sources. Explore your financial aid options and apply early to make your college education an affordable experience.
 
 [Student Financial Services](https://sfs.temple.edu/financial-aid-types)
 
