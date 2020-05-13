@@ -2,7 +2,7 @@
 # global predefined variables
 layout: tla_home
 permalink: /
-published: true
+published: false
 # meta-data variables
 title: Home
 description: >-
@@ -30,12 +30,12 @@ Whatever your interests, the department offers relevant courses and outstanding 
  
 
 ## Academic Offerings
-- [BA in Philosophy](http://bulletin.temple.edu/undergraduate/liberal-arts/philosophy/ba-philosophy/)
-- [BA in Philosophy with a Pre-Law Emphasis](http://bulletin.temple.edu/undergraduate/liberal-arts/philosophy/ba-philosophy/#academicplanstext)
+- [BA in Philosophy](https://www.temple.edu/academics/degree-programs/philosophy-major-la-phil-ba)
+- [BA in Philosophy with a Pre-Law Emphasis](https://www.temple.edu/academics/degree-programs/philosophy-major-la-phil-ba)
 - [Minor in Philosophy](http://bulletin.temple.edu/undergraduate/liberal-arts/philosophy/minor-philosophy/)
-- [Undergraduate Certificate in Ethics](http://bulletin.temple.edu/undergraduate/liberal-arts/certificate-programs/certificate-ethics/)
-- [MA in Philosophy](http://bulletin.temple.edu/graduate/scd/cla/philosophy-ma/)
-- [PhD in Philosophy](http://bulletin.temple.edu/graduate/scd/cla/philosophy-phd/)
+- [Undergraduate Certificate in Ethics](https://www.temple.edu/academics/degree-programs/ethics-certificate-undergraduate-la-ethc-cert)
+- [MA in Philosophy](https://www.temple.edu/academics/degree-programs/philosophy-ma-la-phil-ma)
+- [PhD in Philosophy](https://www.temple.edu/academics/degree-programs/philosophy-phd-la-phil-phd)
 - [MA or PhD in Philosophy/MA in Urban Bioethics](https://medicine.temple.edu/departments-centers/research-centers/center-bioethics-urban-health-and-policy/educational-programs/dual-degrees)
 
 **_Interested in one of our Graduate programs? Learn more about our Graduate Studies by visiting [Additional Information about the Graduate Program in Philosophy](https://sites.temple.edu/philgrad/)._** 
