@@ -2,7 +2,7 @@
 # global predefined variables
 layout: tla_page
 permalink: /next-stops/
-published: false
+published: true
 # meta-data variables
 title: Next Stops
 description: >-
