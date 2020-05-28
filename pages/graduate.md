@@ -13,14 +13,14 @@ keywords: 'graduate program in philosophy, MA in philosophy, PhD in philosophy,p
 
 sidebar: sidebars/graduate.html
 ---
-At the College of Liberal Arts, you can earn a Philosophy [masters degree](#ma-in-philosophy), a Philosophy [PhD](#phd-in-philosophy) or a [dual masters in urban bioethics](#ma-or-phd-in-philosophy-masters-inu-urban-bioethics-dual-degree). Take advantage of our [academic partnerships and exchanges](#academic-partnership-and-exchanges) or Temple graduate school [funding](#temple-graduate-school-funding). Ready to get started? Review our [tuition and fees](#tuition-and-fees), [admissions process](#admissions-process), graduate [application deadlines](#graduate-application-deadlines) and [graduate resources](#graduate-resources).
+At the College of Liberal Arts, you can earn a Philosophy [masters degree](#master-of-arts-in-philosophy), a Philosophy [PhD](#phd-in-philosophy) or a [dual masters in urban bioethics](#ma-or-phd-in-philosophy-masters-inu-urban-bioethics-dual-degree). Take advantage of our [academic partnerships and exchanges](#academic-partnership-and-exchanges) or Temple graduate school [funding](#temple-graduate-school-funding). Ready to get started? Review our [tuition and fees](#tuition-and-fees), [admissions process](#admissions-process), graduate [application deadlines](#graduate-application-deadlines) and [graduate resources](#graduate-resources).
 
 ## Earn an MA or PhD in Philosophy
 Granting its first PhD in 1971, the Department of Philosophy has a proud history in Philadelphia. Our scholarly community consists of a cohesive group of graduate students and faculty who work across the traditions of Anglo-American and European philosophy, contemporary issues and historical scholarship. In spite of a challenging job market, our MA and PhD graduates are successful in landing academic and non-academic philosophy-related positions. Temple graduates teach in Europe, the US, Asia and beyond. Check out what our [current graduate students](https://sites.temple.edu/philgrad/graduate-students/) are studying to get a sense of our comprehensive department.
 
 Temple’s philosophy faculty are internationally acclaimed in key philosophical areas that include aesthetics, ancient philosophy, ethics, early modern and Kant/post-Kantian European philosophy, epistemology, feminism, philosophy of language, philosophy of science and pragmatism. We have an especially rich history and continuing presence in the field of aesthetics - Monroe Beardsley and John Fisher were former faculty. Faculty members publish with leading journals and publishing houses, representing Temple nationally and abroad.
 
-## MA in Philosophy
+## Master of Arts Philosophy
 The MA program is designed for students to begin advanced training in philosophy. If you attend the MA in Philosophy program at Temple, you might continue your education in our PhD program or attend one at another university. Some students are satisfied with completing an MA in Philosophy for personal enrichment or to teach in high schools or community colleges. If you finish an MA at Temple and decide to continue on to our PhD in Philosophy program, you must complete a separate application. A PhD is required to teach at the university level.
 
 Learn More about the [MA in Philosophy](https://www.temple.edu/academics/degree-programs/philosophy-ma-la-phil-ma)
