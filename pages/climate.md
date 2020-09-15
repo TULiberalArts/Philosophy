@@ -19,7 +19,11 @@ The committee does not deal with personnel issues or individual grievances but s
 
 The Climate Committee consists of at least two faculty members and at least two graduate students, with other members of the department, including undergraduates, invited to participate when appropriate. It aims at a balance with respect to race, gender, and other demographic characteristics, and a balance of MA and PhD students and instructional, tenure-track, and tenured faculty among its members. The committee does not include the Department Chair, Director of Graduate Studies, Director of Undergraduate Studies, or graduate representative, although it will consult with them as needed.
 
-In 2019-20, the Climate Committee consists of Lindsay Craig (chair), Lee-Ann Chae, Daniel Remer and Ricardo Abend Van Dalen.
+In 2020-21, the Climate Committee consists of:
+- Chair: Espen Hammer
+- Lee-Ann Chae
+- Yining Wu
+- Max Engelman
 
 - [Climate Code of Conduct](https://liberalarts.temple.edu/sites/liberalarts/files/CLIMATE%20DOCUMENT%20%281%29.docx)
 
