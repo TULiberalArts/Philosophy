@@ -60,6 +60,6 @@ Please visit the [Philosophy MA](https://www.temple.edu/academics/degree-program
 
 ## Graduate Resources
 - [Additional Information about the Graduate Program in Philosophy](https://sites.temple.edu/philgrad/)
-- [Graduate Student Handbook](https://liberalarts.temple.edu/sites/liberalarts/files/Graduate%20Handbook%202019-20%20revised%20%281%29.pdf)
+- [Graduate Student Handbook](https://liberalarts.temple.edu/sites/liberalarts/files/Graduate%20Handbook%202020-21.pdf)
 - [Graduate School Funding](https://grad.temple.edu/admissions/costs-financial-aid-more/university-financial-support)
 - [Applying to Graduate School](https://grad.temple.edu/admissions/how-apply)
