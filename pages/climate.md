@@ -49,7 +49,7 @@ In 2020-21, the Climate Committee consists of:
 
 - [APA Committee on the Status of Women](http://www.apaonlinecsw.org)
 - [APA Resources on Diversity and Inclusiveness](https://www.apaonline.org/page/diversity_resources)
-- [APA Diverse Syllabi Collection](http://www.apaonline.org/members/group_content_view.asp?group=110430&amp;id=380970)
+- [APA Diverse Syllabi Collection](https://www.apaonline.org/members/group.aspx?id=110430)
 - [MAP Resources Page](http://www.mapforthegap.com/resources.html)
 - [MAP Best Practices for Inclusivity in the Classroom](http://phildiversity.weebly.com/)
 - [Society for Women in Philosophy](https://www.uh.edu/~cfreelan/SWIP/)
