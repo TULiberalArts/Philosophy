@@ -63,3 +63,4 @@ Please visit the [Philosophy MA](https://www.temple.edu/academics/degree-program
 - [Graduate Student Handbook](https://liberalarts.temple.edu/sites/liberalarts/files/Graduate%20Handbook%202020-21.pdf)
 - [Graduate School Funding](https://grad.temple.edu/admissions/costs-financial-aid-more/university-financial-support)
 - [Applying to Graduate School](https://grad.temple.edu/admissions/how-apply)
+
