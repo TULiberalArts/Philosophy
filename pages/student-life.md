@@ -36,8 +36,6 @@ _Fresh Philosophy_ is the Greater Philadelphia Philosophy Consortium’s undergr
 ## The Greater Philadelphia Philosophy Consortium
 The Greater Philadelphia Philosophy Consortium (GPPC) is a nonprofit educational organization founded in 1980. GPPC includes 15 member institutions including Temple University and promotes philosophical inquiry into the vital intellectual and social issues of our day.
 
-[Learn More about the GPPC](http://www.thegppc.org/)
-
 ## The Center for the Humanities
 Temple’s Philosophy graduate students are well-represented at the Center for Humanities at Temple (CHAT), which offers grants and associate positions to faculty and advanced graduate students pursuing interdisciplinary work. CHAT works to bridge the divide between departments and colleges by promoting broad, humanities-based conversations that connect scholars from multiple academic fields.
 
