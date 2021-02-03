@@ -31,7 +31,7 @@ The world-class philosophy resources at Paley Library support the learning, rese
 ## Fresh Philosophy
 _Fresh Philosophy_ is the Greater Philadelphia Philosophy Consortium’s undergraduate online journal. It invites submissions from undergraduates and applications from prospective editors. Part traditional journal and part blog, _Fresh Philosophy_ publishes philosophical writing by undergraduates from around the world.
 
-[Learn More about Fresh Philosophy](http://www.freshphilosophy.com/)
+[Learn More about Fresh Philosophy](https://undergraduatephilosophy.wordpress.com)
 
 ## The Greater Philadelphia Philosophy Consortium
 The Greater Philadelphia Philosophy Consortium (GPPC) is a nonprofit educational organization founded in 1980. GPPC includes 15 member institutions including Temple University and promotes philosophical inquiry into the vital intellectual and social issues of our day.
