@@ -24,7 +24,6 @@ In 2020-21, the Climate Committee consists of:
 - Lee-Ann Chae
 - Yining Wu
 - Max Engelman
-
 - [Climate Code of Conduct](https://liberalarts.temple.edu/sites/liberalarts/files/CLIMATE%20DOCUMENT%20%281%29.docx)
 
 ## Temple Resources
