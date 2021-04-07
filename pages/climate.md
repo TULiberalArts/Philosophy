@@ -27,7 +27,7 @@ In 2020-21, the Climate Committee consists of:
 
 - [Climate Code of Conduct](https://liberalarts.temple.edu/sites/liberalarts/files/CLIMATE%20DOCUMENT%20%281%29.docx)
 
-## Temple Resources:
+## Temple Resources
 
 - [Center for the Advancement of Teaching](https://teaching.temple.edu)
 - [Disability Resources and Services](http://disabilityresources.temple.edu/)
@@ -40,12 +40,12 @@ In 2020-21, the Climate Committee consists of:
 - [Title IX Coordinator Andrea Seiss](mailto:Andrea.caporale@temple.edu)
 - [Wellness Center](http://wellness.temple.edu/)
 
-## External Programs and Workshops for Students:
+## External Programs and Workshops for Students
 
 - [Penn State Workshop for Prospective Grad Students in Underrepresented Groups](https://philosophy.la.psu.edu/diversity/cusp)
 - [Undergraduate Diversity Institutes in Philosophy](https://www.apaonline.org/page/diversityinstitutes)
 
-## Other Helpful Links:
+## Other Helpful Links
 
 - [APA Committee on the Status of Women](http://www.apaonlinecsw.org)
 - [APA Resources on Diversity and Inclusiveness](https://www.apaonline.org/page/diversity_resources)
